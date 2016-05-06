@@ -1,0 +1,68 @@
+5033=Regular sale|5034=0|5035=2500|5026=1|
+5033=Acquisition|5034=1|5035=2500|5026=1|
+5033=Bunched Trade|5034=2|5035=2500|5026=1|
+5033=Cash Trade (Same Day Clearing)|5034=3|5035=2500|5026=1|
+5033=Distribution|5034=4|5035=2500|5026=1|
+5033=Automatic Execution|5034=5|5035=2500|5026=1|
+5033=Intermarket Sweep Order|5034=6|5035=2500|5026=1|
+5033=Bunched Sold Trades|5034=7|5035=2500|5026=1|
+5033=Price Variation Trade/Intraday trade detail|5034=8|5035=2500|5026=1|
+5033=CAP Election trade|5034=9|5035=2500|5026=1|
+5033=Rule 127 Trade (NYSE)|5034=10|5035=2500|5026=1|
+5033=Rule 155 Trade (AMEX)|5034=11|5035=2500|5026=1|
+5033=Sold Last (Late Reporting)|5034=12|5035=2500|5026=1|
+5033=Market Center Official Close|5034=13|5035=2500|5026=1|
+5033=Next Day Trade (Next Day Clearing)|5034=14|5035=2500|5026=1|
+5033=Market center opening trade|5034=15|5035=2500|5026=1|
+5033=Prior Reference Price|5034=16|5035=2500|5026=1|
+5033=Market Center Official Open|5034=17|5035=2500|5026=1|
+5033=Seller|5034=18|5035=2500|5026=1|
+5033=Split Trade|5034=19|5035=2500|5026=1|
+5033=Form T (Extended Trading Hours)|5034=20|5035=2500|5026=1|
+5033=Pre and Post Market Trade: Sold out of sequence|5034=21|5035=2500|5026=1|
+5033=Stock-Option Trade|5034=22|5035=2500|5026=1|
+5033=Average Price Trade|5034=23|5035=2500|5026=1|
+5033=Cross Trade|5034=24|5035=2500|5026=1|
+5033=Yellow Flag|5034=25|5035=2500|5026=1|
+5033=Sold (Out of Sequence)|5034=26|5035=2500|5026=1|
+5033=Stopped Stock Ð Regular Trade|5034=49|5035=2500|5026=1|
+5033=Stopped Stock Ð Sold Last|5034=50|5035=2500|5026=1|
+5033=Stopped Stock Ð Sold (Out of Sequence)|5034=51|5035=2500|5026=1|
+5033=Derivatively Priced|5034=52|5035=2500|5026=1|
+5033=Re-Opening Prints|5034=53|5035=2500|5026=1|
+5033=Closing Prints|5034=54|5035=2500|5026=1|
+5033=Placeholder for 611 exempt|5034=55|5035=2500|5026=1|
+5033=Placeholder for 611 exempt|5034=56|5035=2500|5026=1|
+5033=Placeholder for 611 exempt|5034=57|5035=2500|5026=1|
+5033=Regular open quote|5034=0|5035=2000|5026=1|
+5033=Slow quote on the offer side|5034=1|5035=2000|5026=1|
+5033=Slow quote on the bid side|5034=2|5035=2000|5026=1|
+5033=One-sided NBBO at market close|5034=3|5035=2000|5026=1|
+5033=News Dissemination|5034=4|5035=2000|5026=1|
+5033=Slow quote due to a NYSE liquidity replenishment point (NYSE LRP) or gap quote on the bid side|5034=5|5035=2000|5026=1|
+5033=Slow quote due to a NYSE liquidity replenishment point (NYSE LRP) or gap quote on the offer side|5034=6|5035=2000|5026=1|
+5033=Probable Trading Range|5034=7|5035=2000|5026=1|
+5033=Slow quote on the bid and offer sides|5034=10|5035=2000|5026=1|
+5033=Order Imbalance.|5034=11|5035=2000|5026=1|
+5033=Due to Related Security - News dissemination|5034=12|5035=2000|5026=1|
+5033=Due to Related Security - News pending|5034=13|5035=2000|5026=1|
+5033=Market Maker Quotes Closed (NASD)|5034=14|5035=2000|5026=1|
+5033=Additional Information|5034=15|5035=2000|5026=1|
+5033=Non-firm quote|5034=16|5035=2000|5026=1|
+5033=Opening quote|5034=17|5035=2000|5026=1|
+5033=News Pending|5034=20|5035=2000|5026=1|
+5033=Additional Information Due To Related Security|5034=21|5035=2000|5026=1|
+5033=Regular (for NASDAQ - Market Maker Open)|5034=22|5035=2000|5026=1|
+5033=Due to Related Security|5034=23|5035=2000|5026=1|
+5033=Resume|5034=24|5035=2000|5026=1|
+5033=Slow quote due to a NYSE liquidity replenishment point (NYSE LRP), AMEX tolerance breach (spread, momentum or gap trade tolerance), or gap quote on both the bid and offer sides|5034=25|5035=2000|5026=1|
+5033=In View of Common|5034=26|5035=2000|5026=1|
+5033=Slow quote due to Set Slow List on both the bid and offer sides|5034=27|5035=2000|5026=1|
+5033=Equipment Changeover|5034=30|5035=2000|5026=1|
+5033=Sub-Penny Trading|5034=31|5035=2000|5026=1|
+5033=No Open/Resume|5034=32|5035=2000|5026=1|
+5033=Normal / trade resume|5034=0|5035=2001|5026=1|
+5033=Halt|5034=1|5035=2001|5026=1|
+5033=Normal|5034=0|5035=2003|5026=1|
+5033=Crossed Market|5034=43|5035=2003|5026=1|
+5033=Locked Market|5034=54|5035=2003|5026=1|

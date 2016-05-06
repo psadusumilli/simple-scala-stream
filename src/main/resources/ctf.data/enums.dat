@@ -1,0 +1,2603 @@
+5033=Inactive Exchange starting Oct 29, 2007; was Nasdaq - Level 2|5034=9|5035=201|5026=1|
+5033=OPRA - Level 1 (Includes Composite & Regionals)|5034=12|5035=201|5026=1|
+5033=NYSE - Level 1 (Includes Composite & Regionals)|5034=13|5035=201|5026=1|
+5033=AMEX - Level 1 (Includes Composite & Regionals)|5034=14|5035=201|5026=1|
+5033=Nasdaq Level 1 (Includes Composite & Regionals)|5034=15|5035=201|5026=1|
+5033=CME (Chicago Mercantile Exchange)|5034=16|5035=201|5026=1|
+5033=COMEX (New York Commodities Exchange)|5034=18|5035=201|5026=1|
+5033=CBOT (Chicago Board of Trade)|5034=19|5035=201|5026=1|
+5033=NYBOT (New York Board of Trade)|5034=24|5035=201|5026=1|
+5033=NYMEX (New York Mercantile Exchange)|5034=26|5035=201|5026=1|
+5033=ComStock Network Time|5034=31|5035=201|5026=1|
+5033=Platts Coal Data International|5034=193|5035=201|5026=1|
+5033=Platts Coal Data U.S.|5034=194|5035=201|5026=1|
+5033=Platts North American  Natural Gas Prices Daily|5034=195|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=196|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=197|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=198|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=199|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=200|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=201|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=202|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=203|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=204|5035=201|5026=1|
+5033=Platts Inactive Exchange|5034=205|5035=201|5026=1|
+5033=Caracas Stock Exchange Level 1 (Direct)|5034=206|5035=201|5026=1|
+5033=Eurex Level 2|5034=207|5035=201|5026=1|
+5033=Virt-X Level 1|5034=208|5035=201|5026=1|
+5033=London Stock Exchange Domestic Level 2|5034=209|5035=201|5026=1|
+5033=Xetra Level 2|5034=210|5035=201|5026=1|
+5033=Xetra European Stars Level 1|5034=211|5035=201|5026=1|
+5033=Xetra US Stars Level 1|5034=212|5035=201|5026=1|
+5033=Deutsche Boerse Volatility Indices|5034=213|5035=201|5026=1|
+5033=Spanish Warrants|5034=214|5035=201|5026=1|
+5033=Spanish Stock Exchange Level 2 ( The next 5 best bids and asks )|5034=215|5035=201|5026=1|
+5033=Spanish Stock Exchange Level 1 ( Last Price )|5034=216|5035=201|5026=1|
+5033=Tokyo Level 2 JGB|5034=217|5035=201|5026=1|
+5033=Chi-X Market Data Level 2|5034=218|5035=201|5026=1|
+5033=NYSE - American Stock Exchange Regional Only|5034=225|5035=201|5026=1|
+5033=NYSE - Boston Stock Exchange Regional Only|5034=226|5035=201|5026=1|
+5033=NYSE - Cincinnati Stock Exchange Regional Only|5034=227|5035=201|5026=1|
+5033=NYSE - Chicago Stock Exchange Regional Only|5034=228|5035=201|5026=1|
+5033=NYSE - New York Stock Exchange Regional Only|5034=229|5035=201|5026=1|
+5033=NYSE - Pacific Stock Exchange Regional Only|5034=230|5035=201|5026=1|
+5033=NYSE - NASDAQ Regional Only|5034=231|5035=201|5026=1|
+5033=NYSE - CBOE Regional Only|5034=232|5035=201|5026=1|
+5033=NYSE - Philadelphia Stock Exchange Regional Only|5034=233|5035=201|5026=1|
+5033=AMEX - American Stock Exchange Regional Only|5034=234|5035=201|5026=1|
+5033=AMEX - Boston Stock Exchange Regional Only|5034=235|5035=201|5026=1|
+5033=AMEX - Cincinnati Stock Exchange Regional Only|5034=236|5035=201|5026=1|
+5033=AMEX - Chicago Stock Exchange Regional Only|5034=237|5035=201|5026=1|
+5033=AMEX - NYSE Regional Only|5034=238|5035=201|5026=1|
+5033=AMEX - NASDAQ Regional Only|5034=239|5035=201|5026=1|
+5033=AMEX - Pacific Stock Exchange Regional Only|5034=240|5035=201|5026=1|
+5033=AMEX - CBOE Regional Only|5034=241|5035=201|5026=1|
+5033=AMEX - Philadelphia Stock Exchange Regional Only|5034=242|5035=201|5026=1|
+5033=OPRA - AMEX Regional Only|5034=243|5035=201|5026=1|
+5033=Vienna Indices|5034=244|5035=201|5026=1|
+5033=OPRA - CBOE Regional Only|5034=245|5035=201|5026=1|
+5033=OPRA - ISE Regional Only|5034=246|5035=201|5026=1|
+5033=OPRA - Pacific Stock Exchange Regional Only|5034=247|5035=201|5026=1|
+5033=OPRA - Philadelphia Stock Exchange Regional Only|5034=248|5035=201|5026=1|
+5033=Nasdaq Level 2|5034=249|5035=201|5026=1|
+5033=OPRA - Boston Options Exchange Regional Only|5034=250|5035=201|5026=1|
+5033=RTS Stock Exchange - RTS|5034=257|5035=201|5026=1|
+5033=RTS Stock Exchange - Order Driven Stock Market|5034=258|5035=201|5026=1|
+5033=RTS Stock Exchange - FORTS|5034=259|5035=201|5026=1|
+5033=London Metal Exchange - Plastics Contracts|5034=260|5035=201|5026=1|
+5033=London Metal Exchange - Plastics Contracts Level 2|5034=261|5035=201|5026=1|
+5033=ICAP: FX Currency Options|5034=262|5035=201|5026=1|
+5033=ICAP Commodities|5034=263|5035=201|5026=1|
+5033=Tokyo Commodities Exchange|5034=264|5035=201|5026=1|
+5033=Tokyo Grain Exchange|5034=265|5035=201|5026=1|
+5033=Tel Aviv Stock Exchange|5034=266|5035=201|5026=1|
+5033=Intercontinental Exchange (ICE) Level 2|5034=267|5035=201|5026=1|
+5033=Euronext Continental Commodities Level2|5034=268|5035=201|5026=1|
+5033=Dow Jones Energy|5034=269|5035=201|5026=1|
+5033=PLUS Markets classed as liquid by CESR traded off exchange Level 1|5034=270|5035=201|5026=1|
+5033=Dubai Mercantile Exchange|5034=271|5035=201|5026=1|
+5033=GTIS Service: Select FX (Asian Pacific) Streaming|5034=272|5035=201|5026=1|
+5033=GTIS Service: Select FX (Asia Pacific) Snapshot|5034=273|5035=201|5026=1|
+5033=PBOT Indices|5034=274|5035=201|5026=1|
+5033=Hang Seng Indices|5034=275|5035=201|5026=1|
+5033=ICAP: US TReasuries|5034=276|5035=201|5026=1|
+5033=New Zealand Exchange : Market Data Level 2|5034=277|5035=201|5026=1|
+5033=Borsa Italiana: STS Module (electronic and gov bonds market) Level 2|5034=278|5035=201|5026=1|
+5033=Osaka Level Based Depth|5034=279|5035=201|5026=1|
+5033=Hercules|5034=280|5035=201|5026=1|
+5033=Hercules Level Based Depth|5034=281|5035=201|5026=1|
+5033=Conticap|5034=282|5035=201|5026=1|
+5033=Deutsche Boerse MiFID OTC Trades|5034=289|5035=201|5026=1|
+5033=JASDAQ : Market Data Level 2|5034=291|5035=201|5026=1|
+5033=Euronext OTC Market|5034=292|5035=201|5026=1|
+5033=Vienna OTC|5034=294|5035=201|5026=1|
+5033=BOAT Market Data Level 1|5034=295|5035=201|5026=1|
+5033=Inactive Exchange|5034=296|5035=201|5026=1|
+5033=Inactive Exchange|5034=297|5035=201|5026=1|
+5033=Inactive Exchange|5034=298|5035=201|5026=1|
+5033=Dubai Gold and Commodities Exchange|5034=299|5035=201|5026=1|
+5033=Inactive Exchange|5034=300|5035=201|5026=1|
+5033=Inactive Exchange|5034=301|5035=201|5026=1|
+5033=ICAP: Interest Rate Swaps (Asia Pacific)|5034=302|5035=201|5026=1|
+5033=ICAP: Interest Rate Swaps * IR Options (USA)|5034=303|5035=201|5026=1|
+5033=ICAP: Fixed Income (Asia Pacific)|5034=304|5035=201|5026=1|
+5033=OPRA - Nasdaq Regional|5034=305|5035=201|5026=1|
+5033=Chicago Board of Trade: E-Mini Contracts Level 1|5034=313|5035=201|5026=1|
+5033=OMX Nordic Exchange Baltic Equities & Fixed Income Level 2|5034=314|5035=201|5026=1|
+5033=NASDAQ: Last Sale Feed - NASDAQ Issues|5034=321|5035=201|5026=1|
+5033=NASDAQ: Last Sale Feed - NYSE/AMEX Issues|5034=322|5035=201|5026=1|
+5033=Eurex US Level 1|5034=323|5035=201|5026=1|
+5033=Eurex US Level 2|5034=324|5035=201|5026=1|
+5033=ARCA ECN Level 1|5034=325|5035=201|5026=1|
+5033=ARCA ECN Level 2|5034=326|5035=201|5026=1|
+5033=NYSE Open Book Level 1|5034=327|5035=201|5026=1|
+5033=NYSE Open Book Level 2|5034=328|5035=201|5026=1|
+5033=OneChicago|5034=329|5035=201|5026=1|
+5033=Nasdaq Single Book Exchange (Level 2)|5034=330|5035=201|5026=1|
+5033=ICAP: FX Spot and Forwards|5034=331|5035=201|5026=1|
+5033=ICAP Interest Rate Options|5034=332|5035=201|5026=1|
+5033=NASD ADF (Alternative Display Facility)|5034=333|5035=201|5026=1|
+5033=National Stock Exchange of India - Wholesale Debt Market|5034=334|5035=201|5026=1|
+5033=BOAT Market Data Level 2|5034=335|5035=201|5026=1|
+5033=Malaysia Derivatives Exchange (NON-KLI)|5034=336|5035=201|5026=1|
+5033=Nasdaq Money Markets|5034=337|5035=201|5026=1|
+5033=Nasdaq Mutual Funds|5034=338|5035=201|5026=1|
+5033=Nasdaq Unit Investment Trusts (UIT)|5034=339|5035=201|5026=1|
+5033=AMEX Indices|5034=340|5035=201|5026=1|
+5033=CBOE Indices|5034=341|5035=201|5026=1|
+5033=CME Indices|5034=342|5035=201|5026=1|
+5033=Dow Jones Indices|5034=343|5035=201|5026=1|
+5033=NYSE Indices|5034=344|5035=201|5026=1|
+5033=Nasdaq Indices|5034=345|5035=201|5026=1|
+5033=S&P Indices (CME Sourced)|5034=346|5035=201|5026=1|
+5033=Nagoya Stock Exchange|5034=353|5035=201|5026=1|
+5033=Nikkei Indices|5034=354|5035=201|5026=1|
+5033=Osaka Stock Exchange|5034=355|5035=201|5026=1|
+5033=Core Euronext Indices (CAC40, AEX, AMX, BELevel 20, Euronext100 and Next 150)|5034=356|5035=201|5026=1|
+5033=German Stock Exchange - Neuer Market Equities|5034=357|5035=201|5026=1|
+5033=S&P Forex - HSBC, CMC, SE(SIX) and Citibank|5034=358|5035=201|5026=1|
+5033=Inactive Exchange starting Oct 3, 2007; was SURF Swap Markers|5034=359|5035=201|5026=1|
+5033=OPRA Foreign Currency Options (FCO)|5034=360|5035=201|5026=1|
+5033=NASDAQ Other OTC issues|5034=361|5035=201|5026=1|
+5033=NYBOT Special Indices|5034=362|5035=201|5026=1|
+5033=NASDAQ OTC Bulletin Board|5034=363|5035=201|5026=1|
+5033=CME eMini|5034=364|5035=201|5026=1|
+5033=Montreal Stock Exchange|5034=365|5035=201|5026=1|
+5033=Montreal Options|5034=366|5035=201|5026=1|
+5033=CBOT - ECBOT Depth|5034=367|5035=201|5026=1|
+5033=Spanish Regional Exchanges|5034=368|5035=201|5026=1|
+5033=MEFF RF - Financial Derivatives|5034=369|5035=201|5026=1|
+5033=MEFF RV - Equity Derivatives|5034=370|5035=201|5026=1|
+5033=Toronto Stock Exchange Level 2|5034=371|5035=201|5026=1|
+5033=Toronto Stock Exchange Level 1|5034=372|5035=201|5026=1|
+5033=Tokyo Stock Exchange|5034=373|5035=201|5026=1|
+5033=TSX Venture Exchange|5034=374|5035=201|5026=1|
+5033=TSX Venture Exchange Level 2|5034=375|5035=201|5026=1|
+5033=Korean Stock Exchange Level 2|5034=376|5035=201|5026=1|
+5033=KOSDAQ Level 2|5034=377|5035=201|5026=1|
+5033=Street Software|5034=378|5035=201|5026=1|
+5033=AMEX - Composite Only|5034=545|5035=201|5026=1|
+5033=Nasdaq - Boston Stock Exchange Regional Only|5034=546|5035=201|5026=1|
+5033=Nasdaq - Cincinnati Stock Exchange Regional Only|5034=547|5035=201|5026=1|
+5033=Nasdaq - American Stock Exchange Regional Only|5034=548|5035=201|5026=1|
+5033=Nasdaq - Chicago Stock Exchange Regional Only|5034=549|5035=201|5026=1|
+5033=Nasdaq - New York Stock Exchange Regional Only|5034=550|5035=201|5026=1|
+5033=Nasdaq - Pacific Stock Exchange Regional Only (ArcaEx)|5034=551|5035=201|5026=1|
+5033=Nasdaq - Nasdaq Regional Only|5034=552|5035=201|5026=1|
+5033=Nasdaq - Philadelphia Stock Exchange Regional Only|5034=553|5035=201|5026=1|
+5033=Nasdaq - ADF Regional Only|5034=554|5035=201|5026=1|
+5033=NASDAQ: Market Velocity and Forces|5034=555|5035=201|5026=1|
+5033=Nasdaq - Chicago Board Options Exchange|5034=556|5035=201|5026=1|
+5033=Nasdaq - International Securities Exchange|5034=557|5035=201|5026=1|
+5033=NYSE - Composite Only|5034=558|5035=201|5026=1|
+5033=OPRA - Composite Only|5034=559|5035=201|5026=1|
+5033=Amex -- Nasd Split|5034=560|5035=201|5026=1|
+5033=Amex -- International Securities Exchange|5034=561|5035=201|5026=1|
+5033=NYSE -- Nasd Split|5034=562|5035=201|5026=1|
+5033=NYSE-- International Securities Exchange|5034=563|5035=201|5026=1|
+5033=Nasdaq - Composite Only|5034=564|5035=201|5026=1|
+5033=Candeal.ca Inc|5034=565|5035=201|5026=1|
+5033=Jakarta  Stock Exchange|5034=566|5035=201|5026=1|
+5033=Philippine Stock Exchange (PSE)|5034=567|5035=201|5026=1|
+5033=AMEX Bond Guide - S&P Fundamentals|5034=568|5035=201|5026=1|
+5033=NYSE Corporate Bond Guide - S&P Fundamentals|5034=569|5035=201|5026=1|
+5033=Inactive Exchange starting Oct 29, 2007; was NYMEX OTC|5034=570|5035=201|5026=1|
+5033=Singapore Exchange (SGX) Equities Market Level 2|5034=641|5035=201|5026=1|
+5033=Euronext Equities & Index Derivatives Level 2 (BBO 10)|5034=642|5035=201|5026=1|
+5033=Euronext Interest Rate Futures and Options Level 2 (BBO 10)|5034=643|5035=201|5026=1|
+5033=Vienna Derivatives Market Level 2|5034=644|5035=201|5026=1|
+5033=Prague Stock Exchange|5034=645|5035=201|5026=1|
+5033=London Stock Exchange UK Equity Market Service Level 1 Plus|5034=646|5035=201|5026=1|
+5033=London Stock Exchange International Equity Market Service Level 1 Plus|5034=647|5035=201|5026=1|
+5033=Inactive Exchange|5034=648|5035=201|5026=1|
+5033=EuroMTS - MTS Markets Level 1 & Level 2|5034=649|5035=201|5026=1|
+5033=Inactive Exchange starting Oct 3, 2007; was Tullett and Tokyo Surf -  Options, Misc. Fixings and Mor|5034=650|5035=201|5026=1|
+5033=Luxembourg Stock Exchange - Level 1 and Indices|5034=651|5035=201|5026=1|
+5033=Borsa Italiana: DER Module (derivatives market) Level 2|5034=652|5035=201|5026=1|
+5033=CBOE Indices feed|5034=653|5035=201|5026=1|
+5033=Economic & Financial Indicators and Global Closing Equity Indices|5034=654|5035=201|5026=1|
+5033=Bulgaria Stock Exchange|5034=655|5035=201|5026=1|
+5033=Xetra European Stars Level 2|5034=656|5035=201|5026=1|
+5033=Xetra US Stars Level 2|5034=657|5035=201|5026=1|
+5033=IBEX Indices|5034=658|5035=201|5026=1|
+5033=Johannesburg Indices|5034=659|5035=201|5026=1|
+5033=OMX - Nordic Basic Indices|5034=660|5035=201|5026=1|
+5033=iBoxx Indices|5034=661|5035=201|5026=1|
+5033=Virt-X Level 2|5034=662|5035=201|5026=1|
+5033=OMX - Nordic Equities Level 2|5034=663|5035=201|5026=1|
+5033=Bucharest Stock Exchange|5034=664|5035=201|5026=1|
+5033=Inactive Exchange starting Jan 9, 2008; was Euribor|5034=665|5035=201|5026=1|
+5033=CBOE Futures Exchange|5034=666|5035=201|5026=1|
+5033=CME E-mini RLC Level 2|5034=673|5035=201|5026=1|
+5033=CBOT (Chicago Board of Trade)|5034=674|5035=201|5026=1|
+5033=NYBOT (New York Board of Trade)|5034=675|5035=201|5026=1|
+5033=CME Globex RLC Level 2|5034=676|5035=201|5026=1|
+5033=COMEX (New York Commodities Exchange)|5034=677|5035=201|5026=1|
+5033=NYMEX e-miNY Futures|5034=678|5035=201|5026=1|
+5033=Minneapolis Grain Exchange|5034=679|5035=201|5026=1|
+5033=CME GLOBEX|5034=680|5035=201|5026=1|
+5033=GTIS Basic FX Snapshot|5034=681|5035=201|5026=1|
+5033=GTIS Full FX Snapshot|5034=682|5035=201|5026=1|
+5033=KCBT (Kansas City Board of Trade)|5034=683|5035=201|5026=1|
+5033=CME eMini Equity Package|5034=684|5035=201|5026=1|
+5033=CME RTH|5034=685|5035=201|5026=1|
+5033=New York Mercantile Exchange - NYMEX|5034=686|5035=201|5026=1|
+5033=GTIS Spot and Forward Full FX|5034=687|5035=201|5026=1|
+5033=Inactive Exchange|5034=688|5035=201|5026=1|
+5033=GTIS Spot and Forward FX|5034=689|5035=201|5026=1|
+5033=GTIS BBA LIBOR|5034=690|5035=201|5026=1|
+5033=GTIS Precious Metals|5034=691|5035=201|5026=1|
+5033=GTIS Fixed Income|5034=692|5035=201|5026=1|
+5033=CBOT - ECBOT|5034=693|5035=201|5026=1|
+5033=CME Indices|5034=694|5035=201|5026=1|
+5033=Winnipeg Commodity Exchange|5034=695|5035=201|5026=1|
+5033=GTIS Money Markets|5034=696|5035=201|5026=1|
+5033=ASX Equities, Futures, Warrants and Bonds Level 2|5034=697|5035=201|5026=1|
+5033=S&P Indices (CME Sourced)|5034=698|5035=201|5026=1|
+5033=SWX Swiss Exchange|5034=705|5035=201|5026=1|
+5033=Euronext Commodities Level 2|5034=706|5035=201|5026=1|
+5033=German Stock Exchange - Dow Jones STOXX Indices|5034=707|5035=201|5026=1|
+5033=OPRA Mitigated Exchange|5034=708|5035=201|5026=1|
+5033=Bern Stocks|5034=709|5035=201|5026=1|
+5033=Hong Kong Futures Exchange|5034=710|5035=201|5026=1|
+5033=OMX - VINX Indices|5034=711|5035=201|5026=1|
+5033=Hong Kong Stock Exchange|5034=712|5035=201|5026=1|
+5033=Singapore Exchange (SGX)|5034=713|5035=201|5026=1|
+5033=Kuala Lumpur Stock Exchange|5034=714|5035=201|5026=1|
+5033=SAFEX|5034=715|5035=201|5026=1|
+5033=NYSE Corporate Bonds (ABS-Automated Bond System)|5034=716|5035=201|5026=1|
+5033=ComStock Internal Test Exchange|5034=717|5035=201|5026=1|
+5033=New Zealand Futures Exchange|5034=718|5035=201|5026=1|
+5033=NYSE TickStream|5034=719|5035=201|5026=1|
+5033=Euronext Equities and Bonds Level 1 - Quotes|5034=720|5035=201|5026=1|
+5033=Malaysia Derivatives Exchange (KLI ONLY)|5034=721|5035=201|5026=1|
+5033=Swiss Bonds and Warrants|5034=722|5035=201|5026=1|
+5033=Singapore International Monetary Exchange (SIMEX)|5034=723|5035=201|5026=1|
+5033=FTSE BBC Index|5034=724|5035=201|5026=1|
+5033=OMX - Nordic Equities Level 1|5034=725|5035=201|5026=1|
+5033=Baltic Futures and Indices Exchange|5034=726|5035=201|5026=1|
+5033=New Zealand Futures Exchange Level 2|5034=727|5035=201|5026=1|
+5033=Australian Stock Exchange|5034=728|5035=201|5026=1|
+5033=NYMEX emiNY contracts|5034=729|5035=201|5026=1|
+5033=Euronext Indices|5034=730|5035=201|5026=1|
+5033=Nasdaq Market on Close|5034=737|5035=201|5026=1|
+5033=Euronext Derivatives - Equity and Index Options Level 1|5034=738|5035=201|5026=1|
+5033=Eurex Repos|5034=739|5035=201|5026=1|
+5033=Euronext Equities and Bonds Level 2|5034=740|5035=201|5026=1|
+5033=IOPV Data|5034=741|5035=201|5026=1|
+5033=London International Financial Future Exchange (LIFFE)|5034=742|5035=201|5026=1|
+5033=Milan Stock Exchange Level 1 (Equities, Warrants, New Market, Block Trades, OTC)|5034=743|5035=201|5026=1|
+5033=Swiss Indices (Formerly SOFFEX)|5034=744|5035=201|5026=1|
+5033=FTSE Indices|5034=745|5035=201|5026=1|
+5033=Tallin, Riga and Vilnius Stock Exchanges|5034=746|5035=201|5026=1|
+5033=German Regional Exchanges - Berlin, Hanover, Frankfurt, Dusseldorf, Neuer Market, Hamburg, Bremen an|5034=747|5035=201|5026=1|
+5033=EUREX German/European Derivatives (Futures and Options)|5034=748|5035=201|5026=1|
+5033=Sydney Futures Exchange|5034=749|5035=201|5026=1|
+5033=EuroMTS Indices|5034=750|5035=201|5026=1|
+5033=Inactive Exchange|5034=751|5035=201|5026=1|
+5033=Irish Stock Exchange Level 2|5034=752|5035=201|5026=1|
+5033=Euronext Interest Rate and Futures Options Level 1|5034=753|5035=201|5026=1|
+5033=Euronext Equities and Bonds Level 1 - Trades|5034=754|5035=201|5026=1|
+5033=London Stock Exchange Domestic (UK) Level 1|5034=755|5035=201|5026=1|
+5033=Intercontinental Exchange (ICE)|5034=756|5035=201|5026=1|
+5033=London Stock Exchange International Level 1|5034=757|5035=201|5026=1|
+5033=PLUS Mkts - Securities classed as Liquid by CESR traded on exhange Level 1|5034=758|5035=201|5026=1|
+5033=Sydney Futures Exchange Level 2|5034=759|5035=201|5026=1|
+5033=World Indices, Libor, Euribor, Eonia, and Misc.|5034=760|5035=201|5026=1|
+5033=PLUS Mkts - Securities not classed Liquid by CESR traded on exhange Level 2|5034=761|5035=201|5026=1|
+5033=Xetra|5034=762|5035=201|5026=1|
+5033=Platts Crude Oil -International|5034=801|5035=201|5026=1|
+5033=Platts Bunker Prices|5034=802|5035=201|5026=1|
+5033=Platts Futures Closing Prices|5034=803|5035=201|5026=1|
+5033=Platts Tanker Rates|5034=804|5035=201|5026=1|
+5033=Platts North American Natural Gas Prices Monthly|5034=805|5035=201|5026=1|
+5033=Platts  Intraday Indications|5034=806|5035=201|5026=1|
+5033=Platts European Natural Gas Prices|5034=807|5035=201|5026=1|
+5033=Platts Petroleum Derivatives Asia|5034=808|5035=201|5026=1|
+5033=Platts Feedstock Prices|5034=809|5035=201|5026=1|
+5033=Platts European Electricity Prices|5034=810|5035=201|5026=1|
+5033=Platts US LPGas Prices|5034=811|5035=201|5026=1|
+5033=Platts Electricity Forwards US|5034=812|5035=201|5026=1|
+5033=Platts Metals Prices|5034=813|5035=201|5026=1|
+5033=Platts Asia/AG Product Prices|5034=814|5035=201|5026=1|
+5033=Platts European Product Prices|5034=815|5035=201|5026=1|
+5033=Platts Petrochemical Prices|5034=816|5035=201|5026=1|
+5033=Platts US Product Prices - Light Ends / Latam|5034=817|5035=201|5026=1|
+5033=Platts International LPGas Prices|5034=818|5035=201|5026=1|
+5033=Platts US Racks Prices|5034=819|5035=201|5026=1|
+5033=Platts Misc. Petroleum Data (API/DOE Statistics, Indices, Forex, Weekly/Monthly/Averages|5034=820|5035=201|5026=1|
+5033=Platts US Electricity Prices|5034=821|5035=201|5026=1|
+5033=Platts US Product Prices  Resids|5034=822|5035=201|5026=1|
+5033=Platts Petroleum Derivatives Americas|5034=823|5035=201|5026=1|
+5033=Platts Crude Oil  N. America|5034=824|5035=201|5026=1|
+5033=Platts Yields & Netbacks|5034=825|5035=201|5026=1|
+5033=Platts Petroleum Derivatives EMEA|5034=826|5035=201|5026=1|
+5033=LSE Level 2 Order Book|5034=865|5035=201|5026=1|
+5033=Lima Stock Exchange Level 1 (BVL)|5034=866|5035=201|5026=1|
+5033=Swiss Stock Exchange Level 2|5034=867|5035=201|5026=1|
+5033=Prague Level 2|5034=868|5035=201|5026=1|
+5033=Swiss Bonds and Warrants Level 2|5034=869|5035=201|5026=1|
+5033=Vienna Cash Market Level 2|5034=870|5035=201|5026=1|
+5033=iBoxx Euro Consolidated|5034=871|5035=201|5026=1|
+5033=iBoxx Sterling Consolidated|5034=872|5035=201|5026=1|
+5033=LSE International Level 2|5034=873|5035=201|5026=1|
+5033=Bratislava Stock Exchange: Level 1|5034=874|5035=201|5026=1|
+5033=Bratislava Stock Exchange: Level 2|5034=875|5035=201|5026=1|
+5033=Hong Kong Futures Exchange Level 2|5034=876|5035=201|5026=1|
+5033=Tullett - Benchmark and off-the-run Government Bonds|5034=877|5035=201|5026=1|
+5033=Tullett - Interest Rate Swaps, FRAs and OIS|5034=878|5035=201|5026=1|
+5033=Tullett - Spot FX, Forward FX, NDFs and Cash Deposit|5034=879|5035=201|5026=1|
+5033=Tullett - FX Options|5034=880|5035=201|5026=1|
+5033=Tullett - Interest Rate Options and Swaptions (ATM)|5034=881|5035=201|5026=1|
+5033=Tullett - Mortgage Data|5034=882|5035=201|5026=1|
+5033=Tullett - Inflation Derivatives|5034=883|5035=201|5026=1|
+5033=Tullett - Out of the Money Swaptions and IR Option Surfaces|5034=884|5035=201|5026=1|
+5033=Tullett - Credit Default Swaps|5034=885|5035=201|5026=1|
+5033=PLUS Markets - Securities not classed Liquid by CESR traded off Exch Level 2|5034=886|5035=201|5026=1|
+5033=ASX ITS Index|5034=887|5035=201|5026=1|
+5033=ASX ITS Options Level 2|5034=888|5035=201|5026=1|
+5033=ASX ITS Options Level 1|5034=889|5035=201|5026=1|
+5033=LMEmini Level 1|5034=890|5035=201|5026=1|
+5033=FTSE  Index Xinhua|5034=897|5035=201|5026=1|
+5033=Shenzen Stock Exchange Xinhua|5034=898|5035=201|5026=1|
+5033=Shanghai Stock Exchange Xinhua|5034=899|5035=201|5026=1|
+5033=Milan Bonds Level 1|5034=900|5035=201|5026=1|
+5033=Milan Stocks Level 2|5034=901|5035=201|5026=1|
+5033=Milan Indices|5034=902|5035=201|5026=1|
+5033=Milan Derivatives (Futures and Options)|5034=903|5035=201|5026=1|
+5033=Athens Stock Exchange|5034=904|5035=201|5026=1|
+5033=Inactive Exchange starting Jan 3, 2007; was GFI FX Options - 4 point smile|5034=905|5035=201|5026=1|
+5033=OMX - Nordic Derivatives Level 1|5034=906|5035=201|5026=1|
+5033=Athens Stock Exchange Indices|5034=907|5035=201|5026=1|
+5033=Stuttgart Derivatives Exchange|5034=908|5035=201|5026=1|
+5033=KOSDAQ Level 1|5034=909|5035=201|5026=1|
+5033=Korea Stock Exchange|5034=910|5035=201|5026=1|
+5033=Bombay Stock Exchange Level 1|5034=911|5035=201|5026=1|
+5033=Bombay Stock Exchange Indices and SENSEX|5034=912|5035=201|5026=1|
+5033=JASDAQ|5034=913|5035=201|5026=1|
+5033=ETF Project Fixed Income Valuations|5034=914|5035=201|5026=1|
+5033=Taiwan OTC [ E1:Sym] and UTS [E:Sym]|5034=915|5035=201|5026=1|
+5033=Taiwan Stock Exchange|5034=916|5035=201|5026=1|
+5033=ICAP: Deposits and CDs|5034=917|5035=201|5026=1|
+5033=New Zealand Stock Exchange|5034=918|5035=201|5026=1|
+5033=Johannesburg Stock Exchange|5034=919|5035=201|5026=1|
+5033=Thailand Stock Exchange|5034=920|5035=201|5026=1|
+5033=Korean Stock Exchange Indices|5034=921|5035=201|5026=1|
+5033=UTC Time Stamp|5034=922|5035=201|5026=1|
+5033=Inactive Exchange|5034=929|5035=201|5026=1|
+5033=LME Level 1|5034=930|5035=201|5026=1|
+5033=LME Level 2|5034=931|5035=201|5026=1|
+5033=Turkey Stock Exchange|5034=932|5035=201|5026=1|
+5033=POSIT- ITG Stock Exchange|5034=933|5035=201|5026=1|
+5033=MSCI Indices|5034=934|5035=201|5026=1|
+5033=ICAP: Interest Rate Swaps|5034=935|5035=201|5026=1|
+5033=Tokyo Stock Exchange Level 2|5034=936|5035=201|5026=1|
+5033=Brazilian Mercantile and Futures Exchange (BM&F)|5034=937|5035=201|5026=1|
+5033=Hong Kong Stock Exchange Level 2|5034=938|5035=201|5026=1|
+5033=Pink Sheets Level 1 (Sourced from PinkSheets.com)|5034=939|5035=201|5026=1|
+5033=Pink Sheets Level 2(Sourced from PinkSheets.com)|5034=940|5035=201|5026=1|
+5033=National Stock Exchange of India - Equities and Indices|5034=941|5035=201|5026=1|
+5033=LMEmini Level 2|5034=942|5035=201|5026=1|
+5033=National Stock Exchange of India - Futures and Options arket|5034=943|5035=201|5026=1|
+5033=Warsaw Stock Exchange - Level 1|5034=944|5035=201|5026=1|
+5033=CBOT E-Mini Contracts Level-2|5034=945|5035=201|5026=1|
+5033=Oslo Stock Exchange Level 1|5034=946|5035=201|5026=1|
+5033=Oslo Stock Exchange Level 2|5034=947|5035=201|5026=1|
+5033=OMX - Nordic Derivatives Level 2|5034=948|5035=201|5026=1|
+5033=OMX - Nordic Fixed Income Level 2|5034=949|5035=201|5026=1|
+5033=Budapest  Stock Exchange Equities|5034=950|5035=201|5026=1|
+5033=Budapest  Stock Exchange Indices|5034=951|5035=201|5026=1|
+5033=Swiss Non Listed Investment Funds|5034=952|5035=201|5026=1|
+5033=OMX - Nordic Fixed Income Level 1|5034=953|5035=201|5026=1|
+5033=Irish Stock Exchange Bonds & Funds|5034=954|5035=201|5026=1|
+5033=Taiwan Bond|5034=961|5035=201|5026=1|
+5033=Irish Stock Exchange Equities|5034=962|5035=201|5026=1|
+5033=CBOT - ECBOT Depth|5034=963|5035=201|5026=1|
+5033=Buenos Aires Stock Exchange Stock Bonds, Indices|5034=964|5035=201|5026=1|
+5033=Brazilian SOMA|5034=965|5035=201|5026=1|
+5033=Spanish Stock Exchange Level 1 Plus (Best Bid and Ask Prices)|5034=966|5035=201|5026=1|
+5033=Vienna Derivatives Market Level 1|5034=967|5035=201|5026=1|
+5033=Vienna Cash Market Level 1|5034=968|5035=201|5026=1|
+5033=ICAP: Fixed Income (excl US Treasuries)|5034=969|5035=201|5026=1|
+5033=GTIS Energy Prices|5034=970|5035=201|5026=1|
+5033=Tokyo Stock Exchange End of Day|5034=971|5035=201|5026=1|
+5033=London Stock Exchange Covered Warrants Level 1|5034=972|5035=201|5026=1|
+5033=Hanover Commodities Exchange|5034=973|5035=201|5026=1|
+5033=Inactive Exchange starting Jan 3, 2007; was GFI - Repos|5034=974|5035=201|5026=1|
+5033=Stuttgart Equities, Bonds and Indices Exchange|5034=975|5035=201|5026=1|
+5033=German Stock Exchange Indices and ETFs|5034=976|5035=201|5026=1|
+5033=Irish Stock Exchange Indices|5034=977|5035=201|5026=1|
+5033=Newex Stocks Eastern Europe Stocks|5034=978|5035=201|5026=1|
+5033=European Energy Exchange|5034=979|5035=201|5026=1|
+5033=Newex Indices|5034=980|5035=201|5026=1|
+5033=Sao Paulo Stock Exchange (BOVESPA)|5034=981|5035=201|5026=1|
+5033=Santiago Stock Exchange (Chile)|5034=982|5035=201|5026=1|
+5033=Caracas Stock Exchange Regular Term and Counted (SIF sourced)|5034=983|5035=201|5026=1|
+5033=Mexico Stock Exchange|5034=984|5035=201|5026=1|
+5033=Spanish Funds (Fondos FIM, FIAMM & Tesoros)|5034=985|5035=201|5026=1|
+5033=Spanish Fixed Income (AIAF)|5034=986|5035=201|5026=1|
+5033=United Arab Emirates Dirham|5034=10504|5035=262|5026=1|
+5033=Afghanistan Afghani|5034=10601|5035=262|5026=1|
+5033=Albanian Lek|5034=11414|5035=262|5026=1|
+5033=Netherlands Antilles Guilder|5034=11607|5035=262|5026=1|
+5033=Angola Kwanza|5034=11716|5035=262|5026=1|
+5033=Argentine Peso|5034=12223|5035=262|5026=1|
+5033=Austrian Schilling|5034=12423|5035=262|5026=1|
+5033=Australian Dollar|5034=12504|5035=262|5026=1|
+5033=Aruba Guilder|5034=12707|5035=262|5026=1|
+5033=Barbados Dollar|5034=20204|5035=262|5026=1|
+5033=Bangladesh Taka|5034=20424|5035=262|5026=1|
+5033=Belgian Franc|5034=20503|5035=262|5026=1|
+5033=Bulgaria Lev|5034=20716|5035=262|5026=1|
+5033=Bahraini Dinar|5034=21004|5035=262|5026=1|
+5033=Burundi Franc|5034=21106|5035=262|5026=1|
+5033=Bermudan Dollar|5034=21504|5035=262|5026=1|
+5033=Brunei Dollar|5034=21604|5035=262|5026=1|
+5033=Bolivian Boliviano|5034=21702|5035=262|5026=1|
+5033=Brazilian Real|5034=22214|5035=262|5026=1|
+5033=Bahamas Dollar|5034=22304|5035=262|5026=1|
+5033=Bhutan Ngultrum|5034=22416|5035=262|5026=1|
+5033=Botswana Pula|5034=22720|5035=262|5026=1|
+5033=Belize Dollar|5034=23204|5035=262|5026=1|
+5033=Canadian Dollar|5034=30104|5035=262|5026=1|
+5033=Swiss Franc|5034=31006|5035=262|5026=1|
+5033=Chilean Peso|5034=31420|5035=262|5026=1|
+5033=Chinese Yuan Renminbi|5034=31631|5035=262|5026=1|
+5033=Columbian Peso|5034=31720|5035=262|5026=1|
+5033=Costa Rican Colon|5034=32203|5035=262|5026=1|
+5033=Cuba Peso|5034=32520|5035=262|5026=1|
+5033=Cape Verde Escudo|5034=32605|5035=262|5026=1|
+5033=Cyprus Pound|5034=33120|5035=262|5026=1|
+5033=Czech Koruna|5034=33213|5035=262|5026=1|
+5033=German Mark|5034=40515|5035=262|5026=1|
+5033=Djibouti Franc|5034=41206|5035=262|5026=1|
+5033=Danish Krone|5034=41313|5035=262|5026=1|
+5033=Dominican Republic Peso|5034=41720|5035=262|5026=1|
+5033=Algerian Dinar|5034=43204|5035=262|5026=1|
+5033=Ecuadorian Sucre|5034=50323|5035=262|5026=1|
+5033=Estonian Kroon|5034=50513|5035=262|5026=1|
+5033=Egyptian Pound|5034=50720|5035=262|5026=1|
+5033=Spanish Peseta|5034=52320|5035=262|5026=1|
+5033=Ethiopian Birr|5034=52402|5035=262|5026=1|
+5033=Euro*|5034=52522|5035=262|5026=1|
+5033=Finnish Markka|5034=61115|5035=262|5026=1|
+5033=Fiji Dollar|5034=61204|5035=262|5026=1|
+5033=French Franc|5034=62206|5035=262|5026=1|
+5033=British Pound*|5034=70220|5035=262|5026=1|
+5033=British Pence|5034=70230|5035=262|5026=1|
+5033=Ghana Cedi|5034=71003|5035=262|5026=1|
+5033=Gibraltar Pound|5034=71120|5035=262|5026=1|
+5033=Gambian Dalasi|5034=71504|5035=262|5026=1|
+5033=Guinea Republic Franc|5034=71606|5035=262|5026=1|
+5033=Greek Drachma|5034=72204|5035=262|5026=1|
+5033=Guatemala Quetzal|5034=72421|5035=262|5026=1|
+5033=Guinea Bissau Peso|5034=72720|5035=262|5026=1|
+5033=Guyana Dollar|5034=73104|5035=262|5026=1|
+5033=Hong Kong Dollar|5034=101304|5035=262|5026=1|
+5033=Honduras Lempira|5034=101614|5035=262|5026=1|
+5033=Croatian Kuna|5034=102213|5035=262|5026=1|
+5033=Haiti Gourde|5034=102407|5035=262|5026=1|
+5033=Hungarian Forint|5034=102506|5035=262|5026=1|
+5033=Indonesian Rupiah|5034=110422|5035=262|5026=1|
+5033=Irish Punt|5034=110520|5035=262|5026=1|
+5033=Israeli Shekel|5034=111423|5035=262|5026=1|
+5033=Indian Rupee|5034=111622|5035=262|5026=1|
+5033=Iranian Real|5034=112222|5035=262|5026=1|
+5033=Iceland Krona|5034=112313|5035=262|5026=1|
+5033=Italian Lira|5034=112414|5035=262|5026=1|
+5033=Jamaican Dollar|5034=121504|5035=262|5026=1|
+5033=Jordanian Dinar|5034=121704|5035=262|5026=1|
+5033=Japanese Yen|5034=122031|5035=262|5026=1|
+5033=Kenyan Schilling|5034=130523|5035=262|5026=1|
+5033=Comoros Franc|5034=131506|5035=262|5026=1|
+5033=Korean Won|5034=132227|5035=262|5026=1|
+5033=Kuwaiti Dinar|5034=132704|5035=262|5026=1|
+5033=Cayman Islands Dollar|5034=133104|5035=262|5026=1|
+5033=Laos Kip|5034=140113|5035=262|5026=1|
+5033=Lebanese Pound|5034=140220|5035=262|5026=1|
+5033=Sri Lankan Rupee|5034=141322|5035=262|5026=1|
+5033=Liberia Dollar|5034=142204|5035=262|5026=1|
+5033=Lesotho Loti|5034=142314|5035=262|5026=1|
+5033=Lithuanian Litas|5034=142414|5035=262|5026=1|
+5033=Luxemburg Franc|5034=142506|5035=262|5026=1|
+5033=Latvia Lat|5034=142614|5035=262|5026=1|
+5033=Moroccan Diham|5034=150104|5035=262|5026=1|
+5033=Madagascar Franc|5034=150706|5035=262|5026=1|
+5033=Myanmar Kyat|5034=151513|5035=262|5026=1|
+5033=Mongolian Tugrit|5034=151624|5035=262|5026=1|
+5033=Macao Pataca|5034=151720|5035=262|5026=1|
+5033=Mauritanian Ouguiya|5034=152217|5035=262|5026=1|
+5033=Maltese Lira|5034=152414|5035=262|5026=1|
+5033=Mauritius Rupee|5034=152522|5035=262|5026=1|
+5033=Maldives Rufiyan|5034=152622|5035=262|5026=1|
+5033=Malawi Kwacha|5034=152713|5035=262|5026=1|
+5033=Mexican Nuevo Peso|5034=153016|5035=262|5026=1|
+5033=Malaysian Ringgit|5034=153122|5035=262|5026=1|
+5033=Mozambique Metical|5034=153215|5035=262|5026=1|
+5033=Nigerian Naira|5034=160716|5035=262|5026=1|
+5033=Nicaraguan Cordoba|5034=161117|5035=262|5026=1|
+5033=Dutch Guilder|5034=161407|5035=262|5026=1|
+5033=Norwegian Krone|5034=161713|5035=262|5026=1|
+5033=Nepal Rupee|5034=162022|5035=262|5026=1|
+5033=New Zealand Dollar|5034=163204|5035=262|5026=1|
+5033=Omani Rial|5034=171522|5035=262|5026=1|
+5033=Panama Balboa|5034=200102|5035=262|5026=1|
+5033=Peru Nuevo Sol|5034=200516|5035=262|5026=1|
+5033=Papua New Guinea Kina|5034=200713|5035=262|5026=1|
+5033=Philippine Peso|5034=201020|5035=262|5026=1|
+5033=Pakistani Rupee|5034=201322|5035=262|5026=1|
+5033=Poland Zloty|5034=201416|5035=262|5026=1|
+5033=Portuguese Escudo|5034=202405|5035=262|5026=1|
+5033=Paraguay Guarani|5034=203107|5035=262|5026=1|
+5033=Qatari Rial|5034=210122|5035=262|5026=1|
+5033=Romania Leu|5034=221714|5035=262|5026=1|
+5033=Romanian New Leu|5034=221716|5035=262|5026=1|
+5033=Russian Ruble|5034=222502|5035=262|5026=1|
+5033=Rwanda Franc|5034=222706|5035=262|5026=1|
+5033=Saudi Rial|5034=230122|5035=262|5026=1|
+5033=Solomon Island Dollar|5034=230204|5035=262|5026=1|
+5033=Seychelles Rupee|5034=230322|5035=262|5026=1|
+5033=Sudan Dinar|5034=230404|5035=262|5026=1|
+5033=Swedish Krona|5034=230513|5035=262|5026=1|
+5033=Singapore Dollar|5034=230704|5035=262|5026=1|
+5033=St. Helena Pound|5034=231020|5035=262|5026=1|
+5033=Slovenian Tolar|5034=231124|5035=262|5026=1|
+5033=Slovakian Koruna|5034=231313|5035=262|5026=1|
+5033=Sierra Leone Leone|5034=231414|5035=262|5026=1|
+5033=Somalia Schilling|5034=231723|5035=262|5026=1|
+5033=Suriname Guilder|5034=232207|5035=262|5026=1|
+5033=Sao Tome & Principe Dobra|5034=232404|5035=262|5026=1|
+5033=El Salvador Colon|5034=232603|5035=262|5026=1|
+5033=Syrian Pound|5034=233120|5035=262|5026=1|
+5033=Swaziland Lilangeni|5034=233214|5035=262|5026=1|
+5033=Thai Baht|5034=241002|5035=262|5026=1|
+5033=Tunisian Dinar|5034=241604|5035=262|5026=1|
+5033=Tonga Island Paanga|5034=241720|5035=262|5026=1|
+5033=Turkish Lira|5034=242214|5035=262|5026=1|
+5033=Trinidad & Tobago Dollar|5034=242404|5035=262|5026=1|
+5033=Taiwan New Dollar|5034=242704|5035=262|5026=1|
+5033=Tanzanian Schilling|5034=243223|5035=262|5026=1|
+5033=Ukraine Karbovanet|5034=250110|5035=262|5026=1|
+5033=Ugandan Schilling|5034=250730|5035=262|5026=1|
+5033=US Dollars|5034=252304|5035=262|5026=1|
+5033=US Cents|5034=252330|5035=262|5026=1|
+5033=Uruguayan Peso|5034=253125|5035=262|5026=1|
+5033=Venezuela Bolivar|5034=260502|5035=262|5026=1|
+5033=Venezuelan Bolivar Fuente|5034=260506|5035=262|5026=1|
+5033=Vietnam Dong|5034=261604|5035=262|5026=1|
+5033=Vanuatu Vatu|5034=262526|5035=262|5026=1|
+5033=West Samoa Tala|5034=272324|5035=262|5026=1|
+5033=CFA Franc|5034=300106|5035=262|5026=1|
+5033=East Caribbean Dollar|5034=300304|5035=262|5026=1|
+5033=Special Drawing Rights|5034=300422|5035=262|5026=1|
+5033=CFA Franc|5034=301706|5035=262|5026=1|
+5033=French Pacific Island Franc|5034=302006|5035=262|5026=1|
+5033=Yemen Riyal|5034=310522|5035=262|5026=1|
+5033=South African Cent|5034=320103|5035=262|5026=1|
+5033=South African Rand|5034=320122|5035=262|5026=1|
+5033=Zambian Kwacha|5034=321513|5035=262|5026=1|
+5033=Kinshasa (PDRC) Franc|5034=322216|5035=262|5026=1|
+5033=Zimbabwean Dollar|5034=322704|5035=262|5026=1|
+5033=1st previously issued|5034=1|5035=3202|5026=1|
+5033=2nd previously issued|5034=2|5035=3202|5026=1|
+5033=3rd previously issued|5034=3|5035=3202|5026=1|
+5033=4th previously issued|5034=4|5035=3202|5026=1|
+5033=5th previously issued|5034=5|5035=3202|5026=1|
+5033=6th previously issued|5034=6|5035=3202|5026=1|
+5033=7th previously issued|5034=7|5035=3202|5026=1|
+5033=8th previously issued|5034=8|5035=3202|5026=1|
+5033=9th previously issued|5034=9|5035=3202|5026=1|
+5033=10th previously issued|5034=10|5035=3202|5026=1|
+5033=11th previously issued|5034=11|5035=3202|5026=1|
+5033=12th previously issued|5034=12|5035=3202|5026=1|
+5033=Off the run|5034=18|5035=3202|5026=1|
+5033=On the run|5034=19|5035=3202|5026=1|
+5033=When issued|5034=20|5035=3202|5026=1|
+5033=Bushels|5034=1|5035=3014|5026=1|
+5033=Pounds|5034=2|5035=3014|5026=1|
+5033=Troy Ounces|5034=3|5035=3014|5026=1|
+5033=Fine Troy Ounces|5034=4|5035=3014|5026=1|
+5033=Hundredweight, 100 pounds|5034=5|5035=3014|5026=1|
+5033=Hundredweight, 112 pounds|5034=6|5035=3014|5026=1|
+5033=Short Tons, 2240 pounds|5034=7|5035=3014|5026=1|
+5033=Long Tons, 2240 pounds|5034=8|5035=3014|5026=1|
+5033=Metric Tons, 2206.6 pounds|5034=9|5035=3014|5026=1|
+5033=Index Points|5034=10|5035=3014|5026=1|
+5033=Percent of Pay|5034=11|5035=3014|5026=1|
+5033=Gallons|5034=12|5035=3014|5026=1|
+5033=Board Feet|5034=13|5035=3014|5026=1|
+5033=Megawatt Hours|5034=14|5035=3014|5026=1|
+5033=British Thermal Units|5034=15|5035=3014|5026=1|
+5033=Million British Thermal Units|5034=16|5035=3014|5026=1|
+5033=Pounds Net Weight|5034=17|5035=3014|5026=1|
+5033=New Zealand Dollar|5034=18|5035=3014|5026=1|
+5033=US Dollars|5034=19|5035=3014|5026=1|
+5033=Swiss Franc|5034=20|5035=3014|5026=1|
+5033=Russian Ruble|5034=21|5035=3014|5026=1|
+5033=Norwegian Krone|5034=22|5035=3014|5026=1|
+5033=Australian Dollar|5034=23|5035=3014|5026=1|
+5033=Brazilian Real|5034=24|5035=3014|5026=1|
+5033=British Pounds|5034=25|5035=3014|5026=1|
+5033=South African Rand|5034=26|5035=3014|5026=1|
+5033=Mexican Peso|5034=27|5035=3014|5026=1|
+5033=Euros|5034=28|5035=3014|5026=1|
+5033=Euroyen|5034=29|5035=3014|5026=1|
+5033=Japanese Yen|5034=30|5035=3014|5026=1|
+5033=Canadian Dollar|5034=31|5035=3014|5026=1|
+5033=Shares|5034=32|5035=3014|5026=1|
+5033=Barrels|5034=33|5035=3014|5026=1|
+5033=Counter Weight|5034=34|5035=3014|5026=1|
+5033=Swedish Krona|5034=35|5035=3014|5026=1|
+5033=Basis Points|5034=36|5035=3014|5026=1|
+5033=Inactive Exchange starting Oct 29, 2007; was Nasdaq - Level 2|5034=9|5035=3027|5026=1|
+5033=OPRA - Level 1 (Includes Composite & Regionals)|5034=12|5035=3027|5026=1|
+5033=NYSE - Level 1 (Includes Composite & Regionals)|5034=13|5035=3027|5026=1|
+5033=AMEX - Level 1 (Includes Composite & Regionals)|5034=14|5035=3027|5026=1|
+5033=Nasdaq Level 1 (Includes Composite & Regionals)|5034=15|5035=3027|5026=1|
+5033=CME (Chicago Mercantile Exchange)|5034=16|5035=3027|5026=1|
+5033=COMEX (New York Commodities Exchange)|5034=18|5035=3027|5026=1|
+5033=CBOT (Chicago Board of Trade)|5034=19|5035=3027|5026=1|
+5033=NYBOT (New York Board of Trade)|5034=24|5035=3027|5026=1|
+5033=NYMEX (New York Mercantile Exchange)|5034=26|5035=3027|5026=1|
+5033=ComStock Network Time|5034=31|5035=3027|5026=1|
+5033=Platts Coal Data International|5034=193|5035=3027|5026=1|
+5033=Platts Coal Data U.S.|5034=194|5035=3027|5026=1|
+5033=Platts North American  Natural Gas Prices Daily|5034=195|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=196|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=197|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=198|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=199|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=200|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=201|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=202|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=203|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=204|5035=3027|5026=1|
+5033=Platts Inactive Exchange|5034=205|5035=3027|5026=1|
+5033=Caracas Stock Exchange Level 1 (Direct)|5034=206|5035=3027|5026=1|
+5033=Eurex Level 2|5034=207|5035=3027|5026=1|
+5033=Virt-X Level 1|5034=208|5035=3027|5026=1|
+5033=London Stock Exchange Domestic Level 2|5034=209|5035=3027|5026=1|
+5033=Xetra Level 2|5034=210|5035=3027|5026=1|
+5033=Xetra European Stars Level 1|5034=211|5035=3027|5026=1|
+5033=Xetra US Stars Level 1|5034=212|5035=3027|5026=1|
+5033=Deutsche Boerse Volatility Indices|5034=213|5035=3027|5026=1|
+5033=Spanish Warrants|5034=214|5035=3027|5026=1|
+5033=Spanish Stock Exchange Level 2 ( The next 5 best bids and asks )|5034=215|5035=3027|5026=1|
+5033=Spanish Stock Exchange Level 1 ( Last Price )|5034=216|5035=3027|5026=1|
+5033=Tokyo Level 2 JGB|5034=217|5035=3027|5026=1|
+5033=Chi-X Market Data Level 2|5034=218|5035=3027|5026=1|
+5033=NYSE - American Stock Exchange Regional Only|5034=225|5035=3027|5026=1|
+5033=NYSE - Boston Stock Exchange Regional Only|5034=226|5035=3027|5026=1|
+5033=NYSE - Cincinnati Stock Exchange Regional Only|5034=227|5035=3027|5026=1|
+5033=NYSE - Chicago Stock Exchange Regional Only|5034=228|5035=3027|5026=1|
+5033=NYSE - New York Stock Exchange Regional Only|5034=229|5035=3027|5026=1|
+5033=NYSE - Pacific Stock Exchange Regional Only|5034=230|5035=3027|5026=1|
+5033=NYSE - NASDAQ Regional Only|5034=231|5035=3027|5026=1|
+5033=NYSE - CBOE Regional Only|5034=232|5035=3027|5026=1|
+5033=NYSE - Philadelphia Stock Exchange Regional Only|5034=233|5035=3027|5026=1|
+5033=AMEX - American Stock Exchange Regional Only|5034=234|5035=3027|5026=1|
+5033=AMEX - Boston Stock Exchange Regional Only|5034=235|5035=3027|5026=1|
+5033=AMEX - Cincinnati Stock Exchange Regional Only|5034=236|5035=3027|5026=1|
+5033=AMEX - Chicago Stock Exchange Regional Only|5034=237|5035=3027|5026=1|
+5033=AMEX - NYSE Regional Only|5034=238|5035=3027|5026=1|
+5033=AMEX - NASDAQ Regional Only|5034=239|5035=3027|5026=1|
+5033=AMEX - Pacific Stock Exchange Regional Only|5034=240|5035=3027|5026=1|
+5033=AMEX - CBOE Regional Only|5034=241|5035=3027|5026=1|
+5033=AMEX - Philadelphia Stock Exchange Regional Only|5034=242|5035=3027|5026=1|
+5033=OPRA - AMEX Regional Only|5034=243|5035=3027|5026=1|
+5033=Vienna Indices|5034=244|5035=3027|5026=1|
+5033=OPRA - CBOE Regional Only|5034=245|5035=3027|5026=1|
+5033=OPRA - ISE Regional Only|5034=246|5035=3027|5026=1|
+5033=OPRA - Pacific Stock Exchange Regional Only|5034=247|5035=3027|5026=1|
+5033=OPRA - Philadelphia Stock Exchange Regional Only|5034=248|5035=3027|5026=1|
+5033=Nasdaq Level 2|5034=249|5035=3027|5026=1|
+5033=OPRA - Boston Options Exchange Regional Only|5034=250|5035=3027|5026=1|
+5033=RTS Stock Exchange - RTS|5034=257|5035=3027|5026=1|
+5033=RTS Stock Exchange - Order Driven Stock Market|5034=258|5035=3027|5026=1|
+5033=RTS Stock Exchange - FORTS|5034=259|5035=3027|5026=1|
+5033=London Metal Exchange - Plastics Contracts|5034=260|5035=3027|5026=1|
+5033=London Metal Exchange - Plastics Contracts Level 2|5034=261|5035=3027|5026=1|
+5033=ICAP: FX Currency Options|5034=262|5035=3027|5026=1|
+5033=ICAP Commodities|5034=263|5035=3027|5026=1|
+5033=Tokyo Commodities Exchange|5034=264|5035=3027|5026=1|
+5033=Tokyo Grain Exchange|5034=265|5035=3027|5026=1|
+5033=Tel Aviv Stock Exchange|5034=266|5035=3027|5026=1|
+5033=Intercontinental Exchange (ICE) Level 2|5034=267|5035=3027|5026=1|
+5033=Euronext Continental Commodities Level2|5034=268|5035=3027|5026=1|
+5033=Dow Jones Energy|5034=269|5035=3027|5026=1|
+5033=PLUS Markets classed as liquid by CESR traded off exchange Level 1|5034=270|5035=3027|5026=1|
+5033=Dubai Mercantile Exchange|5034=271|5035=3027|5026=1|
+5033=GTIS Service: Select FX (Asian Pacific) Streaming|5034=272|5035=3027|5026=1|
+5033=GTIS Service: Select FX (Asia Pacific) Snapshot|5034=273|5035=3027|5026=1|
+5033=PBOT Indices|5034=274|5035=3027|5026=1|
+5033=Hang Seng Indices|5034=275|5035=3027|5026=1|
+5033=ICAP: US TReasuries|5034=276|5035=3027|5026=1|
+5033=New Zealand Exchange : Market Data Level 2|5034=277|5035=3027|5026=1|
+5033=Borsa Italiana: STS Module (electronic and gov bonds market) Level 2|5034=278|5035=3027|5026=1|
+5033=Osaka Level Based Depth|5034=279|5035=3027|5026=1|
+5033=Hercules|5034=280|5035=3027|5026=1|
+5033=Hercules Level Based Depth|5034=281|5035=3027|5026=1|
+5033=Conticap|5034=282|5035=3027|5026=1|
+5033=Deutsche Boerse MiFID OTC Trades|5034=289|5035=3027|5026=1|
+5033=JASDAQ : Market Data Level 2|5034=291|5035=3027|5026=1|
+5033=Euronext OTC Market|5034=292|5035=3027|5026=1|
+5033=Vienna OTC|5034=294|5035=3027|5026=1|
+5033=BOAT Market Data Level 1|5034=295|5035=3027|5026=1|
+5033=Inactive Exchange|5034=296|5035=3027|5026=1|
+5033=Inactive Exchange|5034=297|5035=3027|5026=1|
+5033=Inactive Exchange|5034=298|5035=3027|5026=1|
+5033=Dubai Gold and Commodities Exchange|5034=299|5035=3027|5026=1|
+5033=Inactive Exchange|5034=300|5035=3027|5026=1|
+5033=Inactive Exchange|5034=301|5035=3027|5026=1|
+5033=ICAP: Interest Rate Swaps (Asia Pacific)|5034=302|5035=3027|5026=1|
+5033=ICAP: Interest Rate Swaps * IR Options (USA)|5034=303|5035=3027|5026=1|
+5033=ICAP: Fixed Income (Asia Pacific)|5034=304|5035=3027|5026=1|
+5033=OPRA - Nasdaq Regional|5034=305|5035=3027|5026=1|
+5033=Chicago Board of Trade: E-Mini Contracts Level 1|5034=313|5035=3027|5026=1|
+5033=OMX Nordic Exchange Baltic Equities & Fixed Income Level 2|5034=314|5035=3027|5026=1|
+5033=NASDAQ: Last Sale Feed - NASDAQ Issues|5034=321|5035=3027|5026=1|
+5033=NASDAQ: Last Sale Feed - NYSE/AMEX Issues|5034=322|5035=3027|5026=1|
+5033=Eurex US Level 1|5034=323|5035=3027|5026=1|
+5033=Eurex US Level 2|5034=324|5035=3027|5026=1|
+5033=ARCA ECN Level 1|5034=325|5035=3027|5026=1|
+5033=ARCA ECN Level 2|5034=326|5035=3027|5026=1|
+5033=NYSE Open Book Level 1|5034=327|5035=3027|5026=1|
+5033=NYSE Open Book Level 2|5034=328|5035=3027|5026=1|
+5033=OneChicago|5034=329|5035=3027|5026=1|
+5033=Nasdaq Single Book Exchange (Level 2)|5034=330|5035=3027|5026=1|
+5033=ICAP: FX Spot and Forwards|5034=331|5035=3027|5026=1|
+5033=ICAP Interest Rate Options|5034=332|5035=3027|5026=1|
+5033=NASD ADF (Alternative Display Facility)|5034=333|5035=3027|5026=1|
+5033=National Stock Exchange of India - Wholesale Debt Market|5034=334|5035=3027|5026=1|
+5033=BOAT Market Data Level 2|5034=335|5035=3027|5026=1|
+5033=Malaysia Derivatives Exchange (NON-KLI)|5034=336|5035=3027|5026=1|
+5033=Nasdaq Money Markets|5034=337|5035=3027|5026=1|
+5033=Nasdaq Mutual Funds|5034=338|5035=3027|5026=1|
+5033=Nasdaq Unit Investment Trusts (UIT)|5034=339|5035=3027|5026=1|
+5033=AMEX Indices|5034=340|5035=3027|5026=1|
+5033=CBOE Indices|5034=341|5035=3027|5026=1|
+5033=CME Indices|5034=342|5035=3027|5026=1|
+5033=Dow Jones Indices|5034=343|5035=3027|5026=1|
+5033=NYSE Indices|5034=344|5035=3027|5026=1|
+5033=Nasdaq Indices|5034=345|5035=3027|5026=1|
+5033=S&P Indices (CME Sourced)|5034=346|5035=3027|5026=1|
+5033=Nagoya Stock Exchange|5034=353|5035=3027|5026=1|
+5033=Nikkei Indices|5034=354|5035=3027|5026=1|
+5033=Osaka Stock Exchange|5034=355|5035=3027|5026=1|
+5033=Core Euronext Indices (CAC40, AEX, AMX, BELevel 20, Euronext100 and Next 150)|5034=356|5035=3027|5026=1|
+5033=German Stock Exchange - Neuer Market Equities|5034=357|5035=3027|5026=1|
+5033=S&P Forex - HSBC, CMC, SE(SIX) and Citibank|5034=358|5035=3027|5026=1|
+5033=Inactive Exchange starting Oct 3, 2007; was SURF Swap Markers|5034=359|5035=3027|5026=1|
+5033=OPRA Foreign Currency Options (FCO)|5034=360|5035=3027|5026=1|
+5033=NASDAQ Other OTC issues|5034=361|5035=3027|5026=1|
+5033=NYBOT Special Indices|5034=362|5035=3027|5026=1|
+5033=NASDAQ OTC Bulletin Board|5034=363|5035=3027|5026=1|
+5033=CME eMini|5034=364|5035=3027|5026=1|
+5033=Montreal Stock Exchange|5034=365|5035=3027|5026=1|
+5033=Montreal Options|5034=366|5035=3027|5026=1|
+5033=CBOT - ECBOT Depth|5034=367|5035=3027|5026=1|
+5033=Spanish Regional Exchanges|5034=368|5035=3027|5026=1|
+5033=MEFF RF - Financial Derivatives|5034=369|5035=3027|5026=1|
+5033=MEFF RV - Equity Derivatives|5034=370|5035=3027|5026=1|
+5033=Toronto Stock Exchange Level 2|5034=371|5035=3027|5026=1|
+5033=Toronto Stock Exchange Level 1|5034=372|5035=3027|5026=1|
+5033=Tokyo Stock Exchange|5034=373|5035=3027|5026=1|
+5033=TSX Venture Exchange|5034=374|5035=3027|5026=1|
+5033=TSX Venture Exchange Level 2|5034=375|5035=3027|5026=1|
+5033=Korean Stock Exchange Level 2|5034=376|5035=3027|5026=1|
+5033=KOSDAQ Level 2|5034=377|5035=3027|5026=1|
+5033=Street Software|5034=378|5035=3027|5026=1|
+5033=AMEX - Composite Only|5034=545|5035=3027|5026=1|
+5033=Nasdaq - Boston Stock Exchange Regional Only|5034=546|5035=3027|5026=1|
+5033=Nasdaq - Cincinnati Stock Exchange Regional Only|5034=547|5035=3027|5026=1|
+5033=Nasdaq - American Stock Exchange Regional Only|5034=548|5035=3027|5026=1|
+5033=Nasdaq - Chicago Stock Exchange Regional Only|5034=549|5035=3027|5026=1|
+5033=Nasdaq - New York Stock Exchange Regional Only|5034=550|5035=3027|5026=1|
+5033=Nasdaq - Pacific Stock Exchange Regional Only (ArcaEx)|5034=551|5035=3027|5026=1|
+5033=Nasdaq - Nasdaq Regional Only|5034=552|5035=3027|5026=1|
+5033=Nasdaq - Philadelphia Stock Exchange Regional Only|5034=553|5035=3027|5026=1|
+5033=Nasdaq - ADF Regional Only|5034=554|5035=3027|5026=1|
+5033=NASDAQ: Market Velocity and Forces|5034=555|5035=3027|5026=1|
+5033=Nasdaq - Chicago Board Options Exchange|5034=556|5035=3027|5026=1|
+5033=Nasdaq - International Securities Exchange|5034=557|5035=3027|5026=1|
+5033=NYSE - Composite Only|5034=558|5035=3027|5026=1|
+5033=OPRA - Composite Only|5034=559|5035=3027|5026=1|
+5033=Amex -- Nasd Split|5034=560|5035=3027|5026=1|
+5033=Amex -- International Securities Exchange|5034=561|5035=3027|5026=1|
+5033=NYSE -- Nasd Split|5034=562|5035=3027|5026=1|
+5033=NYSE-- International Securities Exchange|5034=563|5035=3027|5026=1|
+5033=Nasdaq - Composite Only|5034=564|5035=3027|5026=1|
+5033=Candeal.ca Inc|5034=565|5035=3027|5026=1|
+5033=Jakarta  Stock Exchange|5034=566|5035=3027|5026=1|
+5033=Philippine Stock Exchange (PSE)|5034=567|5035=3027|5026=1|
+5033=AMEX Bond Guide - S&P Fundamentals|5034=568|5035=3027|5026=1|
+5033=NYSE Corporate Bond Guide - S&P Fundamentals|5034=569|5035=3027|5026=1|
+5033=Inactive Exchange starting Oct 29, 2007; was NYMEX OTC|5034=570|5035=3027|5026=1|
+5033=Singapore Exchange (SGX) Equities Market Level 2|5034=641|5035=3027|5026=1|
+5033=Euronext Equities & Index Derivatives Level 2 (BBO 10)|5034=642|5035=3027|5026=1|
+5033=Euronext Interest Rate Futures and Options Level 2 (BBO 10)|5034=643|5035=3027|5026=1|
+5033=Vienna Derivatives Market Level 2|5034=644|5035=3027|5026=1|
+5033=Prague Stock Exchange|5034=645|5035=3027|5026=1|
+5033=London Stock Exchange UK Equity Market Service Level 1 Plus|5034=646|5035=3027|5026=1|
+5033=London Stock Exchange International Equity Market Service Level 1 Plus|5034=647|5035=3027|5026=1|
+5033=Inactive Exchange|5034=648|5035=3027|5026=1|
+5033=EuroMTS - MTS Markets Level 1 & Level 2|5034=649|5035=3027|5026=1|
+5033=Inactive Exchange starting Oct 3, 2007; was Tullett and Tokyo Surf -  Options, Misc. Fixings and Mor|5034=650|5035=3027|5026=1|
+5033=Luxembourg Stock Exchange - Level 1 and Indices|5034=651|5035=3027|5026=1|
+5033=Borsa Italiana: DER Module (derivatives market) Level 2|5034=652|5035=3027|5026=1|
+5033=CBOE Indices feed|5034=653|5035=3027|5026=1|
+5033=Economic & Financial Indicators and Global Closing Equity Indices|5034=654|5035=3027|5026=1|
+5033=Bulgaria Stock Exchange|5034=655|5035=3027|5026=1|
+5033=Xetra European Stars Level 2|5034=656|5035=3027|5026=1|
+5033=Xetra US Stars Level 2|5034=657|5035=3027|5026=1|
+5033=IBEX Indices|5034=658|5035=3027|5026=1|
+5033=Johannesburg Indices|5034=659|5035=3027|5026=1|
+5033=OMX - Nordic Basic Indices|5034=660|5035=3027|5026=1|
+5033=iBoxx Indices|5034=661|5035=3027|5026=1|
+5033=Virt-X Level 2|5034=662|5035=3027|5026=1|
+5033=OMX - Nordic Equities Level 2|5034=663|5035=3027|5026=1|
+5033=Bucharest Stock Exchange|5034=664|5035=3027|5026=1|
+5033=Inactive Exchange starting Jan 9, 2008; was Euribor|5034=665|5035=3027|5026=1|
+5033=CBOE Futures Exchange|5034=666|5035=3027|5026=1|
+5033=CME E-mini RLC Level 2|5034=673|5035=3027|5026=1|
+5033=CBOT (Chicago Board of Trade)|5034=674|5035=3027|5026=1|
+5033=NYBOT (New York Board of Trade)|5034=675|5035=3027|5026=1|
+5033=CME Globex RLC Level 2|5034=676|5035=3027|5026=1|
+5033=COMEX (New York Commodities Exchange)|5034=677|5035=3027|5026=1|
+5033=NYMEX e-miNY Futures|5034=678|5035=3027|5026=1|
+5033=Minneapolis Grain Exchange|5034=679|5035=3027|5026=1|
+5033=CME GLOBEX|5034=680|5035=3027|5026=1|
+5033=GTIS Basic FX Snapshot|5034=681|5035=3027|5026=1|
+5033=GTIS Full FX Snapshot|5034=682|5035=3027|5026=1|
+5033=KCBT (Kansas City Board of Trade)|5034=683|5035=3027|5026=1|
+5033=CME eMini Equity Package|5034=684|5035=3027|5026=1|
+5033=CME RTH|5034=685|5035=3027|5026=1|
+5033=New York Mercantile Exchange - NYMEX|5034=686|5035=3027|5026=1|
+5033=GTIS Spot and Forward Full FX|5034=687|5035=3027|5026=1|
+5033=Inactive Exchange|5034=688|5035=3027|5026=1|
+5033=GTIS Spot and Forward FX|5034=689|5035=3027|5026=1|
+5033=GTIS BBA LIBOR|5034=690|5035=3027|5026=1|
+5033=GTIS Precious Metals|5034=691|5035=3027|5026=1|
+5033=GTIS Fixed Income|5034=692|5035=3027|5026=1|
+5033=CBOT - ECBOT|5034=693|5035=3027|5026=1|
+5033=CME Indices|5034=694|5035=3027|5026=1|
+5033=Winnipeg Commodity Exchange|5034=695|5035=3027|5026=1|
+5033=GTIS Money Markets|5034=696|5035=3027|5026=1|
+5033=ASX Equities, Futures, Warrants and Bonds Level 2|5034=697|5035=3027|5026=1|
+5033=S&P Indices (CME Sourced)|5034=698|5035=3027|5026=1|
+5033=SWX Swiss Exchange|5034=705|5035=3027|5026=1|
+5033=Euronext Commodities Level 2|5034=706|5035=3027|5026=1|
+5033=German Stock Exchange - Dow Jones STOXX Indices|5034=707|5035=3027|5026=1|
+5033=OPRA Mitigated Exchange|5034=708|5035=3027|5026=1|
+5033=Bern Stocks|5034=709|5035=3027|5026=1|
+5033=Hong Kong Futures Exchange|5034=710|5035=3027|5026=1|
+5033=OMX - VINX Indices|5034=711|5035=3027|5026=1|
+5033=Hong Kong Stock Exchange|5034=712|5035=3027|5026=1|
+5033=Singapore Exchange (SGX)|5034=713|5035=3027|5026=1|
+5033=Kuala Lumpur Stock Exchange|5034=714|5035=3027|5026=1|
+5033=SAFEX|5034=715|5035=3027|5026=1|
+5033=NYSE Corporate Bonds (ABS-Automated Bond System)|5034=716|5035=3027|5026=1|
+5033=ComStock Internal Test Exchange|5034=717|5035=3027|5026=1|
+5033=New Zealand Futures Exchange|5034=718|5035=3027|5026=1|
+5033=NYSE TickStream|5034=719|5035=3027|5026=1|
+5033=Euronext Equities and Bonds Level 1 - Quotes|5034=720|5035=3027|5026=1|
+5033=Malaysia Derivatives Exchange (KLI ONLY)|5034=721|5035=3027|5026=1|
+5033=Swiss Bonds and Warrants|5034=722|5035=3027|5026=1|
+5033=Singapore International Monetary Exchange (SIMEX)|5034=723|5035=3027|5026=1|
+5033=FTSE BBC Index|5034=724|5035=3027|5026=1|
+5033=OMX - Nordic Equities Level 1|5034=725|5035=3027|5026=1|
+5033=Baltic Futures and Indices Exchange|5034=726|5035=3027|5026=1|
+5033=New Zealand Futures Exchange Level 2|5034=727|5035=3027|5026=1|
+5033=Australian Stock Exchange|5034=728|5035=3027|5026=1|
+5033=NYMEX emiNY contracts|5034=729|5035=3027|5026=1|
+5033=Euronext Indices|5034=730|5035=3027|5026=1|
+5033=Nasdaq Market on Close|5034=737|5035=3027|5026=1|
+5033=Euronext Derivatives - Equity and Index Options Level 1|5034=738|5035=3027|5026=1|
+5033=Eurex Repos|5034=739|5035=3027|5026=1|
+5033=Euronext Equities and Bonds Level 2|5034=740|5035=3027|5026=1|
+5033=IOPV Data|5034=741|5035=3027|5026=1|
+5033=London International Financial Future Exchange (LIFFE)|5034=742|5035=3027|5026=1|
+5033=Milan Stock Exchange Level 1 (Equities, Warrants, New Market, Block Trades, OTC)|5034=743|5035=3027|5026=1|
+5033=Swiss Indices (Formerly SOFFEX)|5034=744|5035=3027|5026=1|
+5033=FTSE Indices|5034=745|5035=3027|5026=1|
+5033=Tallin, Riga and Vilnius Stock Exchanges|5034=746|5035=3027|5026=1|
+5033=German Regional Exchanges - Berlin, Hanover, Frankfurt, Dusseldorf, Neuer Market, Hamburg, Bremen an|5034=747|5035=3027|5026=1|
+5033=EUREX German/European Derivatives (Futures and Options)|5034=748|5035=3027|5026=1|
+5033=Sydney Futures Exchange|5034=749|5035=3027|5026=1|
+5033=EuroMTS Indices|5034=750|5035=3027|5026=1|
+5033=Inactive Exchange|5034=751|5035=3027|5026=1|
+5033=Irish Stock Exchange Level 2|5034=752|5035=3027|5026=1|
+5033=Euronext Interest Rate and Futures Options Level 1|5034=753|5035=3027|5026=1|
+5033=Euronext Equities and Bonds Level 1 - Trades|5034=754|5035=3027|5026=1|
+5033=London Stock Exchange Domestic (UK) Level 1|5034=755|5035=3027|5026=1|
+5033=Intercontinental Exchange (ICE)|5034=756|5035=3027|5026=1|
+5033=London Stock Exchange International Level 1|5034=757|5035=3027|5026=1|
+5033=PLUS Mkts - Securities classed as Liquid by CESR traded on exhange Level 1|5034=758|5035=3027|5026=1|
+5033=Sydney Futures Exchange Level 2|5034=759|5035=3027|5026=1|
+5033=World Indices, Libor, Euribor, Eonia, and Misc.|5034=760|5035=3027|5026=1|
+5033=PLUS Mkts - Securities not classed Liquid by CESR traded on exhange Level 2|5034=761|5035=3027|5026=1|
+5033=Xetra|5034=762|5035=3027|5026=1|
+5033=Platts Crude Oil -International|5034=801|5035=3027|5026=1|
+5033=Platts Bunker Prices|5034=802|5035=3027|5026=1|
+5033=Platts Futures Closing Prices|5034=803|5035=3027|5026=1|
+5033=Platts Tanker Rates|5034=804|5035=3027|5026=1|
+5033=Platts North American Natural Gas Prices Monthly|5034=805|5035=3027|5026=1|
+5033=Platts  Intraday Indications|5034=806|5035=3027|5026=1|
+5033=Platts European Natural Gas Prices|5034=807|5035=3027|5026=1|
+5033=Platts Petroleum Derivatives Asia|5034=808|5035=3027|5026=1|
+5033=Platts Feedstock Prices|5034=809|5035=3027|5026=1|
+5033=Platts European Electricity Prices|5034=810|5035=3027|5026=1|
+5033=Platts US LPGas Prices|5034=811|5035=3027|5026=1|
+5033=Platts Electricity Forwards US|5034=812|5035=3027|5026=1|
+5033=Platts Metals Prices|5034=813|5035=3027|5026=1|
+5033=Platts Asia/AG Product Prices|5034=814|5035=3027|5026=1|
+5033=Platts European Product Prices|5034=815|5035=3027|5026=1|
+5033=Platts Petrochemical Prices|5034=816|5035=3027|5026=1|
+5033=Platts US Product Prices - Light Ends / Latam|5034=817|5035=3027|5026=1|
+5033=Platts International LPGas Prices|5034=818|5035=3027|5026=1|
+5033=Platts US Racks Prices|5034=819|5035=3027|5026=1|
+5033=Platts Misc. Petroleum Data (API/DOE Statistics, Indices, Forex, Weekly/Monthly/Averages|5034=820|5035=3027|5026=1|
+5033=Platts US Electricity Prices|5034=821|5035=3027|5026=1|
+5033=Platts US Product Prices  Resids|5034=822|5035=3027|5026=1|
+5033=Platts Petroleum Derivatives Americas|5034=823|5035=3027|5026=1|
+5033=Platts Crude Oil  N. America|5034=824|5035=3027|5026=1|
+5033=Platts Yields & Netbacks|5034=825|5035=3027|5026=1|
+5033=Platts Petroleum Derivatives EMEA|5034=826|5035=3027|5026=1|
+5033=LSE Level 2 Order Book|5034=865|5035=3027|5026=1|
+5033=Lima Stock Exchange Level 1 (BVL)|5034=866|5035=3027|5026=1|
+5033=Swiss Stock Exchange Level 2|5034=867|5035=3027|5026=1|
+5033=Prague Level 2|5034=868|5035=3027|5026=1|
+5033=Swiss Bonds and Warrants Level 2|5034=869|5035=3027|5026=1|
+5033=Vienna Cash Market Level 2|5034=870|5035=3027|5026=1|
+5033=iBoxx Euro Consolidated|5034=871|5035=3027|5026=1|
+5033=iBoxx Sterling Consolidated|5034=872|5035=3027|5026=1|
+5033=LSE International Level 2|5034=873|5035=3027|5026=1|
+5033=Bratislava Stock Exchange: Level 1|5034=874|5035=3027|5026=1|
+5033=Bratislava Stock Exchange: Level 2|5034=875|5035=3027|5026=1|
+5033=Hong Kong Futures Exchange Level 2|5034=876|5035=3027|5026=1|
+5033=Tullett - Benchmark and off-the-run Government Bonds|5034=877|5035=3027|5026=1|
+5033=Tullett - Interest Rate Swaps, FRAs and OIS|5034=878|5035=3027|5026=1|
+5033=Tullett - Spot FX, Forward FX, NDFs and Cash Deposit|5034=879|5035=3027|5026=1|
+5033=Tullett - FX Options|5034=880|5035=3027|5026=1|
+5033=Tullett - Interest Rate Options and Swaptions (ATM)|5034=881|5035=3027|5026=1|
+5033=Tullett - Mortgage Data|5034=882|5035=3027|5026=1|
+5033=Tullett - Inflation Derivatives|5034=883|5035=3027|5026=1|
+5033=Tullett - Out of the Money Swaptions and IR Option Surfaces|5034=884|5035=3027|5026=1|
+5033=Tullett - Credit Default Swaps|5034=885|5035=3027|5026=1|
+5033=PLUS Markets - Securities not classed Liquid by CESR traded off Exch Level 2|5034=886|5035=3027|5026=1|
+5033=ASX ITS Index|5034=887|5035=3027|5026=1|
+5033=ASX ITS Options Level 2|5034=888|5035=3027|5026=1|
+5033=ASX ITS Options Level 1|5034=889|5035=3027|5026=1|
+5033=LMEmini Level 1|5034=890|5035=3027|5026=1|
+5033=FTSE  Index Xinhua|5034=897|5035=3027|5026=1|
+5033=Shenzen Stock Exchange Xinhua|5034=898|5035=3027|5026=1|
+5033=Shanghai Stock Exchange Xinhua|5034=899|5035=3027|5026=1|
+5033=Milan Bonds Level 1|5034=900|5035=3027|5026=1|
+5033=Milan Stocks Level 2|5034=901|5035=3027|5026=1|
+5033=Milan Indices|5034=902|5035=3027|5026=1|
+5033=Milan Derivatives (Futures and Options)|5034=903|5035=3027|5026=1|
+5033=Athens Stock Exchange|5034=904|5035=3027|5026=1|
+5033=Inactive Exchange starting Jan 3, 2007; was GFI FX Options - 4 point smile|5034=905|5035=3027|5026=1|
+5033=OMX - Nordic Derivatives Level 1|5034=906|5035=3027|5026=1|
+5033=Athens Stock Exchange Indices|5034=907|5035=3027|5026=1|
+5033=Stuttgart Derivatives Exchange|5034=908|5035=3027|5026=1|
+5033=KOSDAQ Level 1|5034=909|5035=3027|5026=1|
+5033=Korea Stock Exchange|5034=910|5035=3027|5026=1|
+5033=Bombay Stock Exchange Level 1|5034=911|5035=3027|5026=1|
+5033=Bombay Stock Exchange Indices and SENSEX|5034=912|5035=3027|5026=1|
+5033=JASDAQ|5034=913|5035=3027|5026=1|
+5033=ETF Project Fixed Income Valuations|5034=914|5035=3027|5026=1|
+5033=Taiwan OTC [ E1:Sym] and UTS [E:Sym]|5034=915|5035=3027|5026=1|
+5033=Taiwan Stock Exchange|5034=916|5035=3027|5026=1|
+5033=ICAP: Deposits and CDs|5034=917|5035=3027|5026=1|
+5033=New Zealand Stock Exchange|5034=918|5035=3027|5026=1|
+5033=Johannesburg Stock Exchange|5034=919|5035=3027|5026=1|
+5033=Thailand Stock Exchange|5034=920|5035=3027|5026=1|
+5033=Korean Stock Exchange Indices|5034=921|5035=3027|5026=1|
+5033=UTC Time Stamp|5034=922|5035=3027|5026=1|
+5033=Inactive Exchange|5034=929|5035=3027|5026=1|
+5033=LME Level 1|5034=930|5035=3027|5026=1|
+5033=LME Level 2|5034=931|5035=3027|5026=1|
+5033=Turkey Stock Exchange|5034=932|5035=3027|5026=1|
+5033=POSIT- ITG Stock Exchange|5034=933|5035=3027|5026=1|
+5033=MSCI Indices|5034=934|5035=3027|5026=1|
+5033=ICAP: Interest Rate Swaps|5034=935|5035=3027|5026=1|
+5033=Tokyo Stock Exchange Level 2|5034=936|5035=3027|5026=1|
+5033=Brazilian Mercantile and Futures Exchange (BM&F)|5034=937|5035=3027|5026=1|
+5033=Hong Kong Stock Exchange Level 2|5034=938|5035=3027|5026=1|
+5033=Pink Sheets Level 1 (Sourced from PinkSheets.com)|5034=939|5035=3027|5026=1|
+5033=Pink Sheets Level 2(Sourced from PinkSheets.com)|5034=940|5035=3027|5026=1|
+5033=National Stock Exchange of India - Equities and Indices|5034=941|5035=3027|5026=1|
+5033=LMEmini Level 2|5034=942|5035=3027|5026=1|
+5033=National Stock Exchange of India - Futures and Options arket|5034=943|5035=3027|5026=1|
+5033=Warsaw Stock Exchange - Level 1|5034=944|5035=3027|5026=1|
+5033=CBOT E-Mini Contracts Level-2|5034=945|5035=3027|5026=1|
+5033=Oslo Stock Exchange Level 1|5034=946|5035=3027|5026=1|
+5033=Oslo Stock Exchange Level 2|5034=947|5035=3027|5026=1|
+5033=OMX - Nordic Derivatives Level 2|5034=948|5035=3027|5026=1|
+5033=OMX - Nordic Fixed Income Level 2|5034=949|5035=3027|5026=1|
+5033=Budapest  Stock Exchange Equities|5034=950|5035=3027|5026=1|
+5033=Budapest  Stock Exchange Indices|5034=951|5035=3027|5026=1|
+5033=Swiss Non Listed Investment Funds|5034=952|5035=3027|5026=1|
+5033=OMX - Nordic Fixed Income Level 1|5034=953|5035=3027|5026=1|
+5033=Irish Stock Exchange Bonds & Funds|5034=954|5035=3027|5026=1|
+5033=Taiwan Bond|5034=961|5035=3027|5026=1|
+5033=Irish Stock Exchange Equities|5034=962|5035=3027|5026=1|
+5033=CBOT - ECBOT Depth|5034=963|5035=3027|5026=1|
+5033=Buenos Aires Stock Exchange Stock Bonds, Indices|5034=964|5035=3027|5026=1|
+5033=Brazilian SOMA|5034=965|5035=3027|5026=1|
+5033=Spanish Stock Exchange Level 1 Plus (Best Bid and Ask Prices)|5034=966|5035=3027|5026=1|
+5033=Vienna Derivatives Market Level 1|5034=967|5035=3027|5026=1|
+5033=Vienna Cash Market Level 1|5034=968|5035=3027|5026=1|
+5033=ICAP: Fixed Income (excl US Treasuries)|5034=969|5035=3027|5026=1|
+5033=GTIS Energy Prices|5034=970|5035=3027|5026=1|
+5033=Tokyo Stock Exchange End of Day|5034=971|5035=3027|5026=1|
+5033=London Stock Exchange Covered Warrants Level 1|5034=972|5035=3027|5026=1|
+5033=Hanover Commodities Exchange|5034=973|5035=3027|5026=1|
+5033=Inactive Exchange starting Jan 3, 2007; was GFI - Repos|5034=974|5035=3027|5026=1|
+5033=Stuttgart Equities, Bonds and Indices Exchange|5034=975|5035=3027|5026=1|
+5033=German Stock Exchange Indices and ETFs|5034=976|5035=3027|5026=1|
+5033=Irish Stock Exchange Indices|5034=977|5035=3027|5026=1|
+5033=Newex Stocks Eastern Europe Stocks|5034=978|5035=3027|5026=1|
+5033=European Energy Exchange|5034=979|5035=3027|5026=1|
+5033=Newex Indices|5034=980|5035=3027|5026=1|
+5033=Sao Paulo Stock Exchange (BOVESPA)|5034=981|5035=3027|5026=1|
+5033=Santiago Stock Exchange (Chile)|5034=982|5035=3027|5026=1|
+5033=Caracas Stock Exchange Regular Term and Counted (SIF sourced)|5034=983|5035=3027|5026=1|
+5033=Mexico Stock Exchange|5034=984|5035=3027|5026=1|
+5033=Spanish Funds (Fondos FIM, FIAMM & Tesoros)|5034=985|5035=3027|5026=1|
+5033=Spanish Fixed Income (AIAF)|5034=986|5035=3027|5026=1|
+5033=BAL_SHT_DATE[Giving effect to new financing]|5034=3176098|5035=3035|5026=1|
+5033=BAL_SHT_DATE[Pro forma]|5034=3176102|5035=3035|5026=1|
+5033=BAL_SHT_DATE[Currency of country of origin]|5034=3176105|5035=3035|5026=1|
+5033=BAL_SHT_DATE[Combined various classes]|5034=3176111|5035=3035|5026=1|
+5033=COMMON_SHRS_OUT[Giving effect to new financing]|5034=3180098|5035=3035|5026=1|
+5033=COMMON_SHRS_OUT[Pro forma]|5034=3180102|5035=3035|5026=1|
+5033=COMMON_SHRS_OUT[Currency of country of origin]|5034=3180105|5035=3035|5026=1|
+5033=COMMON_SHRS_OUT[Combined various classes]|5034=3180111|5035=3035|5026=1|
+5033=DIV_PRICE[Based on last years payment]|5034=3181099|5035=3035|5026=1|
+5033=DIV_PRICE[Dividend converted to U.S. funds]|5034=3181100|5035=3035|5026=1|
+5033=DIV_PRICE[Excluding extras]|5034=3181101|5035=3035|5026=1|
+5033=DIV_PRICE[Pro forma]|5034=3181102|5035=3035|5026=1|
+5033=DIV_PRICE[Previous record (if any) not available]|5034=3181103|5035=3035|5026=1|
+5033=DIV_PRICE[In Canadian funds]|5034=3181104|5035=3035|5026=1|
+5033=DIV_PRICE[Stock of another company]|5034=3181106|5035=3035|5026=1|
+5033=DIV_PRICE[Includes extras]|5034=3181107|5035=3035|5026=1|
+5033=DIV_PRICE[Also stock]|5034=3181110|5035=3035|5026=1|
+5033=DIV_PRICE[Dividend Paid a/c arrears]|5034=3181112|5035=3035|5026=1|
+5033=DIV_PRICE[Less tax country of origin]|5034=3181114|5035=3035|5026=1|
+5033=DIV_PRICE[Dividend from capital gains]|5034=3181115|5035=3035|5026=1|
+5033=DIV_PRICE[Excludeds dividend from capital gains]|5034=3181116|5035=3035|5026=1|
+5033=DIV_PRICE[Includes extras and stock]|5034=3181117|5035=3035|5026=1|
+5033=DIV_RATE[Based on last years payment]|5034=3182099|5035=3035|5026=1|
+5033=DIV_RATE[Dividend converted to U.S. funds]|5034=3182100|5035=3035|5026=1|
+5033=DIV_RATE[Excluding extras]|5034=3182101|5035=3035|5026=1|
+5033=DIV_RATE[Pro forma]|5034=3182102|5035=3035|5026=1|
+5033=DIV_RATE[Previous record (if any) not available]|5034=3182103|5035=3035|5026=1|
+5033=DIV_RATE[In Canadian funds]|5034=3182104|5035=3035|5026=1|
+5033=DIV_RATE[Stock of another company]|5034=3182106|5035=3035|5026=1|
+5033=DIV_RATE[Includes extras]|5034=3182107|5035=3035|5026=1|
+5033=DIV_RATE[Also stock]|5034=3182110|5035=3035|5026=1|
+5033=DIV_RATE[Dividend Paid a/c arrears]|5034=3182112|5035=3035|5026=1|
+5033=DIV_RATE[Less tax country of origin]|5034=3182114|5035=3035|5026=1|
+5033=DIV_RATE[Dividend from capital gains]|5034=3182115|5035=3035|5026=1|
+5033=DIV_RATE[Excludeds dividend from capital gains]|5034=3182116|5035=3035|5026=1|
+5033=DIV_RATE[Includes extras and stock]|5034=3182117|5035=3035|5026=1|
+5033=DIV_YIELD[Based on last years payment]|5034=3183099|5035=3035|5026=1|
+5033=DIV_YIELD[Dividend converted to U.S. funds]|5034=3183100|5035=3035|5026=1|
+5033=DIV_YIELD[Excluding extras]|5034=3183101|5035=3035|5026=1|
+5033=DIV_YIELD[Pro forma]|5034=3183102|5035=3035|5026=1|
+5033=DIV_YIELD[Previous record (if any) not available]|5034=3183103|5035=3035|5026=1|
+5033=DIV_YIELD[In Canadian funds]|5034=3183104|5035=3035|5026=1|
+5033=DIV_YIELD[Stock of another company]|5034=3183106|5035=3035|5026=1|
+5033=DIV_YIELD[Includes extras]|5034=3183107|5035=3035|5026=1|
+5033=DIV_YIELD[Also stock]|5034=3183110|5035=3035|5026=1|
+5033=DIV_YIELD[Dividend Paid a/c arrears]|5034=3183112|5035=3035|5026=1|
+5033=DIV_YIELD[Less tax country of origin]|5034=3183114|5035=3035|5026=1|
+5033=DIV_YIELD[Dividend from capital gains]|5034=3183115|5035=3035|5026=1|
+5033=DIV_YIELD[Excludeds dividend from capital gains]|5034=3183116|5035=3035|5026=1|
+5033=DIV_YIELD[Includes extras and stock]|5034=3183117|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Fixed charges times earned]|5034=3184098|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Company only (unconsolidated)]|5034=3184099|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Deficit]|5034=3184100|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[S&P estimate]|5034=3184101|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Pro forma]|5034=3184102|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Fully diluted earnings]|5034=3184103|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Currency of country of origin]|5034=3184105|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Interim periods reflect prior or future years]|5034=3184107|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Interim not comparable with annual earnings]|5034=3184108|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Net asset value]|5034=3184110|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Combined classes of stock]|5034=3184111|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Preliminary]|5034=3184112|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3184114|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Before tax loss carry forward]|5034=3184115|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Partial year]|5034=3184116|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Net gain from operations]|5034=3184117|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Diluted EPS]|5034=3184118|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Exclude extraordinary income]|5034=3184119|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Include extraordinary income]|5034=3184120|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Exclude extraordinary charges]|5034=3184121|5035=3035|5026=1|
+5033=ERN_12MTHS_PS_PRICE[Include extraordinary charges]|5034=3184122|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Fixed charges times earned]|5034=3185098|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Company only (unconsolidated)]|5034=3185099|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Deficit]|5034=3185100|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[S&P estimate]|5034=3185101|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Pro forma]|5034=3185102|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Fully diluted earnings]|5034=3185103|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Currency of country of origin]|5034=3185105|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Interim periods reflect prior or future years]|5034=3185107|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Interim not comparable with annual earnings]|5034=3185108|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Net asset value]|5034=3185110|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Combined classes of stock]|5034=3185111|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Preliminary]|5034=3185112|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3185114|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Before tax loss carry forward]|5034=3185115|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Partial year]|5034=3185116|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Net gain from operations]|5034=3185117|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Diluted EPS]|5034=3185118|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Exclude extraordinary income]|5034=3185119|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Include extraordinary income]|5034=3185120|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Exclude extraordinary charges]|5034=3185121|5035=3035|5026=1|
+5033=ERN_CURRENTYR_PS_PRICE[Include extraordinary charges]|5034=3185122|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Fixed charges times earned]|5034=3186098|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Company only (unconsolidated)]|5034=3186099|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Deficit]|5034=3186100|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[S&P estimate]|5034=3186101|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Pro forma]|5034=3186102|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Fully diluted earnings]|5034=3186103|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Currency of country of origin]|5034=3186105|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Interim periods reflect prior or future years]|5034=3186107|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Interim not comparable with annual earnings]|5034=3186108|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Net asset value]|5034=3186110|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Combined classes of stock]|5034=3186111|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Preliminary]|5034=3186112|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3186114|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Before tax loss carry forward]|5034=3186115|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Partial year]|5034=3186116|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Net gain from operations]|5034=3186117|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Diluted EPS]|5034=3186118|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Exclude extraordinary income]|5034=3186119|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Include extraordinary income]|5034=3186120|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Exclude extraordinary charges]|5034=3186121|5035=3035|5026=1|
+5033=ERN_PREV_INTERIM_PS_PRICE[Include extraordinary charges]|5034=3186122|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Fixed charges times earned]|5034=3187098|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Company only (unconsolidated)]|5034=3187099|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Deficit]|5034=3187100|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[S&P estimate]|5034=3187101|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Pro forma]|5034=3187102|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Fully diluted earnings]|5034=3187103|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Currency of country of origin]|5034=3187105|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Interim periods reflect prior or future years]|5034=3187107|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Interim not comparable with annual earnings]|5034=3187108|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Net asset value]|5034=3187110|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Combined classes of stock]|5034=3187111|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Preliminary]|5034=3187112|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3187114|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Before tax loss carry forward]|5034=3187115|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Partial year]|5034=3187116|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Net gain from operations]|5034=3187117|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Diluted EPS]|5034=3187118|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Exclude extraordinary income]|5034=3187119|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Include extraordinary income]|5034=3187120|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Exclude extraordinary charges]|5034=3187121|5035=3035|5026=1|
+5033=ERN_INTERIM_PS_PRICE[Include extraordinary charges]|5034=3187122|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Fixed charges times earned]|5034=3188098|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Company only (unconsolidated)]|5034=3188099|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Deficit]|5034=3188100|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[S&P estimate]|5034=3188101|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Pro forma]|5034=3188102|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Fully diluted earnings]|5034=3188103|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Currency of country of origin]|5034=3188105|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Interim periods reflect prior or future years]|5034=3188107|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Interim not comparable with annual earnings]|5034=3188108|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Net asset value]|5034=3188110|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Combined classes of stock]|5034=3188111|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Preliminary]|5034=3188112|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3188114|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Before tax loss carry forward]|5034=3188115|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Partial year]|5034=3188116|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Net gain from operations]|5034=3188117|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Diluted EPS]|5034=3188118|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Exclude extraordinary income]|5034=3188119|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Include extraordinary income]|5034=3188120|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Exclude extraordinary charges]|5034=3188121|5035=3035|5026=1|
+5033=ERN_NEXTYR_PS_PRICE[Include extraordinary charges]|5034=3188122|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Fixed charges times earned]|5034=3189098|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Company only (unconsolidated)]|5034=3189099|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Deficit]|5034=3189100|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[S&P estimate]|5034=3189101|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Pro forma]|5034=3189102|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Fully diluted earnings]|5034=3189103|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Currency of country of origin]|5034=3189105|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Interim periods reflect prior or future years]|5034=3189107|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Interim not comparable with annual earnings]|5034=3189108|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Net asset value]|5034=3189110|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Combined classes of stock]|5034=3189111|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Preliminary]|5034=3189112|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3189114|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Before tax loss carry forward]|5034=3189115|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Partial year]|5034=3189116|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Net gain from operations]|5034=3189117|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Diluted EPS]|5034=3189118|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Exclude extraordinary income]|5034=3189119|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Include extraordinary income]|5034=3189120|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Exclude extraordinary charges]|5034=3189121|5035=3035|5026=1|
+5033=ERN_YR1_PS_PRICE[Include extraordinary charges]|5034=3189122|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Fixed charges times earned]|5034=3190098|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Company only (unconsolidated)]|5034=3190099|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Deficit]|5034=3190100|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[S&P estimate]|5034=3190101|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Pro forma]|5034=3190102|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Fully diluted earnings]|5034=3190103|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Currency of country of origin]|5034=3190105|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Interim periods reflect prior or future years]|5034=3190107|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Interim not comparable with annual earnings]|5034=3190108|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Net asset value]|5034=3190110|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Combined classes of stock]|5034=3190111|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Preliminary]|5034=3190112|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3190114|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Before tax loss carry forward]|5034=3190115|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Partial year]|5034=3190116|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Net gain from operations]|5034=3190117|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Diluted EPS]|5034=3190118|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Exclude extraordinary income]|5034=3190119|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Include extraordinary income]|5034=3190120|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Exclude extraordinary charges]|5034=3190121|5035=3035|5026=1|
+5033=ERN_YR2_PS_PRICE[Include extraordinary charges]|5034=3190122|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Fixed charges times earned]|5034=3191098|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Company only (unconsolidated)]|5034=3191099|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Deficit]|5034=3191100|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[S&P estimate]|5034=3191101|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Pro forma]|5034=3191102|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Fully diluted earnings]|5034=3191103|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Currency of country of origin]|5034=3191105|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Interim periods reflect prior or future years]|5034=3191107|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Interim not comparable with annual earnings]|5034=3191108|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Net asset value]|5034=3191110|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Combined classes of stock]|5034=3191111|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Preliminary]|5034=3191112|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3191114|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Before tax loss carry forward]|5034=3191115|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Partial year]|5034=3191116|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Net gain from operations]|5034=3191117|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Diluted EPS]|5034=3191118|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Exclude extraordinary income]|5034=3191119|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Include extraordinary income]|5034=3191120|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Exclude extraordinary charges]|5034=3191121|5035=3035|5026=1|
+5033=ERN_YR3_PS_PRICE[Include extraordinary charges]|5034=3191122|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Fixed charges times earned]|5034=3192098|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Company only (unconsolidated)]|5034=3192099|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Deficit]|5034=3192100|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[S&P estimate]|5034=3192101|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Pro forma]|5034=3192102|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Fully diluted earnings]|5034=3192103|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Currency of country of origin]|5034=3192105|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Interim periods reflect prior or future years]|5034=3192107|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Interim not comparable with annual earnings]|5034=3192108|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Net asset value]|5034=3192110|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Combined classes of stock]|5034=3192111|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Preliminary]|5034=3192112|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Primary earnings with dilutive common equivalents]|5034=3192114|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Before tax loss carry forward]|5034=3192115|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Partial year]|5034=3192116|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Net gain from operations]|5034=3192117|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Diluted EPS]|5034=3192118|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Exclude extraordinary income]|5034=3192119|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Include extraordinary income]|5034=3192120|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Exclude extraordinary charges]|5034=3192121|5035=3035|5026=1|
+5033=ERN_YR4_PS_PRICE[Include extraordinary charges]|5034=3192122|5035=3035|5026=1|
+5033=FUND_LONG_TERM_DEBT[Giving effect to new financing]|5034=3193098|5035=3035|5026=1|
+5033=FUND_LONG_TERM_DEBT[Pro forma]|5034=3193102|5035=3035|5026=1|
+5033=FUND_LONG_TERM_DEBT[Currency of country of origin]|5034=3193105|5035=3035|5026=1|
+5033=FUND_LONG_TERM_DEBT[Combined various classes]|5034=3193111|5035=3035|5026=1|
+5033=PREF_SHR_OUT[Giving effect to new financing]|5034=3194098|5035=3035|5026=1|
+5033=PREF_SHR_OUT[Pro forma]|5034=3194102|5035=3035|5026=1|
+5033=PREF_SHR_OUT[Currency of country of origin]|5034=3194105|5035=3035|5026=1|
+5033=PREF_SHR_OUT[Combined various classes]|5034=3194111|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Based on last years payment]|5034=3195099|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Dividend converted to U.S. funds]|5034=3195100|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Excluding extras]|5034=3195101|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Pro forma]|5034=3195102|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Previous record (if any) not available]|5034=3195103|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[In Canadian funds]|5034=3195104|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Stock of another company]|5034=3195106|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Includes extras]|5034=3195107|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Also stock]|5034=3195110|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Dividend Paid a/c arrears]|5034=3195112|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Less tax country of origin]|5034=3195114|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Dividend from capital gains]|5034=3195115|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Excludeds dividend from capital gains]|5034=3195116|5035=3035|5026=1|
+5033=YR1_DIV_PRICE[Includes extras and stock]|5034=3195117|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Based on last years payment]|5034=3199099|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Dividend converted to U.S. funds]|5034=3199100|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Excluding extras]|5034=3199101|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Pro forma]|5034=3199102|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Previous record (if any) not available]|5034=3199103|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[In Canadian funds]|5034=3199104|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Stock of another company]|5034=3199106|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Includes extras]|5034=3199107|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Also stock]|5034=3199110|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Dividend Paid a/c arrears]|5034=3199112|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Less tax country of origin]|5034=3199114|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Dividend from capital gains]|5034=3199115|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Excludeds dividend from capital gains]|5034=3199116|5035=3035|5026=1|
+5033=YR2_DIV_PRICE[Includes extras and stock]|5034=3199117|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Based on last years payment]|5034=3200099|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Dividend converted to U.S. funds]|5034=3200100|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Excluding extras]|5034=3200101|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Pro forma]|5034=3200102|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Previous record (if any) not available]|5034=3200103|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[In Canadian funds]|5034=3200104|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Stock of another company]|5034=3200106|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Includes extras]|5034=3200107|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Also stock]|5034=3200110|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Dividend Paid a/c arrears]|5034=3200112|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Less tax country of origin]|5034=3200114|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Dividend from capital gains]|5034=3200115|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Excludeds dividend from capital gains]|5034=3200116|5035=3035|5026=1|
+5033=YR3_DIV_PRICE[Includes extras and stock]|5034=3200117|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Based on last years payment]|5034=3201099|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Dividend converted to U.S. funds]|5034=3201100|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Excluding extras]|5034=3201101|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Pro forma]|5034=3201102|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Previous record (if any) not available]|5034=3201103|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[In Canadian funds]|5034=3201104|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Stock of another company]|5034=3201106|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Includes extras]|5034=3201107|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Also stock]|5034=3201110|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Dividend Paid a/c arrears]|5034=3201112|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Less tax country of origin]|5034=3201114|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Dividend from capital gains]|5034=3201115|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Excludeds dividend from capital gains]|5034=3201116|5035=3035|5026=1|
+5033=YR4_DIV_PRICE[Includes extras and stock]|5034=3201117|5035=3035|5026=1|
+5033=EQUITY|5034=256|5035=3132|5026=1|
+5033=COMMON_STOCK|5034=257|5035=3132|5026=1|
+5033=PREFERRED_STOCK|5034=258|5035=3132|5026=1|
+5033=WARRANT|5034=260|5035=3132|5026=1|
+5033=PREMIUM|5034=264|5035=3132|5026=1|
+5033=TRUST|5034=268|5035=3132|5026=1|
+5033=RIGHT|5034=270|5035=3132|5026=1|
+5033=WARRANT_RIGHT|5034=271|5035=3132|5026=1|
+5033=INDEX|5034=512|5035=3132|5026=1|
+5033=COMMODITY|5034=1024|5035=3132|5026=1|
+5033=FUTURE_SPREAD|5034=1025|5035=3132|5026=1|
+5033=OPTION|5034=2048|5035=3132|5026=1|
+5033=EQUITY_OPTION|5034=2304|5035=3132|5026=1|
+5033=INDEX_OPTION|5034=2560|5035=3132|5026=1|
+5033=FUTURE_OPTION|5034=3072|5035=3132|5026=1|
+5033=FIXED_INCOME|5034=4096|5035=3132|5026=1|
+5033=BOND|5034=4097|5035=3132|5026=1|
+5033=CONVERTIBLE_BOND|5034=4098|5035=3132|5026=1|
+5033=GOV_BOND|5034=4100|5035=3132|5026=1|
+5033=CORP_BOND|5034=4104|5035=3132|5026=1|
+5033=US_AGENCY_BOND|5034=4112|5035=3132|5026=1|
+5033=US_TREASURY_BILL|5034=4128|5035=3132|5026=1|
+5033=US_TREASURY_COUPON|5034=4160|5035=3132|5026=1|
+5033=MONEY_MARKET|5034=4224|5035=3132|5026=1|
+5033=CD|5034=4352|5035=3132|5026=1|
+5033=MUTUAL_FUND|5034=8192|5035=3132|5026=1|
+5033=EXCHANGE_TRADED_FUND|5034=8193|5035=3132|5026=1|
+5033=FOREX|5034=16384|5035=3132|5026=1|
+5033=FOREX_FRA|5034=16385|5035=3132|5026=1|
+5033=FOREX_DEPOSIT|5034=16386|5035=3132|5026=1|
+5033=FOREX_FORWARD|5034=17408|5035=3132|5026=1|
+5033=STATISTICS|5034=20480|5035=3132|5026=1|
+5033=TEST|5034=65534|5035=3132|5026=1|
+5033=MISCELLANEOUS|5034=65535|5035=3132|5026=1|
+5033=Wheat|5034=111|5035=3211|5026=1|
+5033=Rice|5034=112|5035=3211|5026=1|
+5033=Corn|5034=115|5035=3211|5026=1|
+5033=Soybeans|5034=116|5035=3211|5026=1|
+5033=Cash grains, not elsewhere classified|5034=119|5035=3211|5026=1|
+5033=Cotton|5034=131|5035=3211|5026=1|
+5033=Tobacco|5034=132|5035=3211|5026=1|
+5033=Sugarcane & sugar beets|5034=133|5035=3211|5026=1|
+5033=Irish potatoes|5034=134|5035=3211|5026=1|
+5033=Field crops, except cash grains, not elsewhere classified|5034=139|5035=3211|5026=1|
+5033=Vegetables & melons|5034=161|5035=3211|5026=1|
+5033=Berry crops|5034=171|5035=3211|5026=1|
+5033=Grapes|5034=172|5035=3211|5026=1|
+5033=Tree nuts|5034=173|5035=3211|5026=1|
+5033=Citrus fruits|5034=174|5035=3211|5026=1|
+5033=Deciduous tree fruits|5034=175|5035=3211|5026=1|
+5033=Fruits & tree nuts, not elsewhere classified|5034=179|5035=3211|5026=1|
+5033=Ornamental nursery products|5034=181|5035=3211|5026=1|
+5033=Food crops grown under cover|5034=182|5035=3211|5026=1|
+5033=General farms, primarily crop|5034=191|5035=3211|5026=1|
+5033=Beef cattle feedlots|5034=211|5035=3211|5026=1|
+5033=Beef cattle, except feedlots|5034=212|5035=3211|5026=1|
+5033=Hogs|5034=213|5035=3211|5026=1|
+5033=Sheep & goats|5034=214|5035=3211|5026=1|
+5033=General livestock, not elsewhere classified|5034=219|5035=3211|5026=1|
+5033=Dairy farms|5034=241|5035=3211|5026=1|
+5033=Broiler, fryer, & roaster chickens|5034=251|5035=3211|5026=1|
+5033=Chicken eggs|5034=252|5035=3211|5026=1|
+5033=Turkeys & turkey eggs|5034=253|5035=3211|5026=1|
+5033=Poultry hatcheries|5034=254|5035=3211|5026=1|
+5033=Poultry & eggs, not elsewhere classified|5034=259|5035=3211|5026=1|
+5033=Fur-bearing animals & rabbits|5034=271|5035=3211|5026=1|
+5033=Horses & other equines|5034=272|5035=3211|5026=1|
+5033=Animal aquaculture|5034=273|5035=3211|5026=1|
+5033=Animal specialties, not elsewhere classified|5034=279|5035=3211|5026=1|
+5033=General farms, primarily animal|5034=291|5035=3211|5026=1|
+5033=Soil preparation services|5034=711|5035=3211|5026=1|
+5033=Crop planting & protecting|5034=721|5035=3211|5026=1|
+5033=Crop harvesting|5034=722|5035=3211|5026=1|
+5033=Crop preparation services for market|5034=723|5035=3211|5026=1|
+5033=Cotton ginning|5034=724|5035=3211|5026=1|
+5033=Veterinary services for livestock|5034=741|5035=3211|5026=1|
+5033=Veterinary services, specialties|5034=742|5035=3211|5026=1|
+5033=Livestock services, except veterinary|5034=751|5035=3211|5026=1|
+5033=Animal specialty services|5034=752|5035=3211|5026=1|
+5033=Farm labor contractors|5034=761|5035=3211|5026=1|
+5033=Farm management services|5034=762|5035=3211|5026=1|
+5033=Landscape counseling & planning|5034=781|5035=3211|5026=1|
+5033=Lawn & garden services|5034=782|5035=3211|5026=1|
+5033=Ornamental shrub & tree services|5034=783|5035=3211|5026=1|
+5033=Timber tracts|5034=811|5035=3211|5026=1|
+5033=Forest products|5034=831|5035=3211|5026=1|
+5033=Forestry services|5034=851|5035=3211|5026=1|
+5033=Finfish|5034=912|5035=3211|5026=1|
+5033=Shellfish|5034=913|5035=3211|5026=1|
+5033=Miscellaneous marine products|5034=919|5035=3211|5026=1|
+5033=Fish hatcheries & preserves|5034=921|5035=3211|5026=1|
+5033=Hunting, trapping, game propagation|5034=971|5035=3211|5026=1|
+5033=Iron ores|5034=1011|5035=3211|5026=1|
+5033=Copper ores|5034=1021|5035=3211|5026=1|
+5033=Lead & zinc ores|5034=1031|5035=3211|5026=1|
+5033=Gold ores|5034=1041|5035=3211|5026=1|
+5033=Silver ores|5034=1044|5035=3211|5026=1|
+5033=Ferroalloy ores, except vanadium|5034=1061|5035=3211|5026=1|
+5033=Metal mining services|5034=1081|5035=3211|5026=1|
+5033=Uranium-radium-vanadium ores|5034=1094|5035=3211|5026=1|
+5033=Metal ores, not elsewhere classified|5034=1099|5035=3211|5026=1|
+5033=Bituminous coal & lignite surface mining|5034=1221|5035=3211|5026=1|
+5033=Bituminous coal underground mining|5034=1222|5035=3211|5026=1|
+5033=Anthracite mining|5034=1231|5035=3211|5026=1|
+5033=Coal mining services|5034=1241|5035=3211|5026=1|
+5033=Crude petroleum & natural gas|5034=1311|5035=3211|5026=1|
+5033=Natural gas liquids|5034=1321|5035=3211|5026=1|
+5033=Drilling oil & gas wells|5034=1381|5035=3211|5026=1|
+5033=Oil & gas exploration services|5034=1382|5035=3211|5026=1|
+5033=Oil & gas field services, not elsewhere classified|5034=1389|5035=3211|5026=1|
+5033=Dimension stone|5034=1411|5035=3211|5026=1|
+5033=Crushed & broken limestone|5034=1422|5035=3211|5026=1|
+5033=Crushed & broken granite|5034=1423|5035=3211|5026=1|
+5033=Crushed & broken stone, not elsewhere classified|5034=1429|5035=3211|5026=1|
+5033=Construction sand & gravel|5034=1442|5035=3211|5026=1|
+5033=Industrial sand|5034=1446|5035=3211|5026=1|
+5033=Kaolin & ball clay|5034=1455|5035=3211|5026=1|
+5033=Clay & related minerals, not elsewhere classified|5034=1459|5035=3211|5026=1|
+5033=Potash, soda, & borate minerals|5034=1474|5035=3211|5026=1|
+5033=Phosphate rock|5034=1475|5035=3211|5026=1|
+5033=Chemical & fertilizer mining, not elsewhere classified|5034=1479|5035=3211|5026=1|
+5033=Nonmetallic minerals services|5034=1481|5035=3211|5026=1|
+5033=Miscellaneous nonmetallic minerals|5034=1499|5035=3211|5026=1|
+5033=Single-family housing construction|5034=1521|5035=3211|5026=1|
+5033=Residential construction, not elsewhere classified|5034=1522|5035=3211|5026=1|
+5033=Operative builders|5034=1531|5035=3211|5026=1|
+5033=Industrial buildings & warehouses|5034=1541|5035=3211|5026=1|
+5033=Nonresidential construction, not elsewhere classified|5034=1542|5035=3211|5026=1|
+5033=Highway & street construction|5034=1611|5035=3211|5026=1|
+5033=Bridge, tunnel, & elevated highway|5034=1622|5035=3211|5026=1|
+5033=Water, sewer, & utility lines|5034=1623|5035=3211|5026=1|
+5033=Heavy construction, not elsewhere classified|5034=1629|5035=3211|5026=1|
+5033=Plumbing, heating, air-conditioning|5034=1711|5035=3211|5026=1|
+5033=Painting & paper hanging|5034=1721|5035=3211|5026=1|
+5033=Electrical work|5034=1731|5035=3211|5026=1|
+5033=Masonry & other stonework|5034=1741|5035=3211|5026=1|
+5033=Plastering, drywall, & insulation|5034=1742|5035=3211|5026=1|
+5033=Terrazzo, tile, marble, mosaic work|5034=1743|5035=3211|5026=1|
+5033=Carpentry work|5034=1751|5035=3211|5026=1|
+5033=Floor laying & floor work, not elsewhere classified|5034=1752|5035=3211|5026=1|
+5033=Roofing, siding, & sheet metal work|5034=1761|5035=3211|5026=1|
+5033=Concrete work|5034=1771|5035=3211|5026=1|
+5033=Water well drilling|5034=1781|5035=3211|5026=1|
+5033=Structural steel erection|5034=1791|5035=3211|5026=1|
+5033=Glass & glazing work|5034=1793|5035=3211|5026=1|
+5033=Excavation work|5034=1794|5035=3211|5026=1|
+5033=Wrecking & demolition work|5034=1795|5035=3211|5026=1|
+5033=Installing building equipment, not elsewhere classified|5034=1796|5035=3211|5026=1|
+5033=Special trade contractors, not elsewhere classified|5034=1799|5035=3211|5026=1|
+5033=Meat packing plants|5034=2011|5035=3211|5026=1|
+5033=Sausages & other prepared meats|5034=2013|5035=3211|5026=1|
+5033=Poultry slaughtering & processing|5034=2015|5035=3211|5026=1|
+5033=Creamery butter|5034=2021|5035=3211|5026=1|
+5033=Cheese, natural & processed|5034=2022|5035=3211|5026=1|
+5033=Dry, condensed, evaporated  products|5034=2023|5035=3211|5026=1|
+5033=Ice cream & frozen desserts|5034=2024|5035=3211|5026=1|
+5033=Fluid milk|5034=2026|5035=3211|5026=1|
+5033=Canned specialties|5034=2032|5035=3211|5026=1|
+5033=Canned fruits & vegetables|5034=2033|5035=3211|5026=1|
+5033=Dehydrated fruits, vegetables, soups|5034=2034|5035=3211|5026=1|
+5033=Pickles, sauces, & salad dressings|5034=2035|5035=3211|5026=1|
+5033=Frozen fruits & vegetables|5034=2037|5035=3211|5026=1|
+5033=Frozen specialties, not elsewhere classified|5034=2038|5035=3211|5026=1|
+5033=Flour & other grain mill products|5034=2041|5035=3211|5026=1|
+5033=Cereal breakfast foods|5034=2043|5035=3211|5026=1|
+5033=Rice milling|5034=2044|5035=3211|5026=1|
+5033=Prepared flour mixes & doughs|5034=2045|5035=3211|5026=1|
+5033=Wet corn milling|5034=2046|5035=3211|5026=1|
+5033=Dog & cat food|5034=2047|5035=3211|5026=1|
+5033=Prepared feeds, not elsewhere classified|5034=2048|5035=3211|5026=1|
+5033=Bread, cake, & related products|5034=2051|5035=3211|5026=1|
+5033=Cookies & crackers|5034=2052|5035=3211|5026=1|
+5033=Frozen bakery products, except bread|5034=2053|5035=3211|5026=1|
+5033=Raw cane sugar|5034=2061|5035=3211|5026=1|
+5033=Cane sugar refining|5034=2062|5035=3211|5026=1|
+5033=Beet sugar|5034=2063|5035=3211|5026=1|
+5033=Candy & other confectionery products|5034=2064|5035=3211|5026=1|
+5033=Chocolate & cocoa products|5034=2066|5035=3211|5026=1|
+5033=Chewing gum|5034=2067|5035=3211|5026=1|
+5033=Salted & roasted nuts & seeds|5034=2068|5035=3211|5026=1|
+5033=Cottonseed oil mills|5034=2074|5035=3211|5026=1|
+5033=Soybean oil mills|5034=2075|5035=3211|5026=1|
+5033=Vegetable oil mills, not elsewhere classified|5034=2076|5035=3211|5026=1|
+5033=Animal & marine fats & oils|5034=2077|5035=3211|5026=1|
+5033=Edible fats & oils, not elsewhere classified|5034=2079|5035=3211|5026=1|
+5033=Malt beverages|5034=2082|5035=3211|5026=1|
+5033=Malt|5034=2083|5035=3211|5026=1|
+5033=Wines, brandy, & brandy spirits|5034=2084|5035=3211|5026=1|
+5033=Distilled & blended liquors|5034=2085|5035=3211|5026=1|
+5033=Bottled & canned soft drinks|5034=2086|5035=3211|5026=1|
+5033=Flavoring extracts & syrups, not elsewhere classified|5034=2087|5035=3211|5026=1|
+5033=Canned & cured fish & seafoods|5034=2091|5035=3211|5026=1|
+5033=Fresh or frozen prepared fish|5034=2092|5035=3211|5026=1|
+5033=Roasted coffee|5034=2095|5035=3211|5026=1|
+5033=Potato chips & similar snacks|5034=2096|5035=3211|5026=1|
+5033=Manufactured ice|5034=2097|5035=3211|5026=1|
+5033=Macaroni & spaghetti|5034=2098|5035=3211|5026=1|
+5033=Food preparations, not elsewhere classified|5034=2099|5035=3211|5026=1|
+5033=Cigarettes|5034=2111|5035=3211|5026=1|
+5033=Cigars|5034=2121|5035=3211|5026=1|
+5033=Chewing & smoking tobacco|5034=2131|5035=3211|5026=1|
+5033=Tobacco stemming & redrying|5034=2141|5035=3211|5026=1|
+5033=Broadwoven fabric mills, cotton|5034=2211|5035=3211|5026=1|
+5033=Broadwoven fabric mills, manmade|5034=2221|5035=3211|5026=1|
+5033=Broadwoven fabric mills, wool|5034=2231|5035=3211|5026=1|
+5033=Narrow fabric mills|5034=2241|5035=3211|5026=1|
+5033=Women's hosiery, except socks|5034=2251|5035=3211|5026=1|
+5033=Hosiery, not elsewhere classified|5034=2252|5035=3211|5026=1|
+5033=Knit outerwear mills|5034=2253|5035=3211|5026=1|
+5033=Knit underwear mills|5034=2254|5035=3211|5026=1|
+5033=Weft knit fabric mills|5034=2257|5035=3211|5026=1|
+5033=Lace & warp knit fabric mills|5034=2258|5035=3211|5026=1|
+5033=Knitting mills, not elsewhere classified|5034=2259|5035=3211|5026=1|
+5033=Finishing plants, cotton|5034=2261|5035=3211|5026=1|
+5033=Finishing plants, manmade|5034=2262|5035=3211|5026=1|
+5033=Finishing plants, not elsewhere classified|5034=2269|5035=3211|5026=1|
+5033=Carpets & rugs|5034=2273|5035=3211|5026=1|
+5033=Yarn spinning mills|5034=2281|5035=3211|5026=1|
+5033=Throwing & winding mills|5034=2282|5035=3211|5026=1|
+5033=Thread mills|5034=2284|5035=3211|5026=1|
+5033=Coated fabrics, not rubberized|5034=2295|5035=3211|5026=1|
+5033=Tire cord & fabrics|5034=2296|5035=3211|5026=1|
+5033=Nonwoven fabrics|5034=2297|5035=3211|5026=1|
+5033=Cordage & twine|5034=2298|5035=3211|5026=1|
+5033=Textile goods, not elsewhere classified|5034=2299|5035=3211|5026=1|
+5033=Men's & boys' suits & coats|5034=2311|5035=3211|5026=1|
+5033=Men's & boys' shirts|5034=2321|5035=3211|5026=1|
+5033=Men's & boys' underwear & nightwear|5034=2322|5035=3211|5026=1|
+5033=Men's & boys' neckwear|5034=2323|5035=3211|5026=1|
+5033=Men's & boys' trousers & slacks|5034=2325|5035=3211|5026=1|
+5033=Men's & boys' work clothing|5034=2326|5035=3211|5026=1|
+5033=Men's & boys' clothing, not elsewhere classified|5034=2329|5035=3211|5026=1|
+5033=Women's & misses' blouses & shirts|5034=2331|5035=3211|5026=1|
+5033=Women's, junior's, & misses' dresses|5034=2335|5035=3211|5026=1|
+5033=Women's & misses' suits & coats|5034=2337|5035=3211|5026=1|
+5033=Women's & misses' outerwear, not elsewhere classified|5034=2339|5035=3211|5026=1|
+5033=Women's & children's underwear|5034=2341|5035=3211|5026=1|
+5033=Bras, girdles, & allied garments|5034=2342|5035=3211|5026=1|
+5033=Hats, caps, & millinery|5034=2353|5035=3211|5026=1|
+5033=Girls' & children's dresses, blouses|5034=2361|5035=3211|5026=1|
+5033=Girls' & children's outerwear, not elsewhere classified|5034=2369|5035=3211|5026=1|
+5033=Fur goods|5034=2371|5035=3211|5026=1|
+5033=Fabric dress & work gloves|5034=2381|5035=3211|5026=1|
+5033=Robes & dressing gowns|5034=2384|5035=3211|5026=1|
+5033=Waterproof outerwear|5034=2385|5035=3211|5026=1|
+5033=Leather & sheep-lined clothing|5034=2386|5035=3211|5026=1|
+5033=Apparel belts|5034=2387|5035=3211|5026=1|
+5033=Apparel & accessories, not elsewhere classified|5034=2389|5035=3211|5026=1|
+5033=Curtains & draperies|5034=2391|5035=3211|5026=1|
+5033=Housefurnishings, not elsewhere classified|5034=2392|5035=3211|5026=1|
+5033=Textile bags|5034=2393|5035=3211|5026=1|
+5033=Canvas & related products|5034=2394|5035=3211|5026=1|
+5033=Pleating & stitching|5034=2395|5035=3211|5026=1|
+5033=Automotive & apparel trimmings|5034=2396|5035=3211|5026=1|
+5033=Schiffli machine embroideries|5034=2397|5035=3211|5026=1|
+5033=Fabricated textile products, not elsewhere classified|5034=2399|5035=3211|5026=1|
+5033=Logging|5034=2411|5035=3211|5026=1|
+5033=Sawmills & planing mills, general|5034=2421|5035=3211|5026=1|
+5033=Hardwood dimension & flooring mills|5034=2426|5035=3211|5026=1|
+5033=Special product sawmills, not elsewhere classified|5034=2429|5035=3211|5026=1|
+5033=Millwork|5034=2431|5035=3211|5026=1|
+5033=Wood kitchen cabinets|5034=2434|5035=3211|5026=1|
+5033=Hardwood veneer & plywood|5034=2435|5035=3211|5026=1|
+5033=Softwood veneer & plywood|5034=2436|5035=3211|5026=1|
+5033=Structural wood members, not elsewhere classified|5034=2439|5035=3211|5026=1|
+5033=Nailed wood boxes & shook|5034=2441|5035=3211|5026=1|
+5033=Wood pallets & skids|5034=2448|5035=3211|5026=1|
+5033=Wood containers, not elsewhere classified|5034=2449|5035=3211|5026=1|
+5033=Mobile homes|5034=2451|5035=3211|5026=1|
+5033=Prefabricated wood buildings|5034=2452|5035=3211|5026=1|
+5033=Wood preserving|5034=2491|5035=3211|5026=1|
+5033=Reconstituted wood products|5034=2493|5035=3211|5026=1|
+5033=Wood products, not elsewhere classified|5034=2499|5035=3211|5026=1|
+5033=Wood household furniture|5034=2511|5035=3211|5026=1|
+5033=Upholstered household furniture|5034=2512|5035=3211|5026=1|
+5033=Metal household furniture|5034=2514|5035=3211|5026=1|
+5033=Mattresses & bedsprings|5034=2515|5035=3211|5026=1|
+5033=Wood TV & radio cabinets|5034=2517|5035=3211|5026=1|
+5033=Household furniture, not elsewhere classified|5034=2519|5035=3211|5026=1|
+5033=Wood office furniture|5034=2521|5035=3211|5026=1|
+5033=Office furniture, except wood|5034=2522|5035=3211|5026=1|
+5033=Public building & related furniture|5034=2531|5035=3211|5026=1|
+5033=Wood partitions & fixtures|5034=2541|5035=3211|5026=1|
+5033=Partitions & fixtures, except wood|5034=2542|5035=3211|5026=1|
+5033=Drapery hardware & blinds & shades|5034=2591|5035=3211|5026=1|
+5033=Furniture & fixtures, not elsewhere classified|5034=2599|5035=3211|5026=1|
+5033=Pulp mills|5034=2611|5035=3211|5026=1|
+5033=Paper mills|5034=2621|5035=3211|5026=1|
+5033=Paperboard mills|5034=2631|5035=3211|5026=1|
+5033=Setup paperboard boxes|5034=2652|5035=3211|5026=1|
+5033=Corrugated & solid fiber boxes|5034=2653|5035=3211|5026=1|
+5033=Fiber cans, drums & similar products|5034=2655|5035=3211|5026=1|
+5033=Sanitary food containers|5034=2656|5035=3211|5026=1|
+5033=Folding paperboard boxes|5034=2657|5035=3211|5026=1|
+5033=Paper coated & laminated, packaging|5034=2671|5035=3211|5026=1|
+5033=Paper coated & laminated, not elsewhere classified|5034=2672|5035=3211|5026=1|
+5033=Bags: plastics, laminated, & coated|5034=2673|5035=3211|5026=1|
+5033=Bags: uncoated paper & multiwall|5034=2674|5035=3211|5026=1|
+5033=Die-cut paper & board|5034=2675|5035=3211|5026=1|
+5033=Sanitary paper products|5034=2676|5035=3211|5026=1|
+5033=Envelopes|5034=2677|5035=3211|5026=1|
+5033=Stationery products|5034=2678|5035=3211|5026=1|
+5033=Converted paper products, not elsewhere classified|5034=2679|5035=3211|5026=1|
+5033=Newspapers|5034=2711|5035=3211|5026=1|
+5033=Periodicals|5034=2721|5035=3211|5026=1|
+5033=Book publishing|5034=2731|5035=3211|5026=1|
+5033=Book printing|5034=2732|5035=3211|5026=1|
+5033=Miscellaneous publishing|5034=2741|5035=3211|5026=1|
+5033=Commercial printing, lithographic|5034=2752|5035=3211|5026=1|
+5033=Commercial printing, gravure|5034=2754|5035=3211|5026=1|
+5033=Commercial printing, not elsewhere classified|5034=2759|5035=3211|5026=1|
+5033=Manifold business forms|5034=2761|5035=3211|5026=1|
+5033=Greeting cards|5034=2771|5035=3211|5026=1|
+5033=Blankbooks & looseleaf binders|5034=2782|5035=3211|5026=1|
+5033=Bookbinding & related work|5034=2789|5035=3211|5026=1|
+5033=Typesetting|5034=2791|5035=3211|5026=1|
+5033=Platemaking services|5034=2796|5035=3211|5026=1|
+5033=Alkalies & chlorine|5034=2812|5035=3211|5026=1|
+5033=Industrial gases|5034=2813|5035=3211|5026=1|
+5033=Inorganic pigments|5034=2816|5035=3211|5026=1|
+5033=Industrial inorganic chemicals, not elsewhere classified|5034=2819|5035=3211|5026=1|
+5033=Plastics materials & resins|5034=2821|5035=3211|5026=1|
+5033=Synthetic rubber|5034=2822|5035=3211|5026=1|
+5033=Cellulosic manmade fibers|5034=2823|5035=3211|5026=1|
+5033=Organic fibers, noncellulosic|5034=2824|5035=3211|5026=1|
+5033=Medicinals & botanicals|5034=2833|5035=3211|5026=1|
+5033=Pharmaceutical preparations|5034=2834|5035=3211|5026=1|
+5033=Diagnostic substances|5034=2835|5035=3211|5026=1|
+5033=Biological products except diagnostic|5034=2836|5035=3211|5026=1|
+5033=Soap & other detergents|5034=2841|5035=3211|5026=1|
+5033=Polishes & sanitation goods|5034=2842|5035=3211|5026=1|
+5033=Surface active agents|5034=2843|5035=3211|5026=1|
+5033=Toilet preparations|5034=2844|5035=3211|5026=1|
+5033=Paints & allied products|5034=2851|5035=3211|5026=1|
+5033=Gum & wood chemicals|5034=2861|5035=3211|5026=1|
+5033=Cyclic crudes & intermediates|5034=2865|5035=3211|5026=1|
+5033=Industrial organic chemicals, not elsewhere classified|5034=2869|5035=3211|5026=1|
+5033=Nitrogenous fertilizers|5034=2873|5035=3211|5026=1|
+5033=Phosphatic fertilizers|5034=2874|5035=3211|5026=1|
+5033=Fertilizers, mixing only|5034=2875|5035=3211|5026=1|
+5033=Agricultural chemicals, not elsewhere classified|5034=2879|5035=3211|5026=1|
+5033=Adhesives & sealants|5034=2891|5035=3211|5026=1|
+5033=Explosives|5034=2892|5035=3211|5026=1|
+5033=Printing ink|5034=2893|5035=3211|5026=1|
+5033=Carbon black|5034=2895|5035=3211|5026=1|
+5033=Chemical preparations, not elsewhere classified|5034=2899|5035=3211|5026=1|
+5033=Petroleum refining|5034=2911|5035=3211|5026=1|
+5033=Asphalt paving mixtures & blocks|5034=2951|5035=3211|5026=1|
+5033=Asphalt felts & coatings|5034=2952|5035=3211|5026=1|
+5033=Lubricating oils & greases|5034=2992|5035=3211|5026=1|
+5033=Petroleum & coal products, not elsewhere classified|5034=2999|5035=3211|5026=1|
+5033=Tires & inner tubes|5034=3011|5035=3211|5026=1|
+5033=Rubber & plastics footwear|5034=3021|5035=3211|5026=1|
+5033=Rubber & plastics hose & belting|5034=3052|5035=3211|5026=1|
+5033=Gaskets, packing & sealing devices|5034=3053|5035=3211|5026=1|
+5033=Mechanical rubber goods|5034=3061|5035=3211|5026=1|
+5033=Fabricated rubber products, not elsewhere classified|5034=3069|5035=3211|5026=1|
+5033=Unsupported plastics film & sheet|5034=3081|5035=3211|5026=1|
+5033=Unsupported plastics profile shapes|5034=3082|5035=3211|5026=1|
+5033=Laminated plastics plate & sheet|5034=3083|5035=3211|5026=1|
+5033=Plastics pipe|5034=3084|5035=3211|5026=1|
+5033=Plastics bottles|5034=3085|5035=3211|5026=1|
+5033=Plastics foam products|5034=3086|5035=3211|5026=1|
+5033=Custom compound purchased resins|5034=3087|5035=3211|5026=1|
+5033=Plastics plumbing fixtures|5034=3088|5035=3211|5026=1|
+5033=Plastics products, not elsewhere classified|5034=3089|5035=3211|5026=1|
+5033=Leather tanning & finishing|5034=3111|5035=3211|5026=1|
+5033=Footwear cut stock|5034=3131|5035=3211|5026=1|
+5033=House slippers|5034=3142|5035=3211|5026=1|
+5033=Men's footwear, except athletic|5034=3143|5035=3211|5026=1|
+5033=Women's footwear, except athletic|5034=3144|5035=3211|5026=1|
+5033=Footwear, except rubber, not elsewhere classified|5034=3149|5035=3211|5026=1|
+5033=Leather gloves & mittens|5034=3151|5035=3211|5026=1|
+5033=Luggage|5034=3161|5035=3211|5026=1|
+5033=Women's handbags & purses|5034=3171|5035=3211|5026=1|
+5033=Personal leather goods, not elsewhere classified|5034=3172|5035=3211|5026=1|
+5033=Leather goods, not elsewhere classified|5034=3199|5035=3211|5026=1|
+5033=Flat glass|5034=3211|5035=3211|5026=1|
+5033=Glass containers|5034=3221|5035=3211|5026=1|
+5033=Pressed & blown glass, not elsewhere classified|5034=3229|5035=3211|5026=1|
+5033=Products of purchased glass|5034=3231|5035=3211|5026=1|
+5033=Cement, hydraulic|5034=3241|5035=3211|5026=1|
+5033=Brick & structural clay tile|5034=3251|5035=3211|5026=1|
+5033=Ceramic wall & floor tile|5034=3253|5035=3211|5026=1|
+5033=Clay refractories|5034=3255|5035=3211|5026=1|
+5033=Structural clay products, not elsewhere classified|5034=3259|5035=3211|5026=1|
+5033=Vitreous plumbing fixtures|5034=3261|5035=3211|5026=1|
+5033=Vitreous china table & kitchenware|5034=3262|5035=3211|5026=1|
+5033=Semivitreous table & kitchenware|5034=3263|5035=3211|5026=1|
+5033=Porcelain electrical supplies|5034=3264|5035=3211|5026=1|
+5033=Pottery products, not elsewhere classified|5034=3269|5035=3211|5026=1|
+5033=Concrete block & brick|5034=3271|5035=3211|5026=1|
+5033=Concrete products, not elsewhere classified|5034=3272|5035=3211|5026=1|
+5033=Ready-mixed concrete|5034=3273|5035=3211|5026=1|
+5033=Lime|5034=3274|5035=3211|5026=1|
+5033=Gypsum products|5034=3275|5035=3211|5026=1|
+5033=Cut stone & stone products|5034=3281|5035=3211|5026=1|
+5033=Abrasive products|5034=3291|5035=3211|5026=1|
+5033=Asbestos products|5034=3292|5035=3211|5026=1|
+5033=Minerals, ground or treated|5034=3295|5035=3211|5026=1|
+5033=Mineral wool|5034=3296|5035=3211|5026=1|
+5033=Nonclay refractories|5034=3297|5035=3211|5026=1|
+5033=Nonmetallic mineral products, not elsewhere classified|5034=3299|5035=3211|5026=1|
+5033=Blast furnaces & steel mills|5034=3312|5035=3211|5026=1|
+5033=Electrometallurgical products|5034=3313|5035=3211|5026=1|
+5033=Steel wire & related products|5034=3315|5035=3211|5026=1|
+5033=Cold finishing of steel shapes|5034=3316|5035=3211|5026=1|
+5033=Steel pipe & tubes|5034=3317|5035=3211|5026=1|
+5033=Gray  & ductile iron foundries|5034=3321|5035=3211|5026=1|
+5033=Malleable iron foundries|5034=3322|5035=3211|5026=1|
+5033=Steel investment foundries|5034=3324|5035=3211|5026=1|
+5033=Steel foundries, not elsewhere classified|5034=3325|5035=3211|5026=1|
+5033=Primary copper|5034=3331|5035=3211|5026=1|
+5033=Primary aluminum|5034=3334|5035=3211|5026=1|
+5033=Primary nonferrous metals, not elsewhere classified|5034=3339|5035=3211|5026=1|
+5033=Secondary nonferrous metals|5034=3341|5035=3211|5026=1|
+5033=Copper rolling & drawing|5034=3351|5035=3211|5026=1|
+5033=Aluminum sheet, plate, & foil|5034=3353|5035=3211|5026=1|
+5033=Aluminum extruded products|5034=3354|5035=3211|5026=1|
+5033=Aluminum rolling & drawing, not elsewhere classified|5034=3355|5035=3211|5026=1|
+5033=Nonferrous rolling & drawing, not elsewhere classified|5034=3356|5035=3211|5026=1|
+5033=Nonferrous wiredrawing & insulating|5034=3357|5035=3211|5026=1|
+5033=Aluminum die-castings|5034=3363|5035=3211|5026=1|
+5033=Nonferrous die-casting except aluminum|5034=3364|5035=3211|5026=1|
+5033=Aluminum foundries|5034=3365|5035=3211|5026=1|
+5033=Copper foundries|5034=3366|5035=3211|5026=1|
+5033=Nonferrous foundries, not elsewhere classified|5034=3369|5035=3211|5026=1|
+5033=Metal heat treating|5034=3398|5035=3211|5026=1|
+5033=Primary metal products, not elsewhere classified|5034=3399|5035=3211|5026=1|
+5033=Metal cans|5034=3411|5035=3211|5026=1|
+5033=Metal barrels, drums, & pails|5034=3412|5035=3211|5026=1|
+5033=Cutlery|5034=3421|5035=3211|5026=1|
+5033=Hand & edge tools, not elsewhere classified|5034=3423|5035=3211|5026=1|
+5033=Saw blades & handsaws|5034=3425|5035=3211|5026=1|
+5033=Hardware, not elsewhere classified|5034=3429|5035=3211|5026=1|
+5033=Metal sanitary ware|5034=3431|5035=3211|5026=1|
+5033=Plumbing fixture fittings & trim|5034=3432|5035=3211|5026=1|
+5033=Heating equipment, except electric|5034=3433|5035=3211|5026=1|
+5033=Fabricated structural metal|5034=3441|5035=3211|5026=1|
+5033=Metal doors, sash, & trim|5034=3442|5035=3211|5026=1|
+5033=Fabricated plate work (boiler shops)|5034=3443|5035=3211|5026=1|
+5033=Sheet metalwork|5034=3444|5035=3211|5026=1|
+5033=Architectural metal work|5034=3446|5035=3211|5026=1|
+5033=Prefabricated metal buildings|5034=3448|5035=3211|5026=1|
+5033=Miscellaneous metal work|5034=3449|5035=3211|5026=1|
+5033=Screw machine products|5034=3451|5035=3211|5026=1|
+5033=Bolts, nuts, rivets, & washers|5034=3452|5035=3211|5026=1|
+5033=Iron & steel forgings|5034=3462|5035=3211|5026=1|
+5033=Nonferrous forgings|5034=3463|5035=3211|5026=1|
+5033=Automotive stampings|5034=3465|5035=3211|5026=1|
+5033=Crowns & closures|5034=3466|5035=3211|5026=1|
+5033=Metal stampings, not elsewhere classified|5034=3469|5035=3211|5026=1|
+5033=Plating & polishing|5034=3471|5035=3211|5026=1|
+5033=Metal coating & allied services|5034=3479|5035=3211|5026=1|
+5033=Small arms ammunition|5034=3482|5035=3211|5026=1|
+5033=Ammunition, except for small arms, not elsewhere classified|5034=3483|5035=3211|5026=1|
+5033=Small arms|5034=3484|5035=3211|5026=1|
+5033=Ordnance & accessories, not elsewhere classified|5034=3489|5035=3211|5026=1|
+5033=Industrial valves|5034=3491|5035=3211|5026=1|
+5033=Fluid power valves & hose fittings|5034=3492|5035=3211|5026=1|
+5033=Steel springs, except wire|5034=3493|5035=3211|5026=1|
+5033=Valves & pipe fittings, not elsewhere classified|5034=3494|5035=3211|5026=1|
+5033=Wire springs|5034=3495|5035=3211|5026=1|
+5033=Miscellaneous fabricated wire products|5034=3496|5035=3211|5026=1|
+5033=Metal foil & leaf|5034=3497|5035=3211|5026=1|
+5033=Fabricated pipe & fittings|5034=3498|5035=3211|5026=1|
+5033=Fabricated metal products, not elsewhere classified|5034=3499|5035=3211|5026=1|
+5033=Turbines & turbine generator sets|5034=3511|5035=3211|5026=1|
+5033=Internal combustion engines, not elsewhere classified|5034=3519|5035=3211|5026=1|
+5033=Farm machinery & equipment|5034=3523|5035=3211|5026=1|
+5033=Lawn & garden equipment|5034=3524|5035=3211|5026=1|
+5033=Construction machinery|5034=3531|5035=3211|5026=1|
+5033=Mining machinery|5034=3532|5035=3211|5026=1|
+5033=Oil & gas field machinery|5034=3533|5035=3211|5026=1|
+5033=Elevators & moving stairways|5034=3534|5035=3211|5026=1|
+5033=Conveyors & conveying equipment|5034=3535|5035=3211|5026=1|
+5033=Hoists, cranes, & monorails|5034=3536|5035=3211|5026=1|
+5033=Industrial trucks & tractors|5034=3537|5035=3211|5026=1|
+5033=Machine tools, metal cutting types|5034=3541|5035=3211|5026=1|
+5033=Machine tools, metal forming types|5034=3542|5035=3211|5026=1|
+5033=Industrial patterns|5034=3543|5035=3211|5026=1|
+5033=Special dies, tools, jigs & fixtures|5034=3544|5035=3211|5026=1|
+5033=Machine tool accessories|5034=3545|5035=3211|5026=1|
+5033=Power-driven handtools|5034=3546|5035=3211|5026=1|
+5033=Rolling mill machinery|5034=3547|5035=3211|5026=1|
+5033=Welding apparatus|5034=3548|5035=3211|5026=1|
+5033=Metalworking machinery, not elsewhere classified|5034=3549|5035=3211|5026=1|
+5033=Textile machinery|5034=3552|5035=3211|5026=1|
+5033=Woodworking machinery|5034=3553|5035=3211|5026=1|
+5033=Paper industries machinery|5034=3554|5035=3211|5026=1|
+5033=Printing trades machinery|5034=3555|5035=3211|5026=1|
+5033=Food products machinery|5034=3556|5035=3211|5026=1|
+5033=Special industry machinery, not elsewhere classified|5034=3559|5035=3211|5026=1|
+5033=Pumps & pumping equipment|5034=3561|5035=3211|5026=1|
+5033=Ball & roller bearings|5034=3562|5035=3211|5026=1|
+5033=Air & gas compressors|5034=3563|5035=3211|5026=1|
+5033=Blowers & fans|5034=3564|5035=3211|5026=1|
+5033=Packaging machinery|5034=3565|5035=3211|5026=1|
+5033=Speed changers, drives, & gears|5034=3566|5035=3211|5026=1|
+5033=Industrial furnaces & ovens|5034=3567|5035=3211|5026=1|
+5033=Power transmission equipment, not elsewhere classified|5034=3568|5035=3211|5026=1|
+5033=General industrial machinery, not elsewhere classified|5034=3569|5035=3211|5026=1|
+5033=Electronic computers|5034=3571|5035=3211|5026=1|
+5033=Computer storage devices|5034=3572|5035=3211|5026=1|
+5033=Computer terminals|5034=3575|5035=3211|5026=1|
+5033=Computer peripheral equipment, not elsewhere classified|5034=3577|5035=3211|5026=1|
+5033=Calculating & accounting equipment|5034=3578|5035=3211|5026=1|
+5033=Office machines, not elsewhere classified|5034=3579|5035=3211|5026=1|
+5033=Automatic vending machines|5034=3581|5035=3211|5026=1|
+5033=Commercial laundry equipment|5034=3582|5035=3211|5026=1|
+5033=Refrigeration & heating equipment|5034=3585|5035=3211|5026=1|
+5033=Measuring & dispensing pumps|5034=3586|5035=3211|5026=1|
+5033=Service industry machinery, not elsewhere classified|5034=3589|5035=3211|5026=1|
+5033=Carburetors, pistons, rings, valves|5034=3592|5035=3211|5026=1|
+5033=Fluid power cylinders & actuators|5034=3593|5035=3211|5026=1|
+5033=Fluid power pumps & motors|5034=3594|5035=3211|5026=1|
+5033=Scales & balances, except laboratory|5034=3596|5035=3211|5026=1|
+5033=Industrial machinery, not elsewhere classified|5034=3599|5035=3211|5026=1|
+5033=Transformers, except electronic|5034=3612|5035=3211|5026=1|
+5033=Switchgear & switchboard apparatus|5034=3613|5035=3211|5026=1|
+5033=Motors & generators|5034=3621|5035=3211|5026=1|
+5033=Carbon & graphite products|5034=3624|5035=3211|5026=1|
+5033=Relays & industrial controls|5034=3625|5035=3211|5026=1|
+5033=Electrical industrial apparatus, not elsewhere classified|5034=3629|5035=3211|5026=1|
+5033=Household cooking equipment|5034=3631|5035=3211|5026=1|
+5033=Household refrigerators & freezers|5034=3632|5035=3211|5026=1|
+5033=Household laundry equipment|5034=3633|5035=3211|5026=1|
+5033=Electric housewares & fans|5034=3634|5035=3211|5026=1|
+5033=Household vacuum cleaners|5034=3635|5035=3211|5026=1|
+5033=Household appliances, not elsewhere classified|5034=3639|5035=3211|5026=1|
+5033=Electric lamps|5034=3641|5035=3211|5026=1|
+5033=Current-carrying wiring devices|5034=3643|5035=3211|5026=1|
+5033=Noncurrent-carrying wiring devices|5034=3644|5035=3211|5026=1|
+5033=Residential lighting fixtures|5034=3645|5035=3211|5026=1|
+5033=Commercial lighting fixtures|5034=3646|5035=3211|5026=1|
+5033=Vehicular lighting equipment|5034=3647|5035=3211|5026=1|
+5033=Lighting equipment, not elsewhere classified|5034=3648|5035=3211|5026=1|
+5033=Household audio & video equipment|5034=3651|5035=3211|5026=1|
+5033=Prerecorded records & tapes|5034=3652|5035=3211|5026=1|
+5033=Telephone & telegraph apparatus|5034=3661|5035=3211|5026=1|
+5033=Radio & TV communications equipment|5034=3663|5035=3211|5026=1|
+5033=Communications equipment, not elsewhere classified|5034=3669|5035=3211|5026=1|
+5033=Electron tubes|5034=3671|5035=3211|5026=1|
+5033=Printed circuit boards|5034=3672|5035=3211|5026=1|
+5033=Semiconductors & related devices|5034=3674|5035=3211|5026=1|
+5033=Electronic capacitors|5034=3675|5035=3211|5026=1|
+5033=Electronic resistors|5034=3676|5035=3211|5026=1|
+5033=Electronic coils & transformers|5034=3677|5035=3211|5026=1|
+5033=Electronic connectors|5034=3678|5035=3211|5026=1|
+5033=Electronic components, not elsewhere classified|5034=3679|5035=3211|5026=1|
+5033=Storage batteries|5034=3691|5035=3211|5026=1|
+5033=Primary batteries, dry & wet|5034=3692|5035=3211|5026=1|
+5033=Engine electrical equipment|5034=3694|5035=3211|5026=1|
+5033=Magnetic & optical recording media|5034=3695|5035=3211|5026=1|
+5033=Electrical equipment & supplies, not elsewhere classified|5034=3699|5035=3211|5026=1|
+5033=Motor vehicles & car bodies|5034=3711|5035=3211|5026=1|
+5033=Truck & bus bodies|5034=3713|5035=3211|5026=1|
+5033=Motor vehicle parts & accessories|5034=3714|5035=3211|5026=1|
+5033=Truck trailers|5034=3715|5035=3211|5026=1|
+5033=Motor homes|5034=3716|5035=3211|5026=1|
+5033=Aircraft|5034=3721|5035=3211|5026=1|
+5033=Aircraft engines & engine parts|5034=3724|5035=3211|5026=1|
+5033=Aircraft parts & equipment, not elsewhere classified|5034=3728|5035=3211|5026=1|
+5033=Ship building & repairing|5034=3731|5035=3211|5026=1|
+5033=Boat building & repairing|5034=3732|5035=3211|5026=1|
+5033=Railroad equipment|5034=3743|5035=3211|5026=1|
+5033=Motorcycles, bicycles, & parts|5034=3751|5035=3211|5026=1|
+5033=Guided missiles & space vehicles|5034=3761|5035=3211|5026=1|
+5033=Space propulsion units & parts|5034=3764|5035=3211|5026=1|
+5033=Space vehicle equipment, not elsewhere classified|5034=3769|5035=3211|5026=1|
+5033=Travel trailers & campers|5034=3792|5035=3211|5026=1|
+5033=Tanks & tank components|5034=3795|5035=3211|5026=1|
+5033=Transportation equipment, not elsewhere classified|5034=3799|5035=3211|5026=1|
+5033=Search & navigation equipment|5034=3812|5035=3211|5026=1|
+5033=Laboratory apparatus & furniture|5034=3821|5035=3211|5026=1|
+5033=Environmental controls|5034=3822|5035=3211|5026=1|
+5033=Process control instruments|5034=3823|5035=3211|5026=1|
+5033=Fluid meters & counting devices|5034=3824|5035=3211|5026=1|
+5033=Instruments to measure electricity|5034=3825|5035=3211|5026=1|
+5033=Analytical instruments|5034=3826|5035=3211|5026=1|
+5033=Optical instruments & lenses|5034=3827|5035=3211|5026=1|
+5033=Measuring & controlling devices, not elsewhere classified|5034=3829|5035=3211|5026=1|
+5033=Surgical & medical instruments|5034=3841|5035=3211|5026=1|
+5033=Surgical appliances & supplies|5034=3842|5035=3211|5026=1|
+5033=Dental equipment & supplies|5034=3843|5035=3211|5026=1|
+5033=X-ray apparatus & tubes|5034=3844|5035=3211|5026=1|
+5033=Electromedical equipment|5034=3845|5035=3211|5026=1|
+5033=Ophthalmic goods|5034=3851|5035=3211|5026=1|
+5033=Photographic equipment & supplies|5034=3861|5035=3211|5026=1|
+5033=Watches, clocks, watchcases & parts|5034=3873|5035=3211|5026=1|
+5033=Jewelry, precious metal|5034=3911|5035=3211|5026=1|
+5033=Silverware & plated ware|5034=3914|5035=3211|5026=1|
+5033=Jewelers' materials & lapidary work|5034=3915|5035=3211|5026=1|
+5033=Musical instruments|5034=3931|5035=3211|5026=1|
+5033=Dolls & stuffed toys|5034=3942|5035=3211|5026=1|
+5033=Games, toys, & children's vehicles|5034=3944|5035=3211|5026=1|
+5033=Sporting & athletic goods, not elsewhere classified|5034=3949|5035=3211|5026=1|
+5033=Pens & mechanical pencils|5034=3951|5035=3211|5026=1|
+5033=Lead pencils & art goods|5034=3952|5035=3211|5026=1|
+5033=Marking devices|5034=3953|5035=3211|5026=1|
+5033=Carbon paper & inked ribbons|5034=3955|5035=3211|5026=1|
+5033=Costume jewelry|5034=3961|5035=3211|5026=1|
+5033=Fasteners, buttons, needles, & pins|5034=3965|5035=3211|5026=1|
+5033=Brooms & brushes|5034=3991|5035=3211|5026=1|
+5033=Signs & advertising specialties|5034=3993|5035=3211|5026=1|
+5033=Burial caskets|5034=3995|5035=3211|5026=1|
+5033=Hard surface floor coverings, not elsewhere classified|5034=3996|5035=3211|5026=1|
+5033=Manufacturing industries, not elsewhere classified|5034=3999|5035=3211|5026=1|
+5033=Railroads, line-haul operating|5034=4011|5035=3211|5026=1|
+5033=Switching & terminal services|5034=4013|5035=3211|5026=1|
+5033=Local & suburban transit|5034=4111|5035=3211|5026=1|
+5033=Local passenger transportation, not elsewhere classified|5034=4119|5035=3211|5026=1|
+5033=Taxicabs|5034=4121|5035=3211|5026=1|
+5033=Intercity & rural bus transportation|5034=4131|5035=3211|5026=1|
+5033=Local bus charter service|5034=4141|5035=3211|5026=1|
+5033=Bus charter service, except local|5034=4142|5035=3211|5026=1|
+5033=School buses|5034=4151|5035=3211|5026=1|
+5033=Bus terminal & service facilities|5034=4173|5035=3211|5026=1|
+5033=Local trucking, without storage|5034=4212|5035=3211|5026=1|
+5033=Trucking, except local|5034=4213|5035=3211|5026=1|
+5033=Local trucking with storage|5034=4214|5035=3211|5026=1|
+5033=Courier services, except by air|5034=4215|5035=3211|5026=1|
+5033=Farm product warehousing & storage|5034=4221|5035=3211|5026=1|
+5033=Refrigerated warehousing & storage|5034=4222|5035=3211|5026=1|
+5033=General warehousing & storage|5034=4225|5035=3211|5026=1|
+5033=Special warehousing & storage, not elsewhere classified|5034=4226|5035=3211|5026=1|
+5033=Trucking terminal facilities|5034=4231|5035=3211|5026=1|
+5033=U.S. Postal Service|5034=4311|5035=3211|5026=1|
+5033=Deep sea foreign transportation of freight|5034=4412|5035=3211|5026=1|
+5033=Deep sea domestic transportation of freight|5034=4424|5035=3211|5026=1|
+5033=Freight transportation on the Great Lakes|5034=4432|5035=3211|5026=1|
+5033=Water transportation of freight, not elsewhere classified|5034=4449|5035=3211|5026=1|
+5033=Deep sea passenger transportation, except ferry|5034=4481|5035=3211|5026=1|
+5033=Ferries|5034=4482|5035=3211|5026=1|
+5033=Water passenger transportation, not elsewhere classified|5034=4489|5035=3211|5026=1|
+5033=Marine cargo handling|5034=4491|5035=3211|5026=1|
+5033=Towing & tugboat service|5034=4492|5035=3211|5026=1|
+5033=Marinas|5034=4493|5035=3211|5026=1|
+5033=Water transportation services, not elsewhere classified|5034=4499|5035=3211|5026=1|
+5033=Air transportation, scheduled|5034=4512|5035=3211|5026=1|
+5033=Air courier services|5034=4513|5035=3211|5026=1|
+5033=Air transportation, nonscheduled|5034=4522|5035=3211|5026=1|
+5033=Airports, flying fields, & services|5034=4581|5035=3211|5026=1|
+5033=Crude petroleum pipelines|5034=4612|5035=3211|5026=1|
+5033=Refined petroleum pipelines|5034=4613|5035=3211|5026=1|
+5033=Pipelines, not elsewhere classified|5034=4619|5035=3211|5026=1|
+5033=Travel agencies|5034=4724|5035=3211|5026=1|
+5033=Tour operators|5034=4725|5035=3211|5026=1|
+5033=Passenger transport arrangement, not elsewhere classified|5034=4729|5035=3211|5026=1|
+5033=Freight transportation arrangement|5034=4731|5035=3211|5026=1|
+5033=Rental of railroad cars|5034=4741|5035=3211|5026=1|
+5033=Packing & crating|5034=4783|5035=3211|5026=1|
+5033=Inspection & fixed facilities|5034=4785|5035=3211|5026=1|
+5033=Transportation services, not elsewhere classified|5034=4789|5035=3211|5026=1|
+5033=Radiotelephone communications|5034=4812|5035=3211|5026=1|
+5033=Telephone communications, except radio|5034=4813|5035=3211|5026=1|
+5033=Telegraph & other communications|5034=4822|5035=3211|5026=1|
+5033=Radio broadcasting stations|5034=4832|5035=3211|5026=1|
+5033=Television broadcasting stations|5034=4833|5035=3211|5026=1|
+5033=Cable & other pay TV services|5034=4841|5035=3211|5026=1|
+5033=Communication services, not elsewhere classified|5034=4899|5035=3211|5026=1|
+5033=Electric services|5034=4911|5035=3211|5026=1|
+5033=Natural gas transmission|5034=4922|5035=3211|5026=1|
+5033=Gas transmission & distribution|5034=4923|5035=3211|5026=1|
+5033=Natural gas distribution|5034=4924|5035=3211|5026=1|
+5033=Gas production and/or distribution|5034=4925|5035=3211|5026=1|
+5033=Electric & other services combined|5034=4931|5035=3211|5026=1|
+5033=Gas & other services combined|5034=4932|5035=3211|5026=1|
+5033=Combination utilities, not elsewhere classified|5034=4939|5035=3211|5026=1|
+5033=Water supply|5034=4941|5035=3211|5026=1|
+5033=Sewerage systems|5034=4952|5035=3211|5026=1|
+5033=Refuse systems|5034=4953|5035=3211|5026=1|
+5033=Sanitary services, not elsewhere classified|5034=4959|5035=3211|5026=1|
+5033=Steam & air-conditioning supply|5034=4961|5035=3211|5026=1|
+5033=Irrigation systems|5034=4971|5035=3211|5026=1|
+5033=Automobiles & other motor vehicles|5034=5012|5035=3211|5026=1|
+5033=Motor vehicle supplies & new parts|5034=5013|5035=3211|5026=1|
+5033=Tires & tubes|5034=5014|5035=3211|5026=1|
+5033=Motor vehicle parts, used|5034=5015|5035=3211|5026=1|
+5033=Furniture|5034=5021|5035=3211|5026=1|
+5033=Homefurnishings|5034=5023|5035=3211|5026=1|
+5033=Lumber, plywood, & millwork|5034=5031|5035=3211|5026=1|
+5033=Brick, stone, & related materials|5034=5032|5035=3211|5026=1|
+5033=Roofing, siding, & insulation|5034=5033|5035=3211|5026=1|
+5033=Construction materials, not elsewhere classified|5034=5039|5035=3211|5026=1|
+5033=Photographic equipment & supplies|5034=5043|5035=3211|5026=1|
+5033=Office equipment|5034=5044|5035=3211|5026=1|
+5033=Computers, peripherals & software|5034=5045|5035=3211|5026=1|
+5033=Commercial equipment, not elsewhere classified|5034=5046|5035=3211|5026=1|
+5033=Medical & hospital equipment|5034=5047|5035=3211|5026=1|
+5033=Ophthalmic goods|5034=5048|5035=3211|5026=1|
+5033=Professional equipment, not elsewhere classified|5034=5049|5035=3211|5026=1|
+5033=Metals service centers & offices|5034=5051|5035=3211|5026=1|
+5033=Coal & other minerals & ores|5034=5052|5035=3211|5026=1|
+5033=Electrical apparatus & equipment|5034=5063|5035=3211|5026=1|
+5033=Electrical appliances, TV & radios|5034=5064|5035=3211|5026=1|
+5033=Electronic parts & equipment|5034=5065|5035=3211|5026=1|
+5033=Hardware|5034=5072|5035=3211|5026=1|
+5033=Plumbing & hydronic heating supplies|5034=5074|5035=3211|5026=1|
+5033=Warm air heating & air-conditioning|5034=5075|5035=3211|5026=1|
+5033=Refrigeration equipment & supplies|5034=5078|5035=3211|5026=1|
+5033=Construction & mining machinery|5034=5082|5035=3211|5026=1|
+5033=Farm & garden machinery|5034=5083|5035=3211|5026=1|
+5033=Industrial machinery & equipment|5034=5084|5035=3211|5026=1|
+5033=Industrial supplies|5034=5085|5035=3211|5026=1|
+5033=Service establishment equipment|5034=5087|5035=3211|5026=1|
+5033=Transportation equipment & supplies|5034=5088|5035=3211|5026=1|
+5033=Sporting & recreational goods|5034=5091|5035=3211|5026=1|
+5033=Toys & hobby goods & supplies|5034=5092|5035=3211|5026=1|
+5033=Scrap & waste materials|5034=5093|5035=3211|5026=1|
+5033=Jewelry & precious stones|5034=5094|5035=3211|5026=1|
+5033=Durable goods, not elsewhere classified|5034=5099|5035=3211|5026=1|
+5033=Printing & writing paper|5034=5111|5035=3211|5026=1|
+5033=Stationery & office supplies|5034=5112|5035=3211|5026=1|
+5033=Industrial & personal service paper|5034=5113|5035=3211|5026=1|
+5033=Drugs, proprietaries, & sundries|5034=5122|5035=3211|5026=1|
+5033=Piece goods & notions|5034=5131|5035=3211|5026=1|
+5033=Men's & boys' clothing|5034=5136|5035=3211|5026=1|
+5033=Women's & children's clothing|5034=5137|5035=3211|5026=1|
+5033=Footwear|5034=5139|5035=3211|5026=1|
+5033=Groceries, general line|5034=5141|5035=3211|5026=1|
+5033=Packaged frozen foods|5034=5142|5035=3211|5026=1|
+5033=Dairy products, except dried or canned|5034=5143|5035=3211|5026=1|
+5033=Poultry & poultry products|5034=5144|5035=3211|5026=1|
+5033=Confectionery|5034=5145|5035=3211|5026=1|
+5033=Fish & seafoods|5034=5146|5035=3211|5026=1|
+5033=Meats & meat products|5034=5147|5035=3211|5026=1|
+5033=Fresh fruits & vegetables|5034=5148|5035=3211|5026=1|
+5033=Groceries & related products, not elsewhere classified|5034=5149|5035=3211|5026=1|
+5033=Grain & field beans|5034=5153|5035=3211|5026=1|
+5033=Livestock|5034=5154|5035=3211|5026=1|
+5033=Farm-product raw materials, not elsewhere classified|5034=5159|5035=3211|5026=1|
+5033=Plastics materials & basic shapes|5034=5162|5035=3211|5026=1|
+5033=Chemicals & allied products, not elsewhere classified|5034=5169|5035=3211|5026=1|
+5033=Petroleum bulk stations & terminals|5034=5171|5035=3211|5026=1|
+5033=Petroleum products, not elsewhere classified|5034=5172|5035=3211|5026=1|
+5033=Beer & ale|5034=5181|5035=3211|5026=1|
+5033=Wine & distilled beverages|5034=5182|5035=3211|5026=1|
+5033=Farm supplies|5034=5191|5035=3211|5026=1|
+5033=Books, periodicals, & newspapers|5034=5192|5035=3211|5026=1|
+5033=Flowers & florists' supplies|5034=5193|5035=3211|5026=1|
+5033=Tobacco & tobacco products|5034=5194|5035=3211|5026=1|
+5033=Paints, varnishes, & supplies|5034=5198|5035=3211|5026=1|
+5033=Nondurable goods, not elsewhere classified|5034=5199|5035=3211|5026=1|
+5033=Lumber & other building materials|5034=5211|5035=3211|5026=1|
+5033=Paint, glass, & wallpaper stores|5034=5231|5035=3211|5026=1|
+5033=Hardware stores|5034=5251|5035=3211|5026=1|
+5033=Retail nurseries & garden stores|5034=5261|5035=3211|5026=1|
+5033=Mobile home dealers|5034=5271|5035=3211|5026=1|
+5033=Department stores|5034=5311|5035=3211|5026=1|
+5033=Variety stores|5034=5331|5035=3211|5026=1|
+5033=Miscellaneous general merchandise stores|5034=5399|5035=3211|5026=1|
+5033=Grocery stores|5034=5411|5035=3211|5026=1|
+5033=Meat & fish markets|5034=5421|5035=3211|5026=1|
+5033=Fruit & vegetable markets|5034=5431|5035=3211|5026=1|
+5033=Candy, nut, & confectionery stores|5034=5441|5035=3211|5026=1|
+5033=Dairy products stores|5034=5451|5035=3211|5026=1|
+5033=Retail bakeries|5034=5461|5035=3211|5026=1|
+5033=Miscellaneous food stores|5034=5499|5035=3211|5026=1|
+5033=New & used car dealers|5034=5511|5035=3211|5026=1|
+5033=Used car dealers|5034=5521|5035=3211|5026=1|
+5033=Auto & home supply stores|5034=5531|5035=3211|5026=1|
+5033=Gasoline service stations|5034=5541|5035=3211|5026=1|
+5033=Boat dealers|5034=5551|5035=3211|5026=1|
+5033=Recreational vehicle dealers|5034=5561|5035=3211|5026=1|
+5033=Motorcycle dealers|5034=5571|5035=3211|5026=1|
+5033=Automotive dealers, not elsewhere classified|5034=5599|5035=3211|5026=1|
+5033=Men's & boys' clothing stores|5034=5611|5035=3211|5026=1|
+5033=Women's clothing stores|5034=5621|5035=3211|5026=1|
+5033=Women's accessory & specialty stores|5034=5632|5035=3211|5026=1|
+5033=Children's & infants' wear stores|5034=5641|5035=3211|5026=1|
+5033=Family clothing stores|5034=5651|5035=3211|5026=1|
+5033=Shoe stores|5034=5661|5035=3211|5026=1|
+5033=Miscellaneous apparel & accessory stores|5034=5699|5035=3211|5026=1|
+5033=Furniture stores|5034=5712|5035=3211|5026=1|
+5033=Floor covering stores|5034=5713|5035=3211|5026=1|
+5033=Drapery & upholstery stores|5034=5714|5035=3211|5026=1|
+5033=Miscellaneous homefurnishings stores|5034=5719|5035=3211|5026=1|
+5033=Household appliance stores|5034=5722|5035=3211|5026=1|
+5033=Radio, TV, & electronic stores|5034=5731|5035=3211|5026=1|
+5033=Computer & software stores|5034=5734|5035=3211|5026=1|
+5033=Record & prerecorded tape stores|5034=5735|5035=3211|5026=1|
+5033=Musical instrument stores|5034=5736|5035=3211|5026=1|
+5033=Eating places|5034=5812|5035=3211|5026=1|
+5033=Drinking places|5034=5813|5035=3211|5026=1|
+5033=Drug stores & proprietary stores|5034=5912|5035=3211|5026=1|
+5033=Liquor stores|5034=5921|5035=3211|5026=1|
+5033=Used merchandise stores|5034=5932|5035=3211|5026=1|
+5033=Sporting goods & bicycle shops|5034=5941|5035=3211|5026=1|
+5033=Book stores|5034=5942|5035=3211|5026=1|
+5033=Stationery stores|5034=5943|5035=3211|5026=1|
+5033=Jewelry stores|5034=5944|5035=3211|5026=1|
+5033=Hobby, toy, & game shops|5034=5945|5035=3211|5026=1|
+5033=Camera & photographic supply stores|5034=5946|5035=3211|5026=1|
+5033=Gift, novelty, & souvenir shops|5034=5947|5035=3211|5026=1|
+5033=Luggage & leather goods stores|5034=5948|5035=3211|5026=1|
+5033=Sewing, needlework, & piece goods|5034=5949|5035=3211|5026=1|
+5033=Catalog & mail-order houses|5034=5961|5035=3211|5026=1|
+5033=Merchandising machine operators|5034=5962|5035=3211|5026=1|
+5033=Direct selling establishments|5034=5963|5035=3211|5026=1|
+5033=Fuel oil dealers|5034=5983|5035=3211|5026=1|
+5033=Liquefied petroleum gas dealers|5034=5984|5035=3211|5026=1|
+5033=Fuel dealers, not elsewhere classified|5034=5989|5035=3211|5026=1|
+5033=Florists|5034=5992|5035=3211|5026=1|
+5033=Tobacco stores & stands|5034=5993|5035=3211|5026=1|
+5033=News dealers & newsstands|5034=5994|5035=3211|5026=1|
+5033=Optical goods stores|5034=5995|5035=3211|5026=1|
+5033=Miscellaneous retail stores, not elsewhere classified|5034=5999|5035=3211|5026=1|
+5033=Federal reserve banks|5034=6011|5035=3211|5026=1|
+5033=Central reserve depository, not elsewhere classified|5034=6019|5035=3211|5026=1|
+5033=National commercial banks|5034=6021|5035=3211|5026=1|
+5033=State commercial banks|5034=6022|5035=3211|5026=1|
+5033=Commercial banks, not elsewhere classified|5034=6029|5035=3211|5026=1|
+5033=Federal savings institutions|5034=6035|5035=3211|5026=1|
+5033=Savings institutions, except federal|5034=6036|5035=3211|5026=1|
+5033=Federal credit unions|5034=6061|5035=3211|5026=1|
+5033=State credit unions|5034=6062|5035=3211|5026=1|
+5033=Foreign bank & branches & agencies|5034=6081|5035=3211|5026=1|
+5033=Foreign trade & international banks|5034=6082|5035=3211|5026=1|
+5033=Nondeposit trust facilities|5034=6091|5035=3211|5026=1|
+5033=Functions related to deposit banking|5034=6099|5035=3211|5026=1|
+5033=Federal & federally-sponsored credit|5034=6111|5035=3211|5026=1|
+5033=Personal credit institutions|5034=6141|5035=3211|5026=1|
+5033=Short-term business credit|5034=6153|5035=3211|5026=1|
+5033=Miscellaneous business credit institutions|5034=6159|5035=3211|5026=1|
+5033=Mortgage bankers & correspondents|5034=6162|5035=3211|5026=1|
+5033=Loan brokers|5034=6163|5035=3211|5026=1|
+5033=Security brokers & dealers|5034=6211|5035=3211|5026=1|
+5033=Commodity contracts brokers, dealers|5034=6221|5035=3211|5026=1|
+5033=Security & commodity exchanges|5034=6231|5035=3211|5026=1|
+5033=Investment advice|5034=6282|5035=3211|5026=1|
+5033=Security & commodity services, not elsewhere classified|5034=6289|5035=3211|5026=1|
+5033=Life insurance|5034=6311|5035=3211|5026=1|
+5033=Accident & health insurance|5034=6321|5035=3211|5026=1|
+5033=Hospital & medical service plans|5034=6324|5035=3211|5026=1|
+5033=Fire, marine, & casualty insurance|5034=6331|5035=3211|5026=1|
+5033=Surety insurance|5034=6351|5035=3211|5026=1|
+5033=Title insurance|5034=6361|5035=3211|5026=1|
+5033=Pension, health, & welfare funds|5034=6371|5035=3211|5026=1|
+5033=Insurance carriers, not elsewhere classified|5034=6399|5035=3211|5026=1|
+5033=Insurance agents, brokers, & service|5034=6411|5035=3211|5026=1|
+5033=Nonresidential building operators|5034=6512|5035=3211|5026=1|
+5033=Apartment building operators|5034=6513|5035=3211|5026=1|
+5033=Dwelling operators, except apartments|5034=6514|5035=3211|5026=1|
+5033=Mobile home site operators|5034=6515|5035=3211|5026=1|
+5033=Railroad property lessors|5034=6517|5035=3211|5026=1|
+5033=Real property lessors, not elsewhere classified|5034=6519|5035=3211|5026=1|
+5033=Real estate agents & managers|5034=6531|5035=3211|5026=1|
+5033=Title abstract offices|5034=6541|5035=3211|5026=1|
+5033=Subdividers & developers, not elsewhere classified|5034=6552|5035=3211|5026=1|
+5033=Cemetery subdividers & developers|5034=6553|5035=3211|5026=1|
+5033=Bank holding companies|5034=6712|5035=3211|5026=1|
+5033=Holding companies, not elsewhere classified|5034=6719|5035=3211|5026=1|
+5033=Management investment, open-end|5034=6722|5035=3211|5026=1|
+5033=Investment offices, not elsewhere classified|5034=6726|5035=3211|5026=1|
+5033=Educational, religious, etc. trusts|5034=6732|5035=3211|5026=1|
+5033=Trusts, not elsewhere classified|5034=6733|5035=3211|5026=1|
+5033=Oil royalty traders|5034=6792|5035=3211|5026=1|
+5033=Patent owners & lessors|5034=6794|5035=3211|5026=1|
+5033=Real estate investment trusts|5034=6798|5035=3211|5026=1|
+5033=Investors, not elsewhere classified|5034=6799|5035=3211|5026=1|
+5033=Hotels & motels|5034=7011|5035=3211|5026=1|
+5033=Rooming & boarding houses|5034=7021|5035=3211|5026=1|
+5033=Sporting & recreational camps|5034=7032|5035=3211|5026=1|
+5033=Trailer parks & campsites|5034=7033|5035=3211|5026=1|
+5033=Membership-basis organization hotels|5034=7041|5035=3211|5026=1|
+5033=Power laundries, family & commercial|5034=7211|5035=3211|5026=1|
+5033=Garment pressing & cleaners' agents|5034=7212|5035=3211|5026=1|
+5033=Linen supply|5034=7213|5035=3211|5026=1|
+5033=Coin-operated laundries & cleaning|5034=7215|5035=3211|5026=1|
+5033=Drycleaning plants, except rug|5034=7216|5035=3211|5026=1|
+5033=Carpet & upholstery cleaning|5034=7217|5035=3211|5026=1|
+5033=Industrial launderers|5034=7218|5035=3211|5026=1|
+5033=Laundry & garment services, not elsewhere classified|5034=7219|5035=3211|5026=1|
+5033=Photographic studios, portrait|5034=7221|5035=3211|5026=1|
+5033=Beauty shops|5034=7231|5035=3211|5026=1|
+5033=Barber shops|5034=7241|5035=3211|5026=1|
+5033=Shoe repair & shoeshine parlors|5034=7251|5035=3211|5026=1|
+5033=Funeral service & crematories|5034=7261|5035=3211|5026=1|
+5033=Tax return preparation services|5034=7291|5035=3211|5026=1|
+5033=Miscellaneous personal services, not elsewhere classified|5034=7299|5035=3211|5026=1|
+5033=Advertising agencies|5034=7311|5035=3211|5026=1|
+5033=Outdoor advertising services|5034=7312|5035=3211|5026=1|
+5033=Radio, TV, publisher representatives|5034=7313|5035=3211|5026=1|
+5033=Advertising, not elsewhere classified|5034=7319|5035=3211|5026=1|
+5033=Adjustment & collection services|5034=7322|5035=3211|5026=1|
+5033=Credit reporting services|5034=7323|5035=3211|5026=1|
+5033=Direct mail advertising services|5034=7331|5035=3211|5026=1|
+5033=Photocopying & duplicating services|5034=7334|5035=3211|5026=1|
+5033=Commercial photography|5034=7335|5035=3211|5026=1|
+5033=Commercial art & graphic design|5034=7336|5035=3211|5026=1|
+5033=Secretarial & court reporting|5034=7338|5035=3211|5026=1|
+5033=Disinfecting & pest control services|5034=7342|5035=3211|5026=1|
+5033=Building maintenance services, not elsewhere classified|5034=7349|5035=3211|5026=1|
+5033=Medical equipment rental|5034=7352|5035=3211|5026=1|
+5033=Heavy construction equipment rental|5034=7353|5035=3211|5026=1|
+5033=Equipment rental & leasing, not elsewhere classified|5034=7359|5035=3211|5026=1|
+5033=Employment agencies|5034=7361|5035=3211|5026=1|
+5033=Help supply services|5034=7363|5035=3211|5026=1|
+5033=Computer programming services|5034=7371|5035=3211|5026=1|
+5033=Prepackaged software|5034=7372|5035=3211|5026=1|
+5033=Computer integrated systems design|5034=7373|5035=3211|5026=1|
+5033=Data processing & preparation|5034=7374|5035=3211|5026=1|
+5033=Information retrieval services|5034=7375|5035=3211|5026=1|
+5033=Computer facilities management|5034=7376|5035=3211|5026=1|
+5033=Computer rental & leasing|5034=7377|5035=3211|5026=1|
+5033=Computer maintenance & repair|5034=7378|5035=3211|5026=1|
+5033=Computer related services, not elsewhere classified|5034=7379|5035=3211|5026=1|
+5033=Detective & armored car services|5034=7381|5035=3211|5026=1|
+5033=Security systems services|5034=7382|5035=3211|5026=1|
+5033=News syndicates|5034=7383|5035=3211|5026=1|
+5033=Photofinishing laboratories|5034=7384|5035=3211|5026=1|
+5033=Business services, not elsewhere classified|5034=7389|5035=3211|5026=1|
+5033=Truck rental & leasing, no drivers|5034=7513|5035=3211|5026=1|
+5033=Passenger car rental|5034=7514|5035=3211|5026=1|
+5033=Passenger car leasing|5034=7515|5035=3211|5026=1|
+5033=Utility trailer rental|5034=7519|5035=3211|5026=1|
+5033=Automobile parking|5034=7521|5035=3211|5026=1|
+5033=Top & body repair & paint shops|5034=7532|5035=3211|5026=1|
+5033=Auto exhaust system repair shops|5034=7533|5035=3211|5026=1|
+5033=Tire retreading & repair shops|5034=7534|5035=3211|5026=1|
+5033=Automotive glass replacement shops|5034=7536|5035=3211|5026=1|
+5033=Automotive transmission repair shops|5034=7537|5035=3211|5026=1|
+5033=General automotive repair shops|5034=7538|5035=3211|5026=1|
+5033=Automotive repair shops, not elsewhere classified|5034=7539|5035=3211|5026=1|
+5033=Carwashes|5034=7542|5035=3211|5026=1|
+5033=Automotive services, not elsewhere classified|5034=7549|5035=3211|5026=1|
+5033=Radio & television repair|5034=7622|5035=3211|5026=1|
+5033=Refrigeration service & repair|5034=7623|5035=3211|5026=1|
+5033=Electrical repair shops, not elsewhere classified|5034=7629|5035=3211|5026=1|
+5033=Watch, clock, & jewelry repair|5034=7631|5035=3211|5026=1|
+5033=Reupholstery & furniture repair|5034=7641|5035=3211|5026=1|
+5033=Welding repair|5034=7692|5035=3211|5026=1|
+5033=Armature rewinding shops|5034=7694|5035=3211|5026=1|
+5033=Repair services, not elsewhere classified|5034=7699|5035=3211|5026=1|
+5033=Motion picture & video production|5034=7812|5035=3211|5026=1|
+5033=Services allied to motion pictures|5034=7819|5035=3211|5026=1|
+5033=Motion picture & tape distribution|5034=7822|5035=3211|5026=1|
+5033=Motion picture distribution services|5034=7829|5035=3211|5026=1|
+5033=Motion picture theaters, ex drive-in|5034=7832|5035=3211|5026=1|
+5033=Drive-in motion picture theaters|5034=7833|5035=3211|5026=1|
+5033=Video tape rental|5034=7841|5035=3211|5026=1|
+5033=Dance studios, schools, & halls|5034=7911|5035=3211|5026=1|
+5033=Theatrical producers & services|5034=7922|5035=3211|5026=1|
+5033=Entertainers & entertainment groups|5034=7929|5035=3211|5026=1|
+5033=Bowling centers|5034=7933|5035=3211|5026=1|
+5033=Sports clubs, managers, & promoters|5034=7941|5035=3211|5026=1|
+5033=Racing, including track operation|5034=7948|5035=3211|5026=1|
+5033=Physical fitness facilities|5034=7991|5035=3211|5026=1|
+5033=Public golf courses|5034=7992|5035=3211|5026=1|
+5033=Coin-operated amusement devices|5034=7993|5035=3211|5026=1|
+5033=Amusement parks|5034=7996|5035=3211|5026=1|
+5033=Membership sports & recreation clubs|5034=7997|5035=3211|5026=1|
+5033=Amusement & recreation, not elsewhere classified|5034=7999|5035=3211|5026=1|
+5033=Offices & clinics of medical doctors|5034=8011|5035=3211|5026=1|
+5033=Offices & clinics of dentists|5034=8021|5035=3211|5026=1|
+5033=Offices of osteopathic physicians|5034=8031|5035=3211|5026=1|
+5033=Offices & clinics of chiropractors|5034=8041|5035=3211|5026=1|
+5033=Offices & clinics of optometrists|5034=8042|5035=3211|5026=1|
+5033=Offices & clinics of podiatrists|5034=8043|5035=3211|5026=1|
+5033=Offices of health practitioners, not elsewhere classified|5034=8049|5035=3211|5026=1|
+5033=Skilled nursing care facilities|5034=8051|5035=3211|5026=1|
+5033=Intermediate care facilities|5034=8052|5035=3211|5026=1|
+5033=Nursing & personal care, not elsewhere classified|5034=8059|5035=3211|5026=1|
+5033=General medical & surgical hospitals|5034=8062|5035=3211|5026=1|
+5033=Psychiatric hospitals|5034=8063|5035=3211|5026=1|
+5033=Specialty hospitals except psychiatric|5034=8069|5035=3211|5026=1|
+5033=Medical laboratories|5034=8071|5035=3211|5026=1|
+5033=Dental laboratories|5034=8072|5035=3211|5026=1|
+5033=Home health care services|5034=8082|5035=3211|5026=1|
+5033=Kidney dialysis centers|5034=8092|5035=3211|5026=1|
+5033=Specialty outpatient clinics, not elsewhere classified|5034=8093|5035=3211|5026=1|
+5033=Health & allied services, not elsewhere classified|5034=8099|5035=3211|5026=1|
+5033=Legal services|5034=8111|5035=3211|5026=1|
+5033=Elementary & secondary schools|5034=8211|5035=3211|5026=1|
+5033=Colleges & universities|5034=8221|5035=3211|5026=1|
+5033=Junior colleges|5034=8222|5035=3211|5026=1|
+5033=Libraries|5034=8231|5035=3211|5026=1|
+5033=Data processing schools|5034=8243|5035=3211|5026=1|
+5033=Business & secretarial schools|5034=8244|5035=3211|5026=1|
+5033=Vocational schools, not elsewhere classified|5034=8249|5035=3211|5026=1|
+5033=Schools & educational services, not elsewhere classified|5034=8299|5035=3211|5026=1|
+5033=Individual & family services|5034=8322|5035=3211|5026=1|
+5033=Job training & related services|5034=8331|5035=3211|5026=1|
+5033=Child day care services|5034=8351|5035=3211|5026=1|
+5033=Residential care|5034=8361|5035=3211|5026=1|
+5033=Social services, not elsewhere classified|5034=8399|5035=3211|5026=1|
+5033=Museums & art galleries|5034=8412|5035=3211|5026=1|
+5033=Botanical & zoological gardens|5034=8422|5035=3211|5026=1|
+5033=Business associations|5034=8611|5035=3211|5026=1|
+5033=Professional organizations|5034=8621|5035=3211|5026=1|
+5033=Labor organizations|5034=8631|5035=3211|5026=1|
+5033=Civic & social associations|5034=8641|5035=3211|5026=1|
+5033=Political organizations|5034=8651|5035=3211|5026=1|
+5033=Religious organizations|5034=8661|5035=3211|5026=1|
+5033=Membership organizations, not elsewhere classified|5034=8699|5035=3211|5026=1|
+5033=Engineering services|5034=8711|5035=3211|5026=1|
+5033=Architectural services|5034=8712|5035=3211|5026=1|
+5033=Surveying services|5034=8713|5035=3211|5026=1|
+5033=Accounting, auditing, & bookkeeping|5034=8721|5035=3211|5026=1|
+5033=Commercial physical research|5034=8731|5035=3211|5026=1|
+5033=Commercial nonphysical research|5034=8732|5035=3211|5026=1|
+5033=Noncommercial research organizations|5034=8733|5035=3211|5026=1|
+5033=Testing laboratories|5034=8734|5035=3211|5026=1|
+5033=Management services|5034=8741|5035=3211|5026=1|
+5033=Management consulting services|5034=8742|5035=3211|5026=1|
+5033=Public relations services|5034=8743|5035=3211|5026=1|
+5033=Facilities support services|5034=8744|5035=3211|5026=1|
+5033=Business consulting, not elsewhere classified|5034=8748|5035=3211|5026=1|
+5033=Private households|5034=8811|5035=3211|5026=1|
+5033=Services, not elsewhere classified|5034=8999|5035=3211|5026=1|
+5033=Executive offices|5034=9111|5035=3211|5026=1|
+5033=Legislative bodies|5034=9121|5035=3211|5026=1|
+5033=Executive & legislative combined|5034=9131|5035=3211|5026=1|
+5033=General government, not elsewhere classified|5034=9199|5035=3211|5026=1|
+5033=Courts|5034=9211|5035=3211|5026=1|
+5033=Police protection|5034=9221|5035=3211|5026=1|
+5033=Legal counsel & prosecution|5034=9222|5035=3211|5026=1|
+5033=Correctional institutions|5034=9223|5035=3211|5026=1|
+5033=Fire protection|5034=9224|5035=3211|5026=1|
+5033=Public order & safety, not elsewhere classified|5034=9229|5035=3211|5026=1|
+5033=Finance, taxation, & monetary policy|5034=9311|5035=3211|5026=1|
+5033=Administration of educational programs|5034=9411|5035=3211|5026=1|
+5033=Administration of public health programs|5034=9431|5035=3211|5026=1|
+5033=Administration of social & manpower programs|5034=9441|5035=3211|5026=1|
+5033=Administration of veterans' affairs|5034=9451|5035=3211|5026=1|
+5033=Air, water, & solid waste management|5034=9511|5035=3211|5026=1|
+5033=Land, mineral, wildlife conservation|5034=9512|5035=3211|5026=1|
+5033=Housing programs|5034=9531|5035=3211|5026=1|
+5033=Urban & community development|5034=9532|5035=3211|5026=1|
+5033=Administration of general economic programs|5034=9611|5035=3211|5026=1|
+5033=Regulation, administration of transportation|5034=9621|5035=3211|5026=1|
+5033=Regulation, administration of utilities|5034=9631|5035=3211|5026=1|
+5033=Regulation of agricultural marketing|5034=9641|5035=3211|5026=1|
+5033=Regulation of miscellaneous commercial sectors|5034=9651|5035=3211|5026=1|
+5033=Space research & technology|5034=9661|5035=3211|5026=1|
+5033=National security|5034=9711|5035=3211|5026=1|
+5033=International affairs|5034=9721|5035=3211|5026=1|
+5033=Nonclassifiable establishments|5034=9999|5035=3211|5026=1|
+5033=0|5034=100|5035=3213|5026=1|
+5033=1|5034=101|5035=3213|5026=1|
+5033=2|5034=102|5035=3213|5026=1|
+5033=3|5034=103|5035=3213|5026=1|
+5033=4|5034=104|5035=3213|5026=1|
+5033=5|5034=105|5035=3213|5026=1|
+5033=6|5034=106|5035=3213|5026=1|
+5033=7|5034=107|5035=3213|5026=1|
+5033=8|5034=108|5035=3213|5026=1|
+5033=9|5034=109|5035=3213|5026=1|
+5033=10|5034=110|5035=3213|5026=1|
+5033=11|5034=111|5035=3213|5026=1|
+5033=12|5034=112|5035=3213|5026=1|
+5033=13|5034=113|5035=3213|5026=1|
+5033=15|5034=114|5035=3213|5026=1|
+5033=16|5034=115|5035=3213|5026=1|
+5033=17|5034=116|5035=3213|5026=1|
+5033=18|5034=117|5035=3213|5026=1|
+5033=19|5034=118|5035=3213|5026=1|
+5033=20|5034=119|5035=3213|5026=1|
+5033=21|5034=120|5035=3213|5026=1|
+5033=22|5034=121|5035=3213|5026=1|
+5033=23|5034=122|5035=3213|5026=1|
+5033=24|5034=123|5035=3213|5026=1|
+5033=25|5034=124|5035=3213|5026=1|
+5033=30|5034=125|5035=3213|5026=1|
+5033=40|5034=126|5035=3213|5026=1|
+5033=41|5034=127|5035=3213|5026=1|
+5033=51|5034=128|5035=3213|5026=1|
+5033=0|5034=100|5035=3216|5026=1|
+5033=1|5034=101|5035=3216|5026=1|
+5033=2|5034=102|5035=3216|5026=1|
+5033=3|5034=103|5035=3216|5026=1|
+5033=4|5034=104|5035=3216|5026=1|
+5033=5|5034=105|5035=3216|5026=1|
+5033=6|5034=106|5035=3216|5026=1|
+5033=7|5034=107|5035=3216|5026=1|
+5033=8|5034=108|5035=3216|5026=1|
+5033=9|5034=109|5035=3216|5026=1|
+5033=A|5034=110|5035=3216|5026=1|
+5033=B|5034=111|5035=3216|5026=1|
+5033=C|5034=112|5035=3216|5026=1|
+5033=D|5034=113|5035=3216|5026=1|
+5033=E|5034=114|5035=3216|5026=1|
+5033=F|5034=115|5035=3216|5026=1|
+5033=Nasdaq National Market|5034=1|5035=3669|5026=1|
+5033=Small Caps Market|5034=2|5035=3669|5026=1|
+5033=Over-The-Counter|5034=3|5035=3669|5026=1|
+5033=Over-The-Counter Bulletin Board|5034=4|5035=3669|5026=1|
+5033=NASDAQ Global Select Market|5034=5|5035=3669|5026=1|
+5033=NASDAQ Global Market|5034=6|5035=3669|5026=1|
+5033=NASDAQ Capital Market|5034=7|5035=3669|5026=1|
+5033=ERR_PLUSSVR_CONTINUE|5034=-999|5035=5025|5026=1|
+5033=ERR_PLUSSVR_HOST_NOT_AVAILABLE|5034=-219|5035=5025|5026=1|
+5033=ERR_PLUSSVR_HOST_BUSY|5034=-218|5035=5025|5026=1|
+5033=ERR_PLUSSVR_HOST_ERROR|5034=-217|5035=5025|5026=1|
+5033=ERR_INVALID_TIME_RANGE_SPECIFIED|5034=-216|5035=5025|5026=1|
+5033=ERR_INTL_QUERY_INTERVAL_1|5034=-215|5035=5025|5026=1|
+5033=ERR.REGEXP.SYNTAX|5034=-214|5035=5025|5026=1|
+5033=ERR.TRID.CANCEL.FAILED|5034=-213|5035=5025|5026=1|
+5033=ERR_API_BAD_ALLOC|5034=-212|5035=5025|5026=1|
+5033=ERR_TRID_CANNOT_OPEN_PROXY_154	|5034=-211|5035=5025|5026=1|
+5033=ERR_FORCEFEED_PROXY_153|5034=-210|5035=5025|5026=1|
+5033=ERR_REQ_CSPID_PROXY_152|5034=-209|5035=5025|5026=1|
+5033=ERR_AUTH_NOCSP_PROXY_151|5034=-208|5035=5025|5026=1|
+5033=ERR_AUTH_ADMIN_PROXY_150|5034=-207|5035=5025|5026=1|
+5033=ERR_BACKWARD_TIME|5034=-206|5035=5025|5026=1|
+5033=ERR_BAD_RECORD_TYPE|5034=-205|5035=5025|5026=1|
+5033=ERR_BAD_COUNT|5034=-204|5035=5025|5026=1|
+5033=ERR_NO_DATA_FOUND_2|5034=-203|5035=5025|5026=1|
+5033=ERR_NO_DATA_FOUND_1|5034=-202|5035=5025|5026=1|
+5033=ERR_REQ_NONADMIN_PROXY_149|5034=-201|5035=5025|5026=1|
+5033=ERR_REQ_SYMBOL_PROXY_148|5034=-200|5035=5025|5026=1|
+5033=ERR_REQ_SRCID_PROXY_147|5034=-199|5035=5025|5026=1|
+5033=ERR_PARAM_USERNAME_PROXY_146|5034=-198|5035=5025|5026=1|
+5033=ERR_DISCONN_USERNAME_PROXY_145|5034=-197|5035=5025|5026=1|
+5033=ERR_STATS_USERNAME_PROXY_144|5034=-196|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_143|5034=-195|5035=5025|5026=1|
+5033=ERR_MSG_MISSING_VERSION|5034=-194|5035=5025|5026=1|
+5033=ERR_TRID_NOTSUBSCRIPTION|5034=-192|5035=5025|5026=1|
+5033=ERR_INTL_DB_15|5034=-191|5035=5025|5026=1|
+5033=ERR_INTL_DB_14|5034=-190|5035=5025|5026=1|
+5033=ERR_INTL_DB_13|5034=-189|5035=5025|5026=1|
+5033=ERR_INTL_DB_12|5034=-188|5035=5025|5026=1|
+5033=ERR_INTL_DB_11|5034=-187|5035=5025|5026=1|
+5033=ERR_INTL_DB_10|5034=-186|5035=5025|5026=1|
+5033=ERR_INTL_DB_8|5034=-184|5035=5025|5026=1|
+5033=ERR_INTL_DB_7|5034=-183|5035=5025|5026=1|
+5033=ERR_NO_DATA_FOUND|5034=-182|5035=5025|5026=1|
+5033=ERR_REQ_CONFIG_1|5034=-181|5035=5025|5026=1|
+5033=ERR_PARAM_MISSING_2|5034=-180|5035=5025|5026=1|
+5033=ERR_INTL_DB_6|5034=-179|5035=5025|5026=1|
+5033=ERR_INTL_DB_5|5034=-178|5035=5025|5026=1|
+5033=ERR_INTL_DB_4|5034=-177|5035=5025|5026=1|
+5033=ERR_INTL_DB_3|5034=-176|5035=5025|5026=1|
+5033=ERR_AUTH_REQ_1|5034=-175|5035=5025|5026=1|
+5033=ERR_INTL_DB_2|5034=-174|5035=5025|5026=1|
+5033=ERR_INTL_DB_1|5034=-173|5035=5025|5026=1|
+5033=ERR_PARAM_MISSING_1|5034=-172|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_142|5034=-171|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_141|5034=-170|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_140|5034=-169|5035=5025|5026=1|
+5033=ERR_INTL_TEMP_PROXY_139|5034=-168|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_138|5034=-167|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_137|5034=-166|5035=5025|5026=1|
+5033=ERR_REQ_ENUMSRCID_PROXY_136|5034=-165|5035=5025|5026=1|
+5033=ERR_REQ_QRYCMD_PROXY_135|5034=-164|5035=5025|5026=1|
+5033=ERR_REQ_TOTOPIC_PROXY_134|5034=-163|5035=5025|5026=1|
+5033=ERR_REQ_TOTOPIC_PROXY_132|5034=-161|5035=5025|5026=1|
+5033=ERR_REQ_QRYTAG_PROXY_130|5034=-159|5035=5025|5026=1|
+5033=ERR_REQ_QRYID_PROXY_128|5034=-157|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_127|5034=-156|5035=5025|5026=1|
+5033=ERR_AUTH_TIMEOUT_PROXY_126|5034=-155|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_125|5034=-154|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_124|5034=-153|5035=5025|5026=1|
+5033=ERR_REQ_TOTOPIC_PROXY_123|5034=-152|5035=5025|5026=1|
+5033=ERR_REQ_CANCELID_PROXY_122|5034=-151|5035=5025|5026=1|
+5033=ERR_REQ_TOTOPIC_PROXY_121|5034=-150|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_120|5034=-149|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_119|5034=-148|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_118|5034=-147|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_117|5034=-146|5035=5025|5026=1|
+5033=ERR_REQ_QRYCMD_PROXY_116|5034=-145|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_115|5034=-144|5035=5025|5026=1|
+5033=ERR_INTL_PROXY_114|5034=-143|5035=5025|5026=1|
+5033=ERR_REQ_PWD_PROXY_113|5034=-142|5035=5025|5026=1|
+5033=ERR_REQ_USER_PROXY_112|5034=-141|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_111|5034=-140|5035=5025|5026=1|
+5033=ERR_AUTH_TWICE_PROXY_110|5034=-139|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_109|5034=-138|5035=5025|5026=1|
+5033=ERR_AUTH_LOGIN_PROXY_108|5034=-137|5035=5025|5026=1|
+5033=ERR_AUTH_LOGIN_PROXY_107|5034=-136|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_106|5034=-135|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_105|5034=-134|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_OS_PROXY_104|5034=-133|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_OS_PROXY_103|5034=-132|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_102|5034=-131|5035=5025|5026=1|
+5033=ERR_AUTH_INTL_PROXY_101|5034=-130|5035=5025|5026=1|
+5033=ERR_CLIENT_TRID_NOTOPEN|5034=-128|5035=5025|5026=1|
+5033=ERR_SVC_FULLQUEUE|5034=-127|5035=5025|5026=1|
+5033=ERR_API_SOCKET_READ|5034=-122|5035=5025|5026=1|
+5033=ERR_API_RECEIVE_EXCEPTION|5034=-120|5035=5025|5026=1|
+5033=ERR.API.CNX.EXCEPTION|5034=-119|5035=5025|5026=1|
+5033=ERR_API_EXCEPTION|5034=-118|5035=5025|5026=1|
+5033=ERR_MSG_MISSING_STATUS|5034=-117|5035=5025|5026=1|
+5033=ERR_CNX_DISCONNECT|5034=-116|5035=5025|5026=1|
+5033=ERR_CNX_PARAM_PORT|5034=-115|5035=5025|5026=1|
+5033=ERR_CNX_PARAM_PASSWORD|5034=-114|5035=5025|5026=1|
+5033=ERR_CNX_PARAM_USER|5034=-113|5035=5025|5026=1|
+5033=ERR_CNX_CANNOTOPEN|5034=-112|5035=5025|5026=1|
+5033=ERR_DICT_FILE_PARSE|5034=-110|5035=5025|5026=1|
+5033=ERR_DICT_FILE_OPEN|5034=-109|5035=5025|5026=1|
+5033=ERR_DICT_UPDATE_NAME|5034=-108|5035=5025|5026=1|
+5033=ERR_DICT_UPDATE_TYPE|5034=-107|5035=5025|5026=1|
+5033=ERR_DICT_UPDATE_ALLOC|5034=-106|5035=5025|5026=1|
+5033=ERR_MSG_MISSING_TO_TOPIC|5034=-103|5035=5025|5026=1|
+5033=ERR_MSG_MISSING_FROM_ID|5034=-102|5035=5025|5026=1|
+5033=ERR_CNX_SHARED_MEMORY_MAP|5034=-101|5035=5025|5026=1|
+5033=ERR_CNX_SHARED_MEMORY_ID|5034=-100|5035=5025|5026=1|
+5033=ERR_CNX_BUS_CONFIG|5034=-99|5035=5025|5026=1|
+5033=ERR_CNX_BUS_CANNOT_OPEN_SESSION|5034=-98|5035=5025|5026=1|
+5033=ERR_CNX_BUS_NOCNXSERVER|5034=-97|5035=5025|5026=1|
+5033=ERR_CNX_BUS_NOTFOUND|5034=-96|5035=5025|5026=1|
+5033=ERR_CNX_NOTCLOSED|5034=-95|5035=5025|5026=1|
+5033=ERR_CNX_NOTOPEN|5034=-94|5035=5025|5026=1|
+5033=ERR_TRID_NOTOPEN|5034=-92|5035=5025|5026=1|
+5033=ERR_TRID_ID_FUTURISTIC|5034=-91|5035=5025|5026=1|
+5033=ERR_TRID_ID_REALLOCATED|5034=-90|5035=5025|5026=1|
+5033=ERR_TRID_ID_CORRUPT|5034=-89|5035=5025|5026=1|
+5033=ERR_TRID_CLOSED_BY_CNX|5034=-88|5035=5025|5026=1|
+5033=ERR_MSG_ID_CORRUPT|5034=-82|5035=5025|5026=1|
+5033=ERR_MSG_ID_REALLOCATED|5034=-80|5035=5025|5026=1|
+5033=ERR_MSG_ID_INVALID|5034=-79|5035=5025|5026=1|
+5033=ERR_TRID_TIMEOUT|5034=-77|5035=5025|5026=1|
+5033=ERR_TRID_ID|5034=-75|5035=5025|5026=1|
+5033=ERR_TRID_CANNOTOPEN|5034=-71|5035=5025|5026=1|
+5033=ERR_TRID_CANCEL|5034=-70|5035=5025|5026=1|
+5033=ERR_TOPIC_NOTSUBSCRIBED|5034=-68|5035=5025|5026=1|
+5033=ERRTOPIC_NOTSPECIFIED|5034=-67|5035=5025|5026=1|
+5033=ERR_TOPIC_NOTREGISTERED|5034=-66|5035=5025|5026=1|
+5033=ERR_TOPIC_NOTFOUND|5034=-65|5035=5025|5026=1|
+5033=ERR_TOPIC_FORMAT|5034=-63|5035=5025|5026=1|
+5033=ERR_TOPIC_EXISTS|5034=-62|5035=5025|5026=1|
+5033=ERR.TOKEN.COUNT|5034=-61|5035=5025|5026=1|
+5033=ERR_SVC|5034=-55|5035=5025|5026=1|
+5033=ERR_REQ_OS|5034=-50|5035=5025|5026=1|
+5033=ERR_REQ_INVALID|5034=-46|5035=5025|5026=1|
+5033=ERR_REQ_GENERIC|5034=-43|5035=5025|5026=1|
+5033=ERR_PARAM_MISSING|5034=-36|5035=5025|5026=1|
+5033=ERR.PARAM.BOUNDARY|5034=-33|5035=5025|5026=1|
+5033=ERR_MSG_FORMAT|5034=-31|5035=5025|5026=1|
+5033=ERR.EXIST.TOKEN|5034=-24|5035=5025|5026=1|
+5033=ERR_AUTH_TOPIC_SUBSUBSCRIBE|5034=-19|5035=5025|5026=1|
+5033=ERR_AUTH_TOPIC_SUBSCRIBE|5034=-18|5035=5025|5026=1|
+5033=ERR_AUTH_TOPIC_PUBLISH|5034=-15|5035=5025|5026=1|
+5033=ERR.AUTH.TOKEN|5034=-14|5035=5025|5026=1|
+5033=ERR_AUTH_REQ_SYS|5034=-13|5035=5025|5026=1|
+5033=ERR_AUTH_REQ|5034=-12|5035=5025|5026=1|
+5033=ERR.AUTH.LOGIN.COUNT|5034=-6|5035=5025|5026=1|
+5033=ERR.AUTH.LOGIN|5034=-5|5035=5025|5026=1|
+5033=ERR_AUTH|5034=-3|5035=5025|5026=1|
+5033=ERR|5034=-1|5035=5025|5026=1|
+5033=OK|5034=0|5035=5025|5026=1|
+5033=NO_MORE_MSGS|5034=9|5035=5025|5026=1|
+5033=WARN_MSG_DROPS|5034=10|5035=5025|5026=1|
+5033=SUBSCRIPTION_OPEN|5034=11|5035=5025|5026=1|
+5033=MORE_COMMING|5034=12|5035=5025|5026=1|
+5033=WARN_INCOMPLETE_PERM_RESP|5034=13|5035=5025|5026=1|
+5033=WARN_NO_DATA_FOUND|5034=14|5035=5025|5026=1|
+5033=WARN_API_RECEIVE_INTERRUPTED|5034=15|5035=5025|5026=1|
+5033=WARN_NOTIFICATION_DROPS|5034=16|5035=5025|5026=1|
+5033=2008-03-19 23:29:44|5034=0|5035=5051|5026=1|

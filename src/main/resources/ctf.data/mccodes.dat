@@ -1,0 +1,35 @@
+#AmEx
+a=AMEX
+
+#Boston
+b=BSTX
+
+#National (Cincinnati)
+c=CINN
+
+#Chicago Stock Exch
+m=CHXE
+
+#NYSE
+n=NYSE
+
+#Arca (Pacific)
+p=ARCA
+
+#NASDAQ (regional)
+t=NSDQ
+
+#Chicago Board of Options
+w=CBOE
+
+#Philadelphia
+x=PHLX
+
+#NYSE Ð International Securities Exchange
+i=NISE
+
+#NYSE Ð NASD ADF
+d=NASD
+
+#BATS
+z=BATS
